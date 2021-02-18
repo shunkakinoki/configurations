@@ -12,7 +12,10 @@ jobs:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v1
         with:
+          always-auth: false
           node-version: "12"
+          registry-url: https://registry.npmjs.org
+          scope: "@shunkakinoki"
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
       - uses: actions/cache@v2
