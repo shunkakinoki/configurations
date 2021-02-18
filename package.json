@@ -22,8 +22,8 @@
     "lint": "yarn run jsonsort:check && yarn run sort-package-json:check && yarn run prettier:check",
     "ncu:check": "ncu --deep -p yarn",
     "ncu:upgrade": "ncu --deep -u -p yarn",
-    "prettier:check": "prettier --check **/*.{js}",
-    "prettier:fix": "prettier --write **/*.{js}",
+    "prettier:check": "prettier --check **/* --ignore-unknown",
+    "prettier:fix": "prettier --write **/* --ignore-unknown",
     "release": "semantic-release",
     "release:check": "semantic-release -d",
     "sort-package-json:check": "sort-package-json 'package.json' 'packages/*/package.json' --check",
@@ -36,6 +36,7 @@
     "json-sort-cli": "^1.18.5",
     "lerna": "^3.22.1",
     "npm-check-updates": "^11.1.4",
+    "prettier": "^2.2.1",
     "sort-package-json": "^1.48.1"
   }
 }
