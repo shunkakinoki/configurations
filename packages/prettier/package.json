@@ -1,7 +1,7 @@
 {
   "name": "@shunkakinoki/prettier",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
   "homepage": "https://github.com/shunkakinoki/configurations",
   "repository": {
     "type": "git",
