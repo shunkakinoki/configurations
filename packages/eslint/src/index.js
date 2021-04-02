@@ -13,18 +13,22 @@ module.exports = {
     "plugin:jsx-a11y/recommended",
     "plugin:react/recommended",
     "plugin:react-hooks/recommended",
-    "plugin:tailwind/recommended",
     "plugin:@typescript-eslint/eslint-recommended",
     "plugin:@typescript-eslint/recommended",
     "plugin:@typescript-eslint/recommended-requiring-type-checking",
-    "prettier/@typescript-eslint",
     "prettier",
-    "prettier/react",
   ],
-  ignorePatterns: ["**/node_modules/**/*", "**/.next/**/*"],
+  ignorePatterns: ["**/.next/**", "**/eslint/**", "**/node_modules/**"],
   overrides: [
     {
       files: ["*.js", "*.jsx"],
+      rules: {
+        "@typescript-eslint/no-unsafe-assignment": "off",
+        "@typescript-eslint/no-unsafe-call": "off",
+        "@typescript-eslint/no-unsafe-member-access": "off",
+        "@typescript-eslint/no-unsafe-return": "off",
+        "@typescript-eslint/no-var-requires": "off",
+      },
     },
   ],
   parser: "@typescript-eslint/parser",
@@ -40,43 +44,55 @@ module.exports = {
   plugins: ["@typescript-eslint"],
   root: true,
   rules: {
-    "@typescript-eslint/no-explicit-any": 0,
+    "@typescript-eslint/consistent-type-imports": "error",
+    "@typescript-eslint/explicit-module-boundary-types": "off",
+    "@typescript-eslint/no-unsafe-assignment": "off",
+    "@typescript-eslint/no-unsafe-member-access": "off",
+    "@typescript-eslint/no-unsafe-return": "off",
+    "@typescript-eslint/restrict-template-expressions": "off",
+    "import/newline-after-import": "error",
     "import/order": [
       "error",
       {
         alphabetize: {
+          caseInsensitive: false,
           order: "asc",
-          caseInsensitive: true,
         },
+        "newlines-between": "always-and-inside-groups",
         pathGroups: [
           {
-            pattern: "@/**",
             group: "internal",
+            pattern: "@shunkakinoki/**",
+            position: "after",
+          },
+          {
+            group: "internal",
+            pattern: "@/**",
             position: "after",
           },
         ],
-        "newlines-between": "always-and-inside-groups",
+      },
+    ],
+    "no-restricted-imports": [
+      "error",
+      {
+        patterns: ["../"],
       },
     ],
     "react/jsx-sort-props": [
       "error",
       {
         callbacksLast: true,
-        shorthandFirst: true,
-        shorthandLast: true,
         ignoreCase: true,
         noSortAlphabetically: true,
         reservedFirst: true,
+        shorthandFirst: true,
+        shorthandLast: true,
       },
     ],
-    "react/react-in-jsx-scope": 0,
-    "react/self-closing-comp": 1,
-    "sort-keys": [
-      "error",
-      "asc",
-      {caseSensitive: true, natural: true, minKeys: 2},
-    ],
-    "sort-vars": ["error", {ignoreCase: true}],
+    "react/prop-types": "off",
+    "react/react-in-jsx-scope": "off",
+    "react/self-closing-comp": "error",
   },
   settings: {
     "import/parsers": {
@@ -84,7 +100,13 @@ module.exports = {
     },
     "import/resolver": {
       typescript: {
-        project: "packages/*/tsconfig.json",
+        project: [
+          "apps/*/tsconfig.json",
+          "components/*/tsconfig.json",
+          "configurations/*/tsconfig.json",
+          "libs/*/tsconfig.json",
+          "packages/*/tsconfig.json",
+        ],
       },
     },
     react: {

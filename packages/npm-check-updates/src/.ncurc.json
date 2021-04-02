@@ -1,0 +1,4 @@
+{
+  "reject": ["react", "react-dom"],
+  "upgrade": true
+}

@@ -1,6 +1,6 @@
 {
-  "name": "@shunkakinoki/prettier",
-  "version": "1.3.0",
+  "name": "@shunkakinoki/dev",
+  "version": "1.0.0",
   "private": false,
   "homepage": "https://github.com/sentrei/sentrei",
   "bugs": {
@@ -20,10 +20,11 @@
     "fix": "cd ../.. && yarn run fix"
   },
   "dependencies": {
-    "prettier": "^2.2.1",
-    "prettier-plugin-packagejson": "^2.2.10",
-    "prettier-plugin-sort-json": "^0.0.2"
+    "concurrently": "^6.0.0",
+    "multi-semantic-release": "^2.8.0",
+    "sort-package-json": "^1.49.0"
   },
+  "devDependencies": {},
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"

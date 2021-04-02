@@ -1,0 +1,4 @@
+{
+  "ignores": ["commitizen", "git-cz", "husky"],
+  "skip-missing": true
+}

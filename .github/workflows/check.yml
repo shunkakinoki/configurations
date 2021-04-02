@@ -1,7 +1,7 @@
-name: Yarn
+name: Check
 on: pull_request
 jobs:
-  yarn:
+  check:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -11,7 +11,9 @@ jobs:
       - uses: actions/cache@v2
         with:
           path: |
-            **/node_modules
+            ~/.npm
+            node_modules
+            */*/node_modules
           key: |
             yarn-v1-${{ runner.os }}-${{ hashFiles('**/yarn.lock') }}
           restore-keys: |

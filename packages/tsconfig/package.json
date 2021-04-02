@@ -1,6 +1,6 @@
 {
-  "name": "@shunkakinoki/prettier",
-  "version": "1.3.0",
+  "name": "@shunkakinoki/tsconfig",
+  "version": "1.4.0",
   "private": false,
   "homepage": "https://github.com/sentrei/sentrei",
   "bugs": {
@@ -12,17 +12,15 @@
   },
   "license": "MIT",
   "author": "Shun Kakinoki",
-  "main": "src/index.js",
+  "main": "tsconfig.json",
   "files": [
-    "src/index.js"
+    "tsconfig.json"
   ],
   "scripts": {
     "fix": "cd ../.. && yarn run fix"
   },
   "dependencies": {
-    "prettier": "^2.2.1",
-    "prettier-plugin-packagejson": "^2.2.10",
-    "prettier-plugin-sort-json": "^0.0.2"
+    "typescript": "^4.2.3"
   },
   "publishConfig": {
     "access": "public",

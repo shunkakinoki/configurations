@@ -1,0 +1,3 @@
+{
+  "ignores": ["concurrently", "multi-semantic-release", "sort-package-json"]
+}
