@@ -2,13 +2,13 @@
   "name": "@shunkakinoki/depcheck",
   "version": "1.4.0",
   "private": false,
-  "homepage": "https://github.com/sentrei/sentrei",
+  "homepage": "https://github.com/shunkakinoki/configurations",
   "bugs": {
-    "url": "https://github.com/sentrei/sentrei/issues"
+    "url": "https://github.com/shunkakinoki/configurations/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sentrei/sentrei.git"
+    "url": "https://github.com/shunkakinoki/configurations.git"
   },
   "license": "MIT",
   "author": "Shun Kakinoki",
