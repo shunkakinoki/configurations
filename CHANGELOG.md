@@ -1,3 +1,9 @@
+# [1.1.0](https://github.com/shunkakinoki/configurations/compare/v1.0.2...v1.1.0) (2021-04-02)
+
+### Features
+
+- complete upgrade configurations ([478d8db](https://github.com/shunkakinoki/configurations/commit/478d8db3afc1157e242d47bc9439256b18849952))
+
 ## [1.0.2](https://github.com/shunkakinoki/configurations/compare/v1.0.1...v1.0.2) (2021-02-18)
 
 ### Performance Improvements
