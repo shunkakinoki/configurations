@@ -2,7 +2,7 @@
   "compileOnSave": true,
   "compilerOptions": {
     "allowJs": true,
-    "allowSyntheticDefaultImports": false,
+    "allowSyntheticDefaultImports": true,
     "declaration": true,
     "declarationMap": true,
     "esModuleInterop": true,
