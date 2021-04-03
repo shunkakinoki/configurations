@@ -1,3 +1,9 @@
+## [1.1.2](https://github.com/shunkakinoki/configurations/compare/v1.1.1...v1.1.2) (2021-04-03)
+
+### Performance Improvements
+
+- refactor allowSyntheticDefaultImports true ([8f0836d](https://github.com/shunkakinoki/configurations/commit/8f0836d49e88ab56ad436d82168a2e7e9e42f4ad))
+
 ## [1.1.1](https://github.com/shunkakinoki/configurations/compare/v1.1.0...v1.1.1) (2021-04-03)
 
 ### Performance Improvements
