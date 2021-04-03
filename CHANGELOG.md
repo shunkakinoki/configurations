@@ -1,3 +1,9 @@
+## [1.1.1](https://github.com/shunkakinoki/configurations/compare/v1.1.0...v1.1.1) (2021-04-03)
+
+### Performance Improvements
+
+- updeate typescript config ([c0779f8](https://github.com/shunkakinoki/configurations/commit/c0779f814af81811ecd34feeea271bad1dd79096))
+
 # [1.1.0](https://github.com/shunkakinoki/configurations/compare/v1.0.2...v1.1.0) (2021-04-02)
 
 ### Features
