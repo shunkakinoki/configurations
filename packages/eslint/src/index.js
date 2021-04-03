@@ -100,13 +100,7 @@ module.exports = {
     },
     "import/resolver": {
       typescript: {
-        project: [
-          "apps/*/tsconfig.json",
-          "components/*/tsconfig.json",
-          "configurations/*/tsconfig.json",
-          "libs/*/tsconfig.json",
-          "packages/*/tsconfig.json",
-        ],
+        project: "tsconfig.json",
       },
     },
     react: {
