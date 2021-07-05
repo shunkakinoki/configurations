@@ -1,0 +1,6 @@
+pull_request_rules:
+  - conditions:
+      - author=renovate[bot]
+    actions:
+      merge:
+        method: merge
