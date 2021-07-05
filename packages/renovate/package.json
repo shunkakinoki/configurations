@@ -13,10 +13,6 @@
   "license": "MIT",
   "author": "Shun Kakinoki",
   "main": "src/index.js",
-  "files": [
-    "src/index.js",
-    "renovate.json"
-  ],
   "scripts": {
     "fix": "cd ../.. && yarn run fix"
   },
