@@ -1,3 +1,9 @@
+## [1.2.3](https://github.com/shunkakinoki/configurations/compare/v1.2.2...v1.2.3) (2021-07-05)
+
+### Performance Improvements
+
+- refactor renovate config ([1ea60e5](https://github.com/shunkakinoki/configurations/commit/1ea60e56db328cfeb7094bb4559808a5b899f49f))
+
 ## [1.2.2](https://github.com/shunkakinoki/configurations/compare/v1.2.1...v1.2.2) (2021-07-05)
 
 ### Performance Improvements
