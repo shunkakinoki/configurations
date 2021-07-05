@@ -1,3 +1,9 @@
+# [1.2.0](https://github.com/shunkakinoki/configurations/compare/v1.1.2...v1.2.0) (2021-07-05)
+
+### Features
+
+- ini renovate app ([b9b1505](https://github.com/shunkakinoki/configurations/commit/b9b15057e7a31b010aa1979dc5910555bda7ea04))
+
 ## [1.1.2](https://github.com/shunkakinoki/configurations/compare/v1.1.1...v1.1.2) (2021-04-03)
 
 ### Performance Improvements
