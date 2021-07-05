@@ -1,3 +1,9 @@
+## @shunkakinoki/eslint-config [1.0.2](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/eslint-config@1.0.1...@shunkakinoki/eslint-config@1.0.2) (2021-07-05)
+
+### Bug Fixes
+
+- **deps:** update dependency eslint to ^7.30.0 ([1bdd9ad](https://github.com/shunkakinoki/configurations/commit/1bdd9ad2b592813e85aec9e4adac42fbff7bf9b1))
+
 ## @shunkakinoki/eslint-config [1.0.1](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/eslint-config@1.0.0...@shunkakinoki/eslint-config@1.0.1) (2021-04-03)
 
 ### Performance Improvements
