@@ -25,9 +25,10 @@
     "registry": "https://registry.npmjs.org"
   },
   "renovate-config": {
-    "extends": [
-      "config:base"
-    ],
-    "automerge": true
+    "default": {
+      "extends": [
+        "config:base"
+      ]
+    }
   }
 }
