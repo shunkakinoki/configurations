@@ -1,6 +1,6 @@
 {
   "name": "@shunkakinoki/depcheck",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "homepage": "https://github.com/shunkakinoki/configurations",
   "bugs": {
@@ -16,7 +16,7 @@
     "fix": "cd ../.. && yarn run fix"
   },
   "dependencies": {
-    "depcheck": "^1.4.0"
+    "depcheck": "^1.4.2"
   },
   "publishConfig": {
     "access": "public",

@@ -1,3 +1,10 @@
+## [1.2.4](https://github.com/shunkakinoki/configurations/compare/v1.2.3...v1.2.4) (2021-07-05)
+
+### Bug Fixes
+
+- **deps:** update commitlint monorepo to ^12.1.4 ([9f9e673](https://github.com/shunkakinoki/configurations/commit/9f9e673b18c65ad40a48db1633095e422ed68064))
+- **deps:** update dependency depcheck to ^1.4.2 ([7466de8](https://github.com/shunkakinoki/configurations/commit/7466de812c84e0f152a5ba2ca603e74396a33333))
+
 ## [1.2.3](https://github.com/shunkakinoki/configurations/compare/v1.2.2...v1.2.3) (2021-07-05)
 
 ### Performance Improvements
