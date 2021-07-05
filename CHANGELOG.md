@@ -1,3 +1,9 @@
+## [1.2.7](https://github.com/shunkakinoki/configurations/compare/v1.2.6...v1.2.7) (2021-07-05)
+
+### Performance Improvements
+
+- group packages renovate ([7c78ada](https://github.com/shunkakinoki/configurations/commit/7c78adaeb2d1951ed39490b948019a12b322555a))
+
 ## [1.2.6](https://github.com/shunkakinoki/configurations/compare/v1.2.5...v1.2.6) (2021-07-05)
 
 ### Bug Fixes
