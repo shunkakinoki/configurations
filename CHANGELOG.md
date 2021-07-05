@@ -1,3 +1,15 @@
+## [1.2.6](https://github.com/shunkakinoki/configurations/compare/v1.2.5...v1.2.6) (2021-07-05)
+
+### Bug Fixes
+
+- **deps:** update dependency eslint to ^7.30.0 ([1bdd9ad](https://github.com/shunkakinoki/configurations/commit/1bdd9ad2b592813e85aec9e4adac42fbff7bf9b1))
+
+## [1.2.5](https://github.com/shunkakinoki/configurations/compare/v1.2.4...v1.2.5) (2021-07-05)
+
+### Performance Improvements
+
+- complete refactor renovate ([9e27f37](https://github.com/shunkakinoki/configurations/commit/9e27f378fd0a65f48457104a7f4e8937988ade56))
+
 ## [1.2.4](https://github.com/shunkakinoki/configurations/compare/v1.2.3...v1.2.4) (2021-07-05)
 
 ### Bug Fixes
