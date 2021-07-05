@@ -31,7 +31,9 @@
       ],
       "automerge": true,
       "rangeStrategy": "bump",
-      "prHourlyLimit": 3
+      "prConcurrentLimit": 0,
+      "prHourlyLimit": 0,
+      "schedule": "every hour"
     }
   }
 }
