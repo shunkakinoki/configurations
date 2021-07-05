@@ -27,9 +27,7 @@
     "default": {
       "description": "Default config for @shunkakinoki",
       "extends": [
-        "config:base",
-        "group:allNonMajor",
-        ":semanticCommitTypeAll(chore)"
+        "config:base"
       ]
     }
   }
