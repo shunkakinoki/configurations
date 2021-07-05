@@ -28,7 +28,10 @@
       "description": "Default config for @shunkakinoki",
       "extends": [
         "config:base"
-      ]
+      ],
+      "automerge": true,
+      "rangeStrategy": "bump",
+      "prHourlyLimit": 3
     }
   }
 }
