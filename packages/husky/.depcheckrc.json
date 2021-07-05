@@ -1,4 +1,4 @@
 {
-  "ignores": ["commitizen", "git-cz", "husky"],
+  "ignores": ["commitizen", "git-cz", "husky", "is-ci", "pinst"],
   "skip-missing": true
 }
