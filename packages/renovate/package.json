@@ -19,15 +19,20 @@
   "scripts": {
     "fix": "cd ../.. && yarn run fix"
   },
-  "dependencies": {},
+  "dependencies": {
+    "renovate": "^25.52.2"
+  },
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
   },
   "renovate-config": {
     "default": {
+      "description": "Default config for @shunkakinoki",
       "extends": [
-        "config:base"
+        "config:base",
+        "group:allNonMajor",
+        ":semanticCommitTypeAll(chore)"
       ]
     }
   }
