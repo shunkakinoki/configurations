@@ -1,3 +1,9 @@
+## @shunkakinoki/renovate-config [1.0.6](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/renovate-config@1.0.5...@shunkakinoki/renovate-config@1.0.6) (2021-07-06)
+
+### Performance Improvements
+
+- group all renovate ([7d8a26f](https://github.com/shunkakinoki/configurations/commit/7d8a26f6fdb24b2e0d75e9df6161240156f850c9))
+
 ## @shunkakinoki/renovate-config [1.0.5](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/renovate-config@1.0.4...@shunkakinoki/renovate-config@1.0.5) (2021-07-05)
 
 ### Performance Improvements
