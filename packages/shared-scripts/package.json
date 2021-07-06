@@ -1,0 +1,35 @@
+{
+  "name": "@shunkakinoki/scripts-config",
+  "version": "1.0.0",
+  "private": false,
+  "homepage": "https://github.com/shunkakinoki/configurations",
+  "bugs": {
+    "url": "https://github.com/shunkakinoki/configurations/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shunkakinoki/configurations.git"
+  },
+  "license": "MIT",
+  "author": "Shun Kakinoki",
+  "main": "scripts.config.js",
+  "files": [
+    "dist",
+    "scripts.config.js"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "fix": "cd ../.. && yarn run fix"
+  },
+  "dependencies": {
+    "cross-spawn": "^7.0.3",
+    "shared-scripts": "^1.4.1"
+  },
+  "devDependencies": {
+    "@types/cross-spawn": "^6.0.2"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  }
+}

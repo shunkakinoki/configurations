@@ -1484,6 +1484,13 @@
     "@types/node" "*"
     "@types/responselike" "*"
 
+"@types/cross-spawn@^6.0.2":
+  version "6.0.2"
+  resolved "https://registry.yarnpkg.com/@types/cross-spawn/-/cross-spawn-6.0.2.tgz#168309de311cd30a2b8ae720de6475c2fbf33ac7"
+  integrity sha512-KuwNhp3eza+Rhu8IFI5HUXRP0LIhqH5cAjubUvGXXthh4YYBuP2ntwEX+Cz8GJoZUHlKo247wPWOfA9LYEq4cw==
+  dependencies:
+    "@types/node" "*"
+
 "@types/emscripten@^1.38.0":
   version "1.39.4"
   resolved "https://registry.yarnpkg.com/@types/emscripten/-/emscripten-1.39.4.tgz#d61990c0cee72c4e475de737a140b51fe925a2c8"
@@ -10047,6 +10054,11 @@ sha@^3.0.0:
   integrity sha512-DOYnM37cNsLNSGIG/zZWch5CKIRNoLdYUQTQlcgkRkoYIUwDYjqDyye16YcDZg/OPdcbUgTKMjc4SY6TB7ZAPw==
   dependencies:
     graceful-fs "^4.1.2"
+
+shared-scripts@^1.4.1:
+  version "1.4.1"
+  resolved "https://registry.yarnpkg.com/shared-scripts/-/shared-scripts-1.4.1.tgz#f216dd32c5c0bd8b63d2817a156bf988368f79e1"
+  integrity sha512-ADyioHzKxsAmdksVRr6q2hNsu1Joi26FeaXCD9VZ2BpFrBpxobFCBlxpYjndOe3ChiVVwloIyjxLxmTDMHiBIw==
 
 shebang-command@^1.2.0:
   version "1.2.0"
