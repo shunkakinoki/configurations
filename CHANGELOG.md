@@ -1,3 +1,18 @@
+## [1.2.8](https://github.com/shunkakinoki/configurations/compare/v1.2.7...v1.2.8) (2021-07-05)
+
+### Bug Fixes
+
+- **deps:** update dependency commitizen to ^4.2.4 ([4474a2c](https://github.com/shunkakinoki/configurations/commit/4474a2cac5a02cd7e3fcfbd7df668562047432a0))
+- **deps:** update dependency eslint-plugin-react to ^7.24.0 ([9f4b2c6](https://github.com/shunkakinoki/configurations/commit/9f4b2c661ab3013576ea2201f5c26e1761b68a95))
+- **deps:** update dependency husky to v7 ([931c801](https://github.com/shunkakinoki/configurations/commit/931c80126e0c6689498e3fce7bedb3d1b46c5972))
+- **deps:** update dependency stylelint-config-standard to v22 ([2e6ba0d](https://github.com/shunkakinoki/configurations/commit/2e6ba0d305b38be1f4407ebbb6411c03625ca09f))
+
+## [1.2.7](https://github.com/shunkakinoki/configurations/compare/v1.2.6...v1.2.7) (2021-07-05)
+
+### Performance Improvements
+
+- group packages renovate ([7c78ada](https://github.com/shunkakinoki/configurations/commit/7c78adaeb2d1951ed39490b948019a12b322555a))
+
 ## [1.2.6](https://github.com/shunkakinoki/configurations/compare/v1.2.5...v1.2.6) (2021-07-05)
 
 ### Bug Fixes

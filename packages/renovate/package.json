@@ -1,6 +1,6 @@
 {
   "name": "@shunkakinoki/renovate-config",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "private": false,
   "homepage": "https://github.com/shunkakinoki/configurations",
   "bugs": {
@@ -17,7 +17,7 @@
     "fix": "cd ../.. && yarn run fix"
   },
   "dependencies": {
-    "renovate": "^25.52.2"
+    "renovate": "^25.52.3"
   },
   "publishConfig": {
     "access": "public",
