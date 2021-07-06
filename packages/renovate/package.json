@@ -25,45 +25,14 @@
   },
   "renovate-config": {
     "default": {
-      "description": "Default config for @shunkakinoki",
       "automerge": true,
       "automergeType": "pr",
       "rangeStrategy": "bump",
       "prConcurrentLimit": 0,
       "prHourlyLimit": 0,
       "schedule": "every hour",
-      "rebaseStalePrs": true,
-      "requiredStatusChecks": [],
-      "respectLatest": true,
-      "semanticCommits": "enabled",
-      "unpublishSafe": true,
-      "node": {
-        "enabled": true,
-        "supportPolicy": "current"
-      },
-      "docker": {
-        "major": {
-          "enabled": true
-        },
-        "minor": {
-          "enabled": true
-        }
-      },
-      "docker-compose": {
-        "enabled": true
-      },
-      "buildkite": {
-        "enabled": true
-      },
       "extends": [
-        "group:all",
-        "group:definitelyTyped",
-        "group:linters",
-        "group:monorepos",
-        "group:postcss",
-        "group:recommended",
-        "group:test",
-        "group:unitTest"
+        "config:base"
       ]
     }
   }
