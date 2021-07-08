@@ -1,3 +1,9 @@
+## [1.4.3](https://github.com/shunkakinoki/configurations/compare/v1.4.2...v1.4.3) (2021-07-08)
+
+### Bug Fixes
+
+- **deps:** update dependency renovate to ^25.52.9 ([b85dca2](https://github.com/shunkakinoki/configurations/commit/b85dca25094d7e79027c4ffca856f5394cb37079))
+
 ## [1.4.2](https://github.com/shunkakinoki/configurations/compare/v1.4.1...v1.4.2) (2021-07-08)
 
 ### Bug Fixes
