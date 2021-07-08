@@ -1,3 +1,9 @@
+## @shunkakinoki/renovate-config [1.1.2](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/renovate-config@1.1.1...@shunkakinoki/renovate-config@1.1.2) (2021-07-08)
+
+### Performance Improvements
+
+- refacor renovate config ([4ba29c3](https://github.com/shunkakinoki/configurations/commit/4ba29c39c06d393acbcfc3cfa91fed6a51c39692))
+
 ## @shunkakinoki/renovate-config [1.1.1](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/renovate-config@1.1.0...@shunkakinoki/renovate-config@1.1.1) (2021-07-08)
 
 ### Bug Fixes
