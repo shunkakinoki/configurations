@@ -1,3 +1,18 @@
+# [1.4.0](https://github.com/shunkakinoki/configurations/compare/v1.3.0...v1.4.0) (2021-07-08)
+
+### Bug Fixes
+
+- **deps:** update dependency husky to ^7.0.1 ([b60cf0f](https://github.com/shunkakinoki/configurations/commit/b60cf0ff711ff7706d01c2931b6a19912960c3c8))
+- **deps:** update dependency npm-check-updates to ^11.8.2 ([7fe8d4a](https://github.com/shunkakinoki/configurations/commit/7fe8d4a0f77ae9f5a690ae171e9d7acd5432defa))
+- **deps:** update dependency renovate to ^25.52.4 ([961cf74](https://github.com/shunkakinoki/configurations/commit/961cf7473636a7035727a70508e56c1d0a7bc836))
+- **deps:** update dependency renovate to ^25.52.5 ([23e0325](https://github.com/shunkakinoki/configurations/commit/23e032565d31ed91459384e238d6d40cf1c1de7c))
+- **deps:** update dependency renovate to ^25.52.6 ([c4d62f8](https://github.com/shunkakinoki/configurations/commit/c4d62f857ffa6d382b7c4686a77165c58f77ec63))
+- **deps:** update dependency renovate to ^25.52.7 ([e09ffce](https://github.com/shunkakinoki/configurations/commit/e09ffce4101594877c78fc7ae40c0bb9b855e077))
+
+### Features
+
+- ini shared scripts ([0b97a27](https://github.com/shunkakinoki/configurations/commit/0b97a270fa11b6c6d89562b9e872e1dde64d4d75))
+
 # [1.3.0](https://github.com/shunkakinoki/configurations/compare/v1.2.9...v1.3.0) (2021-07-06)
 
 ### Features
