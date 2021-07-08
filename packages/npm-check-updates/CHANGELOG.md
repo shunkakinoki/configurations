@@ -1,3 +1,9 @@
+## @shunkakinoki/npm-check-updates [1.0.1](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/npm-check-updates@1.0.0...@shunkakinoki/npm-check-updates@1.0.1) (2021-07-08)
+
+### Bug Fixes
+
+- **deps:** update dependency npm-check-updates to ^11.8.2 ([7fe8d4a](https://github.com/shunkakinoki/configurations/commit/7fe8d4a0f77ae9f5a690ae171e9d7acd5432defa))
+
 # @shunkakinoki/npm-check-updates 1.0.0 (2021-04-02)
 
 ### Features
