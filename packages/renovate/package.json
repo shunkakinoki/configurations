@@ -30,7 +30,7 @@
       "rangeStrategy": "bump",
       "prConcurrentLimit": 0,
       "prHourlyLimit": 0,
-      "schedule": "every hour",
+      "schedule": "every 3 hours",
       "extends": [
         "config:base"
       ]
