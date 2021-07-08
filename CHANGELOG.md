@@ -1,3 +1,9 @@
+## [1.4.1](https://github.com/shunkakinoki/configurations/compare/v1.4.0...v1.4.1) (2021-07-08)
+
+### Performance Improvements
+
+- refacor renovate config ([4ba29c3](https://github.com/shunkakinoki/configurations/commit/4ba29c39c06d393acbcfc3cfa91fed6a51c39692))
+
 # [1.4.0](https://github.com/shunkakinoki/configurations/compare/v1.3.0...v1.4.0) (2021-07-08)
 
 ### Bug Fixes
