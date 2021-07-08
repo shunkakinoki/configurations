@@ -18,7 +18,6 @@
     ]
   },
   "scripts": {
-    "build": "yarn workspace @shunkakinoki/scripts-config build",
     "check": "yarn run lint && yarn run depcheck:check && yarn run release:check",
     "depcheck:check": "yarn run depcheck:exec && yarn run depcheck:root",
     "depcheck:exec": "yarn workspaces run depcheck .",
