@@ -1,3 +1,9 @@
+## @shunkakinoki/husky [1.0.2](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/husky@1.0.1...@shunkakinoki/husky@1.0.2) (2021-07-08)
+
+### Bug Fixes
+
+- **deps:** update dependency husky to ^7.0.1 ([b60cf0f](https://github.com/shunkakinoki/configurations/commit/b60cf0ff711ff7706d01c2931b6a19912960c3c8))
+
 ## @shunkakinoki/husky [1.0.1](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/husky@1.0.0...@shunkakinoki/husky@1.0.1) (2021-07-05)
 
 ### Bug Fixes
