@@ -1,3 +1,9 @@
+## [1.4.4](https://github.com/shunkakinoki/configurations/compare/v1.4.3...v1.4.4) (2021-07-09)
+
+### Performance Improvements
+
+- refactor dev semantic-release ([9eeea87](https://github.com/shunkakinoki/configurations/commit/9eeea874ec3f8891cdd9d3dc3ebc46de11904766))
+
 ## [1.4.3](https://github.com/shunkakinoki/configurations/compare/v1.4.2...v1.4.3) (2021-07-08)
 
 ### Bug Fixes
