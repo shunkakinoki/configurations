@@ -1,5 +1,5 @@
 {
-  "name": "npm-package-json-lint-config-shunkakinoki",
+  "name": "@shunkakinoki/npm-package-json-lint-config",
   "version": "1.0.0",
   "private": false,
   "homepage": "https://github.com/shunkakinoki/configurations",
