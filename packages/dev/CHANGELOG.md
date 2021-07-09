@@ -1,3 +1,9 @@
+# @shunkakinoki/dev [1.1.0](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/dev@1.0.1...@shunkakinoki/dev@1.1.0) (2021-07-09)
+
+### Features
+
+- complete refactor dev ([b5d28cf](https://github.com/shunkakinoki/configurations/commit/b5d28cfc40f2c3bd7519b36b7cc62ce860b12bbe))
+
 ## @shunkakinoki/dev [1.0.1](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/dev@1.0.0...@shunkakinoki/dev@1.0.1) (2021-07-09)
 
 ### Performance Improvements
