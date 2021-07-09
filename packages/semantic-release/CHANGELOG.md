@@ -1,3 +1,9 @@
+# @shunkakinoki/semantic-release [1.2.0](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/semantic-release@1.1.1...@shunkakinoki/semantic-release@1.2.0) (2021-07-09)
+
+### Features
+
+- complete refactor dev ([b5d28cf](https://github.com/shunkakinoki/configurations/commit/b5d28cfc40f2c3bd7519b36b7cc62ce860b12bbe))
+
 ## @shunkakinoki/semantic-release [1.1.1](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/semantic-release@1.1.0...@shunkakinoki/semantic-release@1.1.1) (2021-07-09)
 
 ### Performance Improvements
