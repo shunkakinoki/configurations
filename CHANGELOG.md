@@ -1,3 +1,9 @@
+# [1.5.0](https://github.com/shunkakinoki/configurations/compare/v1.4.4...v1.5.0) (2021-07-09)
+
+### Features
+
+- complete refactor dev ([b5d28cf](https://github.com/shunkakinoki/configurations/commit/b5d28cfc40f2c3bd7519b36b7cc62ce860b12bbe))
+
 ## [1.4.4](https://github.com/shunkakinoki/configurations/compare/v1.4.3...v1.4.4) (2021-07-09)
 
 ### Performance Improvements
