@@ -3,7 +3,7 @@ import process from "process";
 import { sync } from "cross-spawn";
 
 export function exec(args: string): void {
-  const child = sync("yarn", args.split(" "));
+  const child = sync("yarn", args.replace("''", "'").split(" "));
 
   process.stdout.write(child.stdout);
   process.stderr.write(child.stderr);

@@ -4,7 +4,7 @@ import { exec } from "./utils";
 
 export const prettierString = "prettier --ignore-unknown";
 
-export const prettierLintString: string = prettierString + "  --check .";
+export const prettierLintString: string = prettierString + " --check .";
 export const prettierLint: script = {
   run: () => {
     exec(prettierLintString);
