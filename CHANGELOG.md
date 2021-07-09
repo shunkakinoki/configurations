@@ -1,3 +1,9 @@
+## [1.5.1](https://github.com/shunkakinoki/configurations/compare/v1.5.0...v1.5.1) (2021-07-09)
+
+### Performance Improvements
+
+- refactor npm config ([12c34a3](https://github.com/shunkakinoki/configurations/commit/12c34a3a300519677092be2b7eb8ff22a8e877e7))
+
 # [1.5.0](https://github.com/shunkakinoki/configurations/compare/v1.4.4...v1.5.0) (2021-07-09)
 
 ### Features
