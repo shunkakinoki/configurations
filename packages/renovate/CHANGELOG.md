@@ -1,3 +1,9 @@
+## @shunkakinoki/renovate-config [1.1.5](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/renovate-config@1.1.4...@shunkakinoki/renovate-config@1.1.5) (2021-07-09)
+
+### Performance Improvements
+
+- refactor monorepos grouping ([c7edce3](https://github.com/shunkakinoki/configurations/commit/c7edce3786ada60fda5ce6b1f7b5a8aac1ccb5ed))
+
 ## @shunkakinoki/renovate-config [1.1.4](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/renovate-config@1.1.3...@shunkakinoki/renovate-config@1.1.4) (2021-07-08)
 
 ### Bug Fixes
