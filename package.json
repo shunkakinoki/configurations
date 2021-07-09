@@ -44,6 +44,9 @@
     "release:multi-semantic-release": "scripty",
     "release:semantic-release": "scripty"
   },
+  "npmpackagejsonlint": {
+    "extends": "@shunkakinoki/npm-package-json-lint-config"
+  },
   "scripty": {
     "logLevel": "warn",
     "modules": [
