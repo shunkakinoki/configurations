@@ -1,3 +1,9 @@
+## [1.5.2](https://github.com/shunkakinoki/configurations/compare/v1.5.1...v1.5.2) (2021-07-09)
+
+### Performance Improvements
+
+- refactor monorepos grouping ([c7edce3](https://github.com/shunkakinoki/configurations/commit/c7edce3786ada60fda5ce6b1f7b5a8aac1ccb5ed))
+
 ## [1.5.1](https://github.com/shunkakinoki/configurations/compare/v1.5.0...v1.5.1) (2021-07-09)
 
 ### Performance Improvements
