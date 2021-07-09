@@ -1,3 +1,7 @@
 {
-  "ignores": ["semantic-release", "@semantic-release/*"]
+  "ignores": [
+    "multi-semantic-release",
+    "semantic-release",
+    "@semantic-release/*"
+  ]
 }

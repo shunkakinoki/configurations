@@ -18,35 +18,36 @@
     ]
   },
   "scripts": {
-    "check": "yarn run lint && yarn run depcheck:check && yarn run release:check",
-    "depcheck:check": "yarn run depcheck:exec && yarn run depcheck:root",
-    "depcheck:exec": "yarn workspaces run depcheck .",
-    "depcheck:root": "depcheck . --skip-missing=true",
-    "eslint:lint": "eslint . --config .eslintrc.js --ext .js,.ts,.tsx --cache --cache-location node_modules/.cache/eslint",
-    "eslint:fix": "eslint --fix . --config .eslintrc.js --ext .js,.ts,.tsx --cache --cache-location node_modules/.cache/eslint",
-    "fix": "concurrently 'yarn:*:fix'",
-    "lint": "concurrently 'yarn:*:lint'",
-    "multi-semantic-release": "multi-semantic-release --sequential-init",
-    "multi-semantic-release:check": "multi-semantic-release --dry-run --sequential-init",
-    "ncu:check": "ncu --deep -p yarn",
-    "ncu:upgrade": "ncu --deep -u -p yarn",
-    "nop": "scripty",
-    "npm-package-json:lint": "npmPkgJsonLint .",
-    "postpublish": "pinst --enable",
-    "prepublishOnly": "pinst --disable",
-    "prettier:lint": "prettier --check . --ignore-unknown",
-    "prettier:fix": "prettier --write . --ignore-unknown",
-    "prepare": "husky install",
-    "release": "yarn run multi-semantic-release && yarn run semantic-release",
-    "release:check": "yarn run multi-semantic-release:check && yarn run semantic-release:check",
-    "semantic-release": "semantic-release",
-    "semantic-release:check": "semantic-release --dry-run",
-    "sort-package-json:lint": "sort-package-json 'package.json' 'apps/*/package.json' 'configurations/*/package.json' 'packages/*/package.json' --check",
-    "sort-package-json:fix": "sort-package-json 'package.json' 'apps/*/package.json' 'configurations/*/package.json' 'packages/*/package.json'"
+    "check": "scripty",
+    "cmd:eslint": "scripty",
+    "cmd:prettier": "scripty",
+    "depcheck": "scripty",
+    "depcheck:exec": "scripty",
+    "depcheck:root": "scripty",
+    "fix": "scripty",
+    "fix:eslint": "scripty",
+    "fix:prettier": "scripty",
+    "fix:sort-package-json": "scripty",
+    "lint": "scripty",
+    "lint:eslint": "scripty",
+    "lint:npm-package-json": "scripty",
+    "lint:prettier": "scripty",
+    "multi-semantic-release": "scripty",
+    "ncu": "scripty",
+    "ncu:check": "scripty",
+    "ncu:upgrade": "scripty",
+    "postpublish": "scripty",
+    "prepublishOnly": "scripty",
+    "prettier:lint": "scripty",
+    "prettier:fix": "scripty",
+    "prepare": "scripty",
+    "semantic-release": "scripty"
   },
   "scripty": {
+    "logLevel": "warn",
     "modules": [
       "@shunkakinoki/dev"
-    ]
+    ],
+    "parallel": true
   }
 }
