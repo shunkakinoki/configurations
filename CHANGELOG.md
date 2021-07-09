@@ -1,3 +1,9 @@
+## [1.5.3](https://github.com/shunkakinoki/configurations/compare/v1.5.2...v1.5.3) (2021-07-09)
+
+### Performance Improvements
+
+- ini check dev ([f6ce94d](https://github.com/shunkakinoki/configurations/commit/f6ce94dbb8c08ba76f615d0e65b0e1bfb19988f8))
+
 ## [1.5.2](https://github.com/shunkakinoki/configurations/compare/v1.5.1...v1.5.2) (2021-07-09)
 
 ### Performance Improvements
