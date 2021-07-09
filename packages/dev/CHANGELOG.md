@@ -1,3 +1,9 @@
+## @shunkakinoki/dev [1.0.1](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/dev@1.0.0...@shunkakinoki/dev@1.0.1) (2021-07-09)
+
+### Performance Improvements
+
+- refactor dev semantic-release ([9eeea87](https://github.com/shunkakinoki/configurations/commit/9eeea874ec3f8891cdd9d3dc3ebc46de11904766))
+
 # @shunkakinoki/dev 1.0.0 (2021-04-02)
 
 ### Features
