@@ -32,7 +32,8 @@
       "prHourlyLimit": 0,
       "schedule": "every 3 hours",
       "extends": [
-        "config:base"
+        "config:base",
+        "group:monorepos"
       ]
     }
   }
