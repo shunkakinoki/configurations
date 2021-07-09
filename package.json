@@ -32,7 +32,6 @@
     "lint:eslint": "scripty",
     "lint:npm-package-json": "scripty",
     "lint:prettier": "scripty",
-    "multi-semantic-release": "scripty",
     "ncu": "scripty",
     "ncu:check": "scripty",
     "ncu:upgrade": "scripty",
@@ -41,7 +40,9 @@
     "prettier:lint": "scripty",
     "prettier:fix": "scripty",
     "prepare": "scripty",
-    "semantic-release": "scripty"
+    "release": "scripty",
+    "release:multi-semantic-release": "scripty",
+    "release:semantic-release": "scripty"
   },
   "scripty": {
     "logLevel": "warn",
