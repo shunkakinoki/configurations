@@ -1,3 +1,9 @@
+## @shunkakinoki/dev [1.1.1](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/dev@1.1.0...@shunkakinoki/dev@1.1.1) (2021-07-09)
+
+### Performance Improvements
+
+- ini check dev ([f6ce94d](https://github.com/shunkakinoki/configurations/commit/f6ce94dbb8c08ba76f615d0e65b0e1bfb19988f8))
+
 # @shunkakinoki/dev [1.1.0](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/dev@1.0.1...@shunkakinoki/dev@1.1.0) (2021-07-09)
 
 ### Features
