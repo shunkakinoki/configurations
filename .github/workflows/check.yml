@@ -21,4 +21,8 @@ jobs:
       - run: |
           yarn install --frozen-lockfile
       - run: |
-          yarn run check
+          yarn run depcheck
+      - run: |
+          yarn run lint
+      - run: |
+          yarn run ncu
