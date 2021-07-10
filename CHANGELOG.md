@@ -4,6 +4,14 @@
 
 - **deps:** update dependency renovate to ^25.53.1 ([c92cbdc](https://github.com/shunkakinoki/configurations/commit/c92cbdcf9c6b2ecf1ed8b68e97e6e5e29996f0d7))
 - **deps:** update dependency renovate to ^25.53.2 ([df64c37](https://github.com/shunkakinoki/configurations/commit/df64c37319941b08eb72c2417de3d3ce232ae8bb))
+- **deps:** update dependency renovate to ^25.53.3 ([3722d7b](https://github.com/shunkakinoki/configurations/commit/3722d7bddc1aa5a0f8e3ff1106b60dc374c5ad17))
+
+## [1.5.5](https://github.com/shunkakinoki/configurations/compare/v1.5.4...v1.5.5) (2021-07-10)
+
+### Bug Fixes
+
+- **deps:** update dependency renovate to ^25.53.1 ([c92cbdc](https://github.com/shunkakinoki/configurations/commit/c92cbdcf9c6b2ecf1ed8b68e97e6e5e29996f0d7))
+- **deps:** update dependency renovate to ^25.53.2 ([df64c37](https://github.com/shunkakinoki/configurations/commit/df64c37319941b08eb72c2417de3d3ce232ae8bb))
 
 ## [1.5.5](https://github.com/shunkakinoki/configurations/compare/v1.5.4...v1.5.5) (2021-07-10)
 
