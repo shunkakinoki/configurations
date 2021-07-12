@@ -1,3 +1,9 @@
+## @shunkakinoki/dev [1.2.1](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/dev@1.2.0...@shunkakinoki/dev@1.2.1) (2021-07-12)
+
+### Performance Improvements
+
+- refactor lint eslint ([51107ab](https://github.com/shunkakinoki/configurations/commit/51107abea9fc8ed10980c33fb727c2edcce29026))
+
 # @shunkakinoki/dev [1.2.0](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/dev@1.1.1...@shunkakinoki/dev@1.2.0) (2021-07-12)
 
 ### Features
