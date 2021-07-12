@@ -1,3 +1,9 @@
+## @shunkakinoki/dev [1.2.2](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/dev@1.2.1...@shunkakinoki/dev@1.2.2) (2021-07-12)
+
+### Performance Improvements
+
+- refactor lint scripty ([8ac8084](https://github.com/shunkakinoki/configurations/commit/8ac80840ac30c05e87526d413bb9cf36aeeacd17))
+
 ## @shunkakinoki/dev [1.2.1](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/dev@1.2.0...@shunkakinoki/dev@1.2.1) (2021-07-12)
 
 ### Performance Improvements
