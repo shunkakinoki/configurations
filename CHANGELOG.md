@@ -1,3 +1,10 @@
+## [1.7.6](https://github.com/shunkakinoki/configurations/compare/v1.7.5...v1.7.6) (2021-07-12)
+
+### Bug Fixes
+
+- **deps:** roll back dependency eslint-plugin-tailwindcss to ^1.14.0 ([c2f8ba7](https://github.com/shunkakinoki/configurations/commit/c2f8ba76009661e1f63842b4d72f3adbead1f0b6))
+- **deps:** update dependency eslint-plugin-tailwindcss to ^1.14.1 ([2713a8c](https://github.com/shunkakinoki/configurations/commit/2713a8cf8f617edb430ea3a56a5627ccdc2a8037))
+
 ## [1.7.5](https://github.com/shunkakinoki/configurations/compare/v1.7.4...v1.7.5) (2021-07-12)
 
 ### Performance Improvements
