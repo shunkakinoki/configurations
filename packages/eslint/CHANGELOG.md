@@ -1,3 +1,10 @@
+## @shunkakinoki/eslint-config [1.0.9](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/eslint-config@1.0.8...@shunkakinoki/eslint-config@1.0.9) (2021-07-12)
+
+### Performance Improvements
+
+- refactor eslint config ([f986103](https://github.com/shunkakinoki/configurations/commit/f9861033895328c9bdb36cf20834f1ffccaaa283))
+- refactor tailwind plugin ([d788380](https://github.com/shunkakinoki/configurations/commit/d78838075e2aa45775f30bc47b78bafce19a0269))
+
 ## @shunkakinoki/eslint-config [1.0.8](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/eslint-config@1.0.7...@shunkakinoki/eslint-config@1.0.8) (2021-07-12)
 
 ### Performance Improvements
