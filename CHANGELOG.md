@@ -1,3 +1,9 @@
+## [1.6.4](https://github.com/shunkakinoki/configurations/compare/v1.6.3...v1.6.4) (2021-07-12)
+
+### Performance Improvements
+
+- refactor lint eslint ([51107ab](https://github.com/shunkakinoki/configurations/commit/51107abea9fc8ed10980c33fb727c2edcce29026))
+
 ## [1.6.3](https://github.com/shunkakinoki/configurations/compare/v1.6.2...v1.6.3) (2021-07-12)
 
 ### Performance Improvements
