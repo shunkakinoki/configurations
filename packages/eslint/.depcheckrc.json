@@ -1,3 +1,8 @@
 {
-  "ignores": ["eslint-*", "@next/eslint-plugin-next", "@typescript-eslint/*"]
+  "ignores": [
+    "eslint",
+    "eslint-*",
+    "@next/eslint-plugin-next",
+    "@typescript-eslint/*"
+  ]
 }
