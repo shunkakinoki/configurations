@@ -35,6 +35,15 @@
         "config:base",
         "group:monorepos"
       ]
+    },
+    "shunkakinoki": {
+      "packageRules": [
+        {
+          "packagePatterns": [
+            "^@shunkakinoki/"
+          ]
+        }
+      ]
     }
   }
 }
