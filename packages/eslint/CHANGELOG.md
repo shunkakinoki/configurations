@@ -1,3 +1,9 @@
+## @shunkakinoki/eslint-config [1.0.8](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/eslint-config@1.0.7...@shunkakinoki/eslint-config@1.0.8) (2021-07-12)
+
+### Performance Improvements
+
+- refactor lint eslint ([51107ab](https://github.com/shunkakinoki/configurations/commit/51107abea9fc8ed10980c33fb727c2edcce29026))
+
 ## @shunkakinoki/eslint-config [1.0.7](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/eslint-config@1.0.6...@shunkakinoki/eslint-config@1.0.7) (2021-07-12)
 
 ### Performance Improvements
