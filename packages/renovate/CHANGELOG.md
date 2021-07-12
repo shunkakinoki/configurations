@@ -1,3 +1,9 @@
+## @shunkakinoki/renovate-config [1.1.8](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/renovate-config@1.1.7...@shunkakinoki/renovate-config@1.1.8) (2021-07-12)
+
+### Performance Improvements
+
+- refactor renovate config ([515a0ef](https://github.com/shunkakinoki/configurations/commit/515a0ef9bf989545a095b972c00dd404a344982e))
+
 ## @shunkakinoki/renovate-config [1.1.7](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/renovate-config@1.1.6...@shunkakinoki/renovate-config@1.1.7) (2021-07-10)
 
 ### Bug Fixes
