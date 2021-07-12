@@ -1,3 +1,9 @@
+## [1.7.2](https://github.com/shunkakinoki/configurations/compare/v1.7.1...v1.7.2) (2021-07-12)
+
+### Performance Improvements
+
+- refactor lint scripty ([8ac8084](https://github.com/shunkakinoki/configurations/commit/8ac80840ac30c05e87526d413bb9cf36aeeacd17))
+
 ## [1.7.1](https://github.com/shunkakinoki/configurations/compare/v1.7.0...v1.7.1) (2021-07-12)
 
 ### Performance Improvements
