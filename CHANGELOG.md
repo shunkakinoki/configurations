@@ -1,3 +1,13 @@
+# [1.7.0](https://github.com/shunkakinoki/configurations/compare/v1.6.7...v1.7.0) (2021-07-12)
+
+### Features
+
+- ini git package ([5ad3a74](https://github.com/shunkakinoki/configurations/commit/5ad3a7412396e2719c5c5747de3b85cc42ddd31b))
+
+### Performance Improvements
+
+- update eslint plugins ([cce7cb8](https://github.com/shunkakinoki/configurations/commit/cce7cb8aada9a9a928feddecdee01b1293a63d74))
+
 ## [1.6.7](https://github.com/shunkakinoki/configurations/compare/v1.6.6...v1.6.7) (2021-07-12)
 
 ### Bug Fixes
