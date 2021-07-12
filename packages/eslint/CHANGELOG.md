@@ -1,3 +1,9 @@
+## @shunkakinoki/eslint-config [1.1.3](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/eslint-config@1.1.2...@shunkakinoki/eslint-config@1.1.3) (2021-07-12)
+
+### Performance Improvements
+
+- upgrade tailwind package ([43fcfff](https://github.com/shunkakinoki/configurations/commit/43fcfff5f167947f4eb6cc904c424da302331822))
+
 ## @shunkakinoki/eslint-config [1.1.2](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/eslint-config@1.1.1...@shunkakinoki/eslint-config@1.1.2) (2021-07-12)
 
 ### Bug Fixes
