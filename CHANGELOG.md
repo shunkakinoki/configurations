@@ -1,3 +1,9 @@
+## [1.7.3](https://github.com/shunkakinoki/configurations/compare/v1.7.2...v1.7.3) (2021-07-12)
+
+### Bug Fixes
+
+- correct lint scripty ([c9cb234](https://github.com/shunkakinoki/configurations/commit/c9cb2342dcc3663e876d79c4a9584b70aba332e0))
+
 ## [1.7.2](https://github.com/shunkakinoki/configurations/compare/v1.7.1...v1.7.2) (2021-07-12)
 
 ### Performance Improvements
