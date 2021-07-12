@@ -1,3 +1,11 @@
+## [1.6.5](https://github.com/shunkakinoki/configurations/compare/v1.6.4...v1.6.5) (2021-07-12)
+
+### Performance Improvements
+
+- refactor eslint config ([f986103](https://github.com/shunkakinoki/configurations/commit/f9861033895328c9bdb36cf20834f1ffccaaa283))
+- refactor renovate config ([515a0ef](https://github.com/shunkakinoki/configurations/commit/515a0ef9bf989545a095b972c00dd404a344982e))
+- refactor tailwind plugin ([d788380](https://github.com/shunkakinoki/configurations/commit/d78838075e2aa45775f30bc47b78bafce19a0269))
+
 ## [1.6.4](https://github.com/shunkakinoki/configurations/compare/v1.6.3...v1.6.4) (2021-07-12)
 
 ### Performance Improvements
