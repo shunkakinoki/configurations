@@ -4,6 +4,7 @@ module.exports = {
     es6: true,
     node: true,
   },
+  plugins: ["@typescript-eslint", "import", "tailwindcss"],
   extends: [
     "eslint:recommended",
     "plugin:import/errors",
@@ -44,7 +45,6 @@ module.exports = {
     project: "tsconfig.json",
     sourceType: "module",
   },
-  plugins: ["@typescript-eslint", "import", "tailwindcss"],
   root: true,
   rules: {
     "@typescript-eslint/consistent-type-imports": "error",
