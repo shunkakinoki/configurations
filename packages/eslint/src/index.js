@@ -10,12 +10,11 @@ module.exports = {
     "plugin:jsx-a11y/recommended",
     "plugin:react/recommended",
     "plugin:react-hooks/recommended",
+    "plugin:@next/next/recommended",
     "plugin:@typescript-eslint/eslint-recommended",
     "plugin:@typescript-eslint/recommended",
     "plugin:@typescript-eslint/recommended-requiring-type-checking",
     "prettier",
-    "next",
-    "next/core-web-vitals",
   ],
   ignorePatterns: ["**/.next/**", "**/eslint/**", "**/node_modules/**"],
   overrides: [
@@ -51,6 +50,7 @@ module.exports = {
     "@typescript-eslint/restrict-template-expressions": "off",
     "arrow-body-style": ["error", "always"],
     "import/newline-after-import": "error",
+    "import/no-anonymous-default-export": "error",
     "import/order": [
       "error",
       {
@@ -71,6 +71,13 @@ module.exports = {
             position: "after",
           },
         ],
+      },
+    ],
+    "jsx-a11y/alt-text": [
+      "warn",
+      {
+        elements: ["img"],
+        img: ["Image"],
       },
     ],
     "jsx-a11y/anchor-is-valid": [
