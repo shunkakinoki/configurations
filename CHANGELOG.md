@@ -1,3 +1,9 @@
+## [1.6.2](https://github.com/shunkakinoki/configurations/compare/v1.6.1...v1.6.2) (2021-07-12)
+
+### Performance Improvements
+
+- refactor plugin import ([1ecd8be](https://github.com/shunkakinoki/configurations/commit/1ecd8be3e43732d30893f523cb13068b310536e3))
+
 ## [1.6.1](https://github.com/shunkakinoki/configurations/compare/v1.6.0...v1.6.1) (2021-07-12)
 
 ### Performance Improvements
