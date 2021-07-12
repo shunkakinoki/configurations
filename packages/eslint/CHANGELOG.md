@@ -1,3 +1,9 @@
+## @shunkakinoki/eslint-config [1.1.1](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/eslint-config@1.1.0...@shunkakinoki/eslint-config@1.1.1) (2021-07-12)
+
+### Performance Improvements
+
+- upgrade yarn lock ([dd3c0e6](https://github.com/shunkakinoki/configurations/commit/dd3c0e6fe041b41d310bea98a473754277f1e4cb))
+
 # @shunkakinoki/eslint-config [1.1.0](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/eslint-config@1.0.11...@shunkakinoki/eslint-config@1.1.0) (2021-07-12)
 
 ### Features
