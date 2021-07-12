@@ -1,3 +1,13 @@
+## [1.6.7](https://github.com/shunkakinoki/configurations/compare/v1.6.6...v1.6.7) (2021-07-12)
+
+### Bug Fixes
+
+- **deps:** update dependency renovate to ^25.53.4 ([3c16320](https://github.com/shunkakinoki/configurations/commit/3c16320257f1842f9b57956db5a9f677678d4135))
+
+### Performance Improvements
+
+- complete upgrade eslint ([39706e2](https://github.com/shunkakinoki/configurations/commit/39706e2fbacb1a3b1f9634ef22f2b817e7e5fc79))
+
 ## [1.6.6](https://github.com/shunkakinoki/configurations/compare/v1.6.5...v1.6.6) (2021-07-12)
 
 ### Bug Fixes
