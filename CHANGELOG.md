@@ -1,3 +1,10 @@
+## [1.7.1](https://github.com/shunkakinoki/configurations/compare/v1.7.0...v1.7.1) (2021-07-12)
+
+### Performance Improvements
+
+- refactor yarn lock ([0877005](https://github.com/shunkakinoki/configurations/commit/0877005f212314ac3d2a184fa694927e9c9201ca))
+- upgrade yarn lock ([dd3c0e6](https://github.com/shunkakinoki/configurations/commit/dd3c0e6fe041b41d310bea98a473754277f1e4cb))
+
 # [1.7.0](https://github.com/shunkakinoki/configurations/compare/v1.6.7...v1.7.0) (2021-07-12)
 
 ### Features
