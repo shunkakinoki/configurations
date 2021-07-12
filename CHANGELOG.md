@@ -1,3 +1,9 @@
+## [1.7.5](https://github.com/shunkakinoki/configurations/compare/v1.7.4...v1.7.5) (2021-07-12)
+
+### Performance Improvements
+
+- upgrade tailwind package ([43fcfff](https://github.com/shunkakinoki/configurations/commit/43fcfff5f167947f4eb6cc904c424da302331822))
+
 ## [1.7.4](https://github.com/shunkakinoki/configurations/compare/v1.7.3...v1.7.4) (2021-07-12)
 
 ### Bug Fixes
