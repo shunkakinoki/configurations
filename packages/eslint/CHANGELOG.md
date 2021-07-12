@@ -1,3 +1,9 @@
+## @shunkakinoki/eslint-config [1.0.6](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/eslint-config@1.0.5...@shunkakinoki/eslint-config@1.0.6) (2021-07-12)
+
+### Performance Improvements
+
+- refactor plugin import ([1ecd8be](https://github.com/shunkakinoki/configurations/commit/1ecd8be3e43732d30893f523cb13068b310536e3))
+
 ## @shunkakinoki/eslint-config [1.0.5](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/eslint-config@1.0.4...@shunkakinoki/eslint-config@1.0.5) (2021-07-12)
 
 ### Performance Improvements
