@@ -13,10 +13,13 @@ module.exports = {
     "plugin:jsx-a11y/recommended",
     "plugin:react/recommended",
     "plugin:react-hooks/recommended",
+    "plugin:tailwindcss/recommended",
     "plugin:@typescript-eslint/eslint-recommended",
     "plugin:@typescript-eslint/recommended",
     "plugin:@typescript-eslint/recommended-requiring-type-checking",
     "prettier",
+    "next",
+    "next/core-web-vitals",
   ],
   ignorePatterns: ["**/.next/**", "**/eslint/**", "**/node_modules/**"],
   overrides: [
@@ -41,7 +44,7 @@ module.exports = {
     project: "tsconfig.json",
     sourceType: "module",
   },
-  plugins: ["@typescript-eslint"],
+  plugins: ["@typescript-eslint", "tailwindcss"],
   root: true,
   rules: {
     "@typescript-eslint/consistent-type-imports": "error",
@@ -50,6 +53,7 @@ module.exports = {
     "@typescript-eslint/no-unsafe-member-access": "off",
     "@typescript-eslint/no-unsafe-return": "off",
     "@typescript-eslint/restrict-template-expressions": "off",
+    "arrow-body-style": ["error", "always"],
     "import/newline-after-import": "error",
     "import/order": [
       "error",
@@ -73,6 +77,14 @@ module.exports = {
         ],
       },
     ],
+    "jsx-a11y/anchor-is-valid": [
+      "error",
+      {
+        components: ["Link"],
+        specialLink: ["hrefLeft", "hrefRight"],
+        aspects: ["invalidHref", "preferButton"],
+      },
+    ],
     "no-restricted-imports": [
       "error",
       {
@@ -93,6 +105,9 @@ module.exports = {
     "react/prop-types": "off",
     "react/react-in-jsx-scope": "off",
     "react/self-closing-comp": "error",
+    "tailwindcss/classnames-order": "error",
+    "tailwindcss/no-custom-classname": "error",
+    "tailwindcss/no-contradicting-classname": "error",
   },
   settings: {
     "import/parsers": {
