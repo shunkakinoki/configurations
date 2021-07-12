@@ -6,9 +6,6 @@ module.exports = {
   },
   extends: [
     "eslint:recommended",
-    "plugin:import/errors",
-    "plugin:import/typescript",
-    "plugin:import/warnings",
     "plugin:prettier/recommended",
     "plugin:jsx-a11y/recommended",
     "plugin:react/recommended",
@@ -85,6 +82,7 @@ module.exports = {
         aspects: ["invalidHref", "preferButton"],
       },
     ],
+    "jsx-a11y/href-no-hash": "off",
     "no-restricted-imports": [
       "error",
       {
