@@ -1,3 +1,9 @@
+## @shunkakinoki/eslint-config [1.1.2](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/eslint-config@1.1.1...@shunkakinoki/eslint-config@1.1.2) (2021-07-12)
+
+### Bug Fixes
+
+- **deps:** update typescript-eslint monorepo to ^4.28.3 ([d75b986](https://github.com/shunkakinoki/configurations/commit/d75b98698dc272fecb0875f8c8064d62f8a4fa65))
+
 ## @shunkakinoki/eslint-config [1.1.1](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/eslint-config@1.1.0...@shunkakinoki/eslint-config@1.1.1) (2021-07-12)
 
 ### Performance Improvements
