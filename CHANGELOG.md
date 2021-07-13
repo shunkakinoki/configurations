@@ -1,3 +1,9 @@
+## [1.8.1](https://github.com/shunkakinoki/configurations/compare/v1.8.0...v1.8.1) (2021-07-13)
+
+### Performance Improvements
+
+- upgrade tailwind colors ([6e01102](https://github.com/shunkakinoki/configurations/commit/6e01102bc6396e26363817537313f0b4d9a1fbaf))
+
 # [1.8.0](https://github.com/shunkakinoki/configurations/compare/v1.7.6...v1.8.0) (2021-07-13)
 
 ### Features
