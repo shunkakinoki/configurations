@@ -1,3 +1,9 @@
+## @shunkakinoki/renovate-config [1.1.11](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/renovate-config@1.1.10...@shunkakinoki/renovate-config@1.1.11) (2021-07-13)
+
+### Performance Improvements
+
+- refactor renvovate length ([170c23e](https://github.com/shunkakinoki/configurations/commit/170c23e90314dd200e606e17e7b1c5fa21846b41))
+
 ## @shunkakinoki/renovate-config [1.1.10](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/renovate-config@1.1.9...@shunkakinoki/renovate-config@1.1.10) (2021-07-13)
 
 ### Bug Fixes
