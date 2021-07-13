@@ -30,7 +30,7 @@
       "rangeStrategy": "bump",
       "prConcurrentLimit": 0,
       "prHourlyLimit": 0,
-      "schedule": "every 3 hours",
+      "schedule": "every 3 days",
       "extends": [
         "config:base",
         "group:monorepos"
