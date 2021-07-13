@@ -1,3 +1,9 @@
+## [1.8.3](https://github.com/shunkakinoki/configurations/compare/v1.8.2...v1.8.3) (2021-07-13)
+
+### Performance Improvements
+
+- refactor renvovate length ([170c23e](https://github.com/shunkakinoki/configurations/commit/170c23e90314dd200e606e17e7b1c5fa21846b41))
+
 ## [1.8.2](https://github.com/shunkakinoki/configurations/compare/v1.8.1...v1.8.2) (2021-07-13)
 
 ### Bug Fixes
