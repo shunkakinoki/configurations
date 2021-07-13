@@ -1,3 +1,9 @@
+# [1.8.0](https://github.com/shunkakinoki/configurations/compare/v1.7.6...v1.8.0) (2021-07-13)
+
+### Features
+
+- ini tailwindcss package ([cfd8ffe](https://github.com/shunkakinoki/configurations/commit/cfd8ffe26963f97efb526a174d3d6db7f46db348))
+
 ## [1.7.6](https://github.com/shunkakinoki/configurations/compare/v1.7.5...v1.7.6) (2021-07-12)
 
 ### Bug Fixes
