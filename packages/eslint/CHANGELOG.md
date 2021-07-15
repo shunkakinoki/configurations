@@ -1,3 +1,9 @@
+## @shunkakinoki/eslint-config [1.1.5](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/eslint-config@1.1.4...@shunkakinoki/eslint-config@1.1.5) (2021-07-15)
+
+### Performance Improvements
+
+- refactor storybook eslint ([b10a978](https://github.com/shunkakinoki/configurations/commit/b10a9788399b58e29257d1a5f24d7adcff1063bc))
+
 ## @shunkakinoki/eslint-config [1.1.4](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/eslint-config@1.1.3...@shunkakinoki/eslint-config@1.1.4) (2021-07-12)
 
 ### Bug Fixes
