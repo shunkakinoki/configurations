@@ -32,6 +32,12 @@ module.exports = {
         "@typescript-eslint/no-var-requires": "off",
       },
     },
+    {
+      files: ["*.stories.tsx"],
+      rules: {
+        "import/no-anonymous-default-export": "off",
+      },
+    },
   ],
   parser: "@typescript-eslint/parser",
   parserOptions: {
