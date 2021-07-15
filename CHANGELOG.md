@@ -1,3 +1,9 @@
+## [1.8.5](https://github.com/shunkakinoki/configurations/compare/v1.8.4...v1.8.5) (2021-07-15)
+
+### Performance Improvements
+
+- refactor storybook eslint ([b10a978](https://github.com/shunkakinoki/configurations/commit/b10a9788399b58e29257d1a5f24d7adcff1063bc))
+
 ## [1.8.4](https://github.com/shunkakinoki/configurations/compare/v1.8.3...v1.8.4) (2021-07-13)
 
 ### Bug Fixes
