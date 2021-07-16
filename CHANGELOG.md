@@ -1,3 +1,10 @@
+## [1.8.6](https://github.com/shunkakinoki/configurations/compare/v1.8.5...v1.8.6) (2021-07-16)
+
+### Bug Fixes
+
+- **deps:** update dependency npm-check-updates to ^11.8.3 ([fe75cec](https://github.com/shunkakinoki/configurations/commit/fe75cec512bc13876c1ca79feff0bad47811f933))
+- **deps:** update dependency renovate to ^25.56.1 ([56b4924](https://github.com/shunkakinoki/configurations/commit/56b4924e348f1e02ef0ad77031fad6f70bf81e5f))
+
 ## [1.8.5](https://github.com/shunkakinoki/configurations/compare/v1.8.4...v1.8.5) (2021-07-15)
 
 ### Performance Improvements
