@@ -1,3 +1,9 @@
+## [1.8.10](https://github.com/shunkakinoki/configurations/compare/v1.8.9...v1.8.10) (2021-07-17)
+
+### Performance Improvements
+
+- upgrade semantic release exec cmd ([8a55bee](https://github.com/shunkakinoki/configurations/commit/8a55bee45ce44a67559a268fcd5f7e47ed2a9275))
+
 ## [1.8.9](https://github.com/shunkakinoki/configurations/compare/v1.8.8...v1.8.9) (2021-07-16)
 
 ### Bug Fixes
