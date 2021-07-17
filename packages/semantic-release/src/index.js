@@ -17,7 +17,7 @@ module.exports = {
     [
       "@semantic-release/exec",
       {
-        prepareCmd: "yarn run build || yarn run fix",
+        prepareCmd: "(yarn run build || true) && yarn run fix",
       },
     ],
     "@semantic-release/npm",
