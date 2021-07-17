@@ -1,3 +1,9 @@
+## @shunkakinoki/semantic-release [1.2.1](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/semantic-release@1.2.0...@shunkakinoki/semantic-release@1.2.1) (2021-07-17)
+
+### Performance Improvements
+
+- upgrade semantic release exec cmd ([8a55bee](https://github.com/shunkakinoki/configurations/commit/8a55bee45ce44a67559a268fcd5f7e47ed2a9275))
+
 # @shunkakinoki/semantic-release [1.2.0](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/semantic-release@1.1.1...@shunkakinoki/semantic-release@1.2.0) (2021-07-09)
 
 ### Features
