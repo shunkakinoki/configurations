@@ -1,3 +1,9 @@
+## @shunkakinoki/tsconfig [1.1.1](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/tsconfig@1.1.0...@shunkakinoki/tsconfig@1.1.1) (2021-07-21)
+
+### Performance Improvements
+
+- ini dist for tsconfig package ([e381d81](https://github.com/shunkakinoki/configurations/commit/e381d81c5f332df90052430f888a962852e50d52))
+
 # @shunkakinoki/tsconfig [1.1.0](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/tsconfig@1.0.1...@shunkakinoki/tsconfig@1.1.0) (2021-07-08)
 
 ### Features
