@@ -1,3 +1,9 @@
+## [1.8.14](https://github.com/shunkakinoki/configurations/compare/v1.8.13...v1.8.14) (2021-07-21)
+
+### Performance Improvements
+
+- ini dist for tsconfig package ([e381d81](https://github.com/shunkakinoki/configurations/commit/e381d81c5f332df90052430f888a962852e50d52))
+
 ## [1.8.13](https://github.com/shunkakinoki/configurations/compare/v1.8.12...v1.8.13) (2021-07-19)
 
 ### Bug Fixes
