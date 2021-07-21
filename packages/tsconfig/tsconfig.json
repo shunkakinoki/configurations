@@ -15,6 +15,7 @@
     "module": "ESNext",
     "moduleResolution": "node",
     "noEmit": true,
+    "outDir": "dist",
     "rootDir": ".",
     "resolveJsonModule": true,
     "skipLibCheck": true,
