@@ -1,3 +1,10 @@
+## [1.8.15](https://github.com/shunkakinoki/configurations/compare/v1.8.14...v1.8.15) (2021-07-22)
+
+### Bug Fixes
+
+- **deps:** update dependency renovate to ^25.56.8 ([6c9bef5](https://github.com/shunkakinoki/configurations/commit/6c9bef5aeabbd518c742d500db15b222f04333f5))
+- **deps:** update dependency tailwindcss to ^2.2.6 ([9fc22cf](https://github.com/shunkakinoki/configurations/commit/9fc22cf7c982a370297e08d1f043f40980be2c09))
+
 ## [1.8.14](https://github.com/shunkakinoki/configurations/compare/v1.8.13...v1.8.14) (2021-07-21)
 
 ### Performance Improvements
