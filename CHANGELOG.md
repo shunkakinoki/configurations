@@ -1,3 +1,9 @@
+## [1.8.18](https://github.com/shunkakinoki/configurations/compare/v1.8.17...v1.8.18) (2021-07-25)
+
+### Bug Fixes
+
+- **deps:** update commitlint monorepo to v13 ([b2ee87c](https://github.com/shunkakinoki/configurations/commit/b2ee87c5551b57ebe1c86714538b12a8ace3b3fb))
+
 ## [1.8.17](https://github.com/shunkakinoki/configurations/compare/v1.8.16...v1.8.17) (2021-07-25)
 
 ### Bug Fixes
