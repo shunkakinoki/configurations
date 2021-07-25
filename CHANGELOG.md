@@ -1,3 +1,12 @@
+## [1.8.17](https://github.com/shunkakinoki/configurations/compare/v1.8.16...v1.8.17) (2021-07-25)
+
+### Bug Fixes
+
+- **deps:** update dependency lint-staged to ^11.1.1 ([5364b17](https://github.com/shunkakinoki/configurations/commit/5364b179b7cb7921eb444555400a798bdd78cff7))
+- **deps:** update dependency npm-package-json-lint to ^5.2.2 ([be941cf](https://github.com/shunkakinoki/configurations/commit/be941cf9a133ad64afe5d448a2e594b0ed16aa3e))
+- **deps:** update dependency renovate to ^25.56.10 ([3ab0495](https://github.com/shunkakinoki/configurations/commit/3ab0495995db0ff3b071d7cba6de75cd608303b0))
+- **deps:** update dependency tailwindcss to ^2.2.7 ([9513cd7](https://github.com/shunkakinoki/configurations/commit/9513cd76b7bd076f6b809a9dd8aa2e6f20b7705c))
+
 ## [1.8.16](https://github.com/shunkakinoki/configurations/compare/v1.8.15...v1.8.16) (2021-07-22)
 
 ### Bug Fixes
