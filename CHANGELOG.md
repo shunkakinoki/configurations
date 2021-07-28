@@ -1,3 +1,10 @@
+## [1.8.22](https://github.com/shunkakinoki/configurations/compare/v1.8.21...v1.8.22) (2021-07-28)
+
+### Bug Fixes
+
+- **deps:** update dependency renovate to ^25.59.1 ([0687217](https://github.com/shunkakinoki/configurations/commit/06872170d33d35caef61098ad17b811d3ef31cf0))
+- **deps:** update typescript-eslint monorepo to ^4.28.5 ([6439cf6](https://github.com/shunkakinoki/configurations/commit/6439cf6706bee3c21c728d88a3c887bdc314db15))
+
 ## [1.8.21](https://github.com/shunkakinoki/configurations/compare/v1.8.20...v1.8.21) (2021-07-25)
 
 ### Bug Fixes
