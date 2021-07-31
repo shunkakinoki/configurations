@@ -37,12 +37,11 @@
       ]
     },
     "shunkakinoki": {
-      "packageRules": [
-        {
-          "packagePatterns": [
-            "^@shunkakinoki/"
-          ]
-        }
+      "packagePatterns": [
+        "^@shunkakinoki/"
+      ],
+      "sourceUrlPrefixes": [
+        "https://github.com/shunkakinoki/configurations"
       ]
     }
   }
