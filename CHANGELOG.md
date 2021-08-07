@@ -1,3 +1,10 @@
+## [1.8.27](https://github.com/shunkakinoki/configurations/compare/v1.8.26...v1.8.27) (2021-08-07)
+
+### Bug Fixes
+
+- **deps:** update dependency lint-staged to ^11.1.2 ([f604646](https://github.com/shunkakinoki/configurations/commit/f60464639b4e4d443aa31e37bd2dbb80815882b9))
+- **deps:** update dependency renovate to ^25.69.1 ([97ca62d](https://github.com/shunkakinoki/configurations/commit/97ca62dfb32d28ed4a720dcd32ef82a2edc74431))
+
 ## [1.8.26](https://github.com/shunkakinoki/configurations/compare/v1.8.25...v1.8.26) (2021-08-04)
 
 ### Bug Fixes
