@@ -1,3 +1,10 @@
+## [1.8.33](https://github.com/shunkakinoki/configurations/compare/v1.8.32...v1.8.33) (2021-08-13)
+
+### Bug Fixes
+
+- **deps:** update dependency @next/eslint-plugin-next to ^11.1.0 ([a1f8cf0](https://github.com/shunkakinoki/configurations/commit/a1f8cf0609ede77df37df6426a5f2c7678813293))
+- **deps:** update dependency renovate to ^25.72.2 ([5073b83](https://github.com/shunkakinoki/configurations/commit/5073b83fb8ed1e4463e4cded59425d7b9bdaf7ed))
+
 ## [1.8.32](https://github.com/shunkakinoki/configurations/compare/v1.8.31...v1.8.32) (2021-08-10)
 
 ### Bug Fixes
