@@ -2627,7 +2627,7 @@ caseless@~0.12.0:
   resolved "https://registry.yarnpkg.com/caseless/-/caseless-0.12.0.tgz#1b681c21ff84033c826543090689420d187151dc"
   integrity sha1-G2gcIf+EAzyCZUMJBolCDRhxUdw=
 
-chalk@4.1.2:
+chalk@4.1.2, chalk@^4.1.2:
   version "4.1.2"
   resolved "https://registry.yarnpkg.com/chalk/-/chalk-4.1.2.tgz#aac4e2b7734a740867aeb16bf02aad556a1e7a01"
   integrity sha512-oKnbhFyRIXpUuez8iBMmyEa4nbj4IOQyuhc/wy9kY7/WVPcwIO9VA668Pu8RkO7+0G76SLROeyw9CpQ061i4mA==
@@ -6817,14 +6817,14 @@ npm-package-arg@^8.0.0, npm-package-arg@^8.0.1, npm-package-arg@^8.1.0, npm-pack
     semver "^7.3.4"
     validate-npm-package-name "^3.0.0"
 
-npm-package-json-lint@^5.2.2:
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/npm-package-json-lint/-/npm-package-json-lint-5.2.2.tgz#5d24d77112423a90ef7423f11e538a0ed363bb52"
-  integrity sha512-rs+mTLK31dRHzOrPcA33VoVgPxib0WecKGKOm6XkE186/FqiZGmGgkNLpxx1baUORkSmU1ETyi7aQXlZUzqZIA==
+npm-package-json-lint@^5.2.3:
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/npm-package-json-lint/-/npm-package-json-lint-5.2.3.tgz#87049bf2089337c275cb0650f2341bf286706dd5"
+  integrity sha512-rSgc4eVhtfwrU7AWwovqFWy8OEkgQL99vD3vWJmqtU9gxxJxKzi6Wqgo3gF7lhrBpyVcnlKxy/L2JCsvjWruDA==
   dependencies:
     ajv "^6.12.6"
     ajv-errors "^1.0.1"
-    chalk "^4.1.1"
+    chalk "^4.1.2"
     cosmiconfig "^6.0.0"
     debug "^4.3.2"
     globby "^11.0.4"
