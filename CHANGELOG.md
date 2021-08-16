@@ -1,3 +1,9 @@
+## [1.8.39](https://github.com/shunkakinoki/configurations/compare/v1.8.38...v1.8.39) (2021-08-16)
+
+### Bug Fixes
+
+- **deps:** update dependency semantic-release to ^17.4.5 ([f3a0cc7](https://github.com/shunkakinoki/configurations/commit/f3a0cc7acd56994d9249efba3c563dc5da9bf02e))
+
 ## [1.8.38](https://github.com/shunkakinoki/configurations/compare/v1.8.37...v1.8.38) (2021-08-16)
 
 ### Bug Fixes
