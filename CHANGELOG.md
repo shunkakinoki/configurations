@@ -1,3 +1,9 @@
+## [1.8.43](https://github.com/shunkakinoki/configurations/compare/v1.8.42...v1.8.43) (2021-08-16)
+
+### Bug Fixes
+
+- **deps:** update typescript-eslint monorepo to ^4.29.2 ([28f0f96](https://github.com/shunkakinoki/configurations/commit/28f0f96d05cae630b536107dd1dce89f9a45c358))
+
 ## [1.8.42](https://github.com/shunkakinoki/configurations/compare/v1.8.41...v1.8.42) (2021-08-16)
 
 ### Bug Fixes
