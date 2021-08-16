@@ -1,3 +1,9 @@
+## @shunkakinoki/semantic-release [1.2.3](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/semantic-release@1.2.2...@shunkakinoki/semantic-release@1.2.3) (2021-08-16)
+
+### Bug Fixes
+
+- **deps:** update dependency multi-semantic-release to ^2.8.4 ([e725190](https://github.com/shunkakinoki/configurations/commit/e725190a4f94fe6ccf15db139a32a6cf8c92f5c2))
+
 ## @shunkakinoki/semantic-release [1.2.2](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/semantic-release@1.2.1...@shunkakinoki/semantic-release@1.2.2) (2021-08-13)
 
 ### Bug Fixes
