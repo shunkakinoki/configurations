@@ -1,3 +1,10 @@
+## [1.8.37](https://github.com/shunkakinoki/configurations/compare/v1.8.36...v1.8.37) (2021-08-16)
+
+### Bug Fixes
+
+- **deps:** update dependency multi-semantic-release to ^2.8.4 ([e725190](https://github.com/shunkakinoki/configurations/commit/e725190a4f94fe6ccf15db139a32a6cf8c92f5c2))
+- **deps:** update dependency renovate to ^25.75.0 ([a01578b](https://github.com/shunkakinoki/configurations/commit/a01578b4319239758b5ea9931a1d19c9d23bebb5))
+
 ## [1.8.36](https://github.com/shunkakinoki/configurations/compare/v1.8.35...v1.8.36) (2021-08-13)
 
 ### Bug Fixes
