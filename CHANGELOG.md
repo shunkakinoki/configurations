@@ -1,3 +1,9 @@
+## [1.8.47](https://github.com/shunkakinoki/configurations/compare/v1.8.46...v1.8.47) (2021-08-19)
+
+### Bug Fixes
+
+- **deps:** update dependency eslint-plugin-import to ^2.24.1 ([88cb091](https://github.com/shunkakinoki/configurations/commit/88cb0918d5862f98d49d81369f85bf092b25667a))
+
 ## [1.8.46](https://github.com/shunkakinoki/configurations/compare/v1.8.45...v1.8.46) (2021-08-19)
 
 ### Bug Fixes
