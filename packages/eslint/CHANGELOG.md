@@ -1,3 +1,9 @@
+## @shunkakinoki/eslint-config [1.1.17](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/eslint-config@1.1.16...@shunkakinoki/eslint-config@1.1.17) (2021-08-22)
+
+### Bug Fixes
+
+- **deps:** update dependency eslint-plugin-prettier to ^3.4.1 ([07c5d0e](https://github.com/shunkakinoki/configurations/commit/07c5d0ecc5ff249b09b17e931db957bd6d4617df))
+
 ## @shunkakinoki/eslint-config [1.1.16](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/eslint-config@1.1.15...@shunkakinoki/eslint-config@1.1.16) (2021-08-19)
 
 ### Bug Fixes
