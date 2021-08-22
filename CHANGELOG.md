@@ -1,3 +1,10 @@
+## [1.8.48](https://github.com/shunkakinoki/configurations/compare/v1.8.47...v1.8.48) (2021-08-22)
+
+### Bug Fixes
+
+- **deps:** update dependency eslint-plugin-prettier to ^3.4.1 ([07c5d0e](https://github.com/shunkakinoki/configurations/commit/07c5d0ecc5ff249b09b17e931db957bd6d4617df))
+- **deps:** update dependency renovate to ^26.4.1 ([bcc7807](https://github.com/shunkakinoki/configurations/commit/bcc78070e10a65bed11ad22f579e899a3f1b8cd2))
+
 ## [1.8.47](https://github.com/shunkakinoki/configurations/compare/v1.8.46...v1.8.47) (2021-08-19)
 
 ### Bug Fixes
