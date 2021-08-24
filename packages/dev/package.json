@@ -21,10 +21,10 @@
   },
   "dependencies": {
     "concurrently": "^6.2.1",
+    "cross-env": "^7.0.3",
     "scripty": "^2.0.0",
     "sort-package-json": "^1.50.0"
   },
-  "devDependencies": {},
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
