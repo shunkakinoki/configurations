@@ -1,3 +1,9 @@
+## @shunkakinoki/dev [1.2.5](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/dev@1.2.4...@shunkakinoki/dev@1.2.5) (2021-08-24)
+
+### Performance Improvements
+
+- ini cross env ([439764b](https://github.com/shunkakinoki/configurations/commit/439764b7824feeae3fd15e4f9ae08a26e014f8a9))
+
 ## @shunkakinoki/dev [1.2.4](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/dev@1.2.3...@shunkakinoki/dev@1.2.4) (2021-08-10)
 
 ### Bug Fixes
