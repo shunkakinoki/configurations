@@ -1,3 +1,9 @@
+## [1.8.50](https://github.com/shunkakinoki/configurations/compare/v1.8.49...v1.8.50) (2021-08-24)
+
+### Performance Improvements
+
+- ini cross env ([439764b](https://github.com/shunkakinoki/configurations/commit/439764b7824feeae3fd15e4f9ae08a26e014f8a9))
+
 ## [1.8.49](https://github.com/shunkakinoki/configurations/compare/v1.8.48...v1.8.49) (2021-08-22)
 
 ### Bug Fixes
