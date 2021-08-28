@@ -8,16 +8,6 @@ jobs:
       - uses: actions/setup-node@v2
         with:
           node-version: "12"
-      - uses: actions/cache@v2
-        with:
-          path: |
-            ~/.npm
-            node_modules
-            */*/node_modules
-          key: |
-            yarn-v1-${{ runner.os }}-${{ hashFiles('**/yarn.lock') }}
-          restore-keys: |
-            yarn-v1-${{ runner.os }}-
       - run: |
           yarn install --frozen-lockfile
       - run: |
