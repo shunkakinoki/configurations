@@ -1,3 +1,26 @@
+## [1.8.51](https://github.com/shunkakinoki/configurations/compare/v1.8.50...v1.8.51) (2021-10-02)
+
+### Bug Fixes
+
+- **deps:** update dependency @next/eslint-plugin-next to ^11.1.2 ([ad05030](https://github.com/shunkakinoki/configurations/commit/ad05030968f065d7b78087748837941be7b8ca8e))
+- **deps:** update dependency @tailwindcss/forms to ^0.3.4 ([32af578](https://github.com/shunkakinoki/configurations/commit/32af578d60bf40d1f833256303b454ca40247c41))
+- **deps:** update dependency @tailwindcss/line-clamp to ^0.2.2 ([9cba24a](https://github.com/shunkakinoki/configurations/commit/9cba24afbc3eb6665754a123e6080d886b5d6c50))
+- **deps:** update dependency concurrently to ^6.2.2 ([71b0c2b](https://github.com/shunkakinoki/configurations/commit/71b0c2bf5145e4ce42bef3ef8dd6e6601b09b485))
+- **deps:** update dependency eslint-import-resolver-typescript to ^2.5.0 ([1fd4076](https://github.com/shunkakinoki/configurations/commit/1fd40764b6e0d3ac6ee08b87679640870edaa832))
+- **deps:** update dependency eslint-plugin-import to ^2.24.2 ([0ef070b](https://github.com/shunkakinoki/configurations/commit/0ef070bd1b2746b13616322d6bc84afc334cf6ee))
+- **deps:** update dependency eslint-plugin-react to ^7.26.1 ([3f088bb](https://github.com/shunkakinoki/configurations/commit/3f088bb58b1a50ac05ce8fb0e3468e370be8482a))
+- **deps:** update dependency eslint-plugin-tailwindcss to ^1.16.0 ([0c147c1](https://github.com/shunkakinoki/configurations/commit/0c147c1f57cf559e4c634211f045098dca152f0d))
+- **deps:** update dependency husky to ^7.0.2 ([976c861](https://github.com/shunkakinoki/configurations/commit/976c861540ea2679befb22f68ae7b75aa04c03ba))
+- **deps:** update dependency multi-semantic-release to ^2.9.0 ([101131e](https://github.com/shunkakinoki/configurations/commit/101131e4e1b7986d4e12db62a0c4d617842ce4ac))
+- **deps:** update dependency npm-check-updates to ^11.8.5 ([e70c8c0](https://github.com/shunkakinoki/configurations/commit/e70c8c06698d7eed011c817bd02ddab59e21b548))
+- **deps:** update dependency npm-package-json-lint to ^5.2.4 ([c10086c](https://github.com/shunkakinoki/configurations/commit/c10086c88c910837c5a5c4b97f12c3f46ccfbb3d))
+- **deps:** update dependency prettier to ^2.4.1 ([98b61bc](https://github.com/shunkakinoki/configurations/commit/98b61bcc5213b99fd0f8569c3766fdbc297482fc))
+- **deps:** update dependency renovate to ^26.21.7 ([7af20d6](https://github.com/shunkakinoki/configurations/commit/7af20d69a6b23ec84d0e9a38ca2f39664e4d95f5))
+- **deps:** update dependency sort-package-json to ^1.52.0 ([61f2072](https://github.com/shunkakinoki/configurations/commit/61f2072a057ad751a9f23141c506a75bfae10e57))
+- **deps:** update dependency tailwindcss to ^2.2.16 ([3803291](https://github.com/shunkakinoki/configurations/commit/38032919285aace4a31dd0c1548a618de1b8d9b6))
+- **deps:** update dependency typescript to ^4.4.3 ([2e651c0](https://github.com/shunkakinoki/configurations/commit/2e651c0e014f59065d6b952b0ef01f6100371057))
+- **deps:** update semantic-release monorepo ([af82693](https://github.com/shunkakinoki/configurations/commit/af82693a2d0d662f987ef5b1304393f3b7c367bb))
+
 ## [1.8.50](https://github.com/shunkakinoki/configurations/compare/v1.8.49...v1.8.50) (2021-08-24)
 
 ### Performance Improvements
