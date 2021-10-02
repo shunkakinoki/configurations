@@ -1,3 +1,10 @@
+## @shunkakinoki/dev [1.2.6](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/dev@1.2.5...@shunkakinoki/dev@1.2.6) (2021-10-02)
+
+### Bug Fixes
+
+- **deps:** update dependency concurrently to ^6.2.2 ([71b0c2b](https://github.com/shunkakinoki/configurations/commit/71b0c2bf5145e4ce42bef3ef8dd6e6601b09b485))
+- **deps:** update dependency sort-package-json to ^1.52.0 ([61f2072](https://github.com/shunkakinoki/configurations/commit/61f2072a057ad751a9f23141c506a75bfae10e57))
+
 ## @shunkakinoki/dev [1.2.5](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/dev@1.2.4...@shunkakinoki/dev@1.2.5) (2021-08-24)
 
 ### Performance Improvements
