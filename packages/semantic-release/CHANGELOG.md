@@ -1,3 +1,10 @@
+## @shunkakinoki/semantic-release [1.2.5](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/semantic-release@1.2.4...@shunkakinoki/semantic-release@1.2.5) (2021-10-02)
+
+### Bug Fixes
+
+- **deps:** update dependency multi-semantic-release to ^2.9.0 ([101131e](https://github.com/shunkakinoki/configurations/commit/101131e4e1b7986d4e12db62a0c4d617842ce4ac))
+- **deps:** update semantic-release monorepo ([af82693](https://github.com/shunkakinoki/configurations/commit/af82693a2d0d662f987ef5b1304393f3b7c367bb))
+
 ## @shunkakinoki/semantic-release [1.2.4](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/semantic-release@1.2.3...@shunkakinoki/semantic-release@1.2.4) (2021-08-16)
 
 ### Bug Fixes
