@@ -1,3 +1,11 @@
+## [1.8.53](https://github.com/shunkakinoki/configurations/compare/v1.8.52...v1.8.53) (2021-10-02)
+
+### Bug Fixes
+
+- **deps:** update commitlint monorepo to ^13.2.0 ([e5ac9ee](https://github.com/shunkakinoki/configurations/commit/e5ac9eeaf1bdc862767eb985e0ae753a037db92b))
+- **deps:** update semantic-release monorepo ([684f083](https://github.com/shunkakinoki/configurations/commit/684f083d525665e157d3cb92817d98a915efbfc0))
+- **deps:** update typescript-eslint monorepo to ^4.32.0 ([7dab663](https://github.com/shunkakinoki/configurations/commit/7dab66365d409bd2d38d23803a8adab7111ea9d9))
+
 ## [1.8.52](https://github.com/shunkakinoki/configurations/compare/v1.8.51...v1.8.52) (2021-10-02)
 
 ### Bug Fixes
