@@ -1,3 +1,9 @@
+## @shunkakinoki/npm-package-json-lint-config [1.0.3](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/npm-package-json-lint-config@1.0.2...@shunkakinoki/npm-package-json-lint-config@1.0.3) (2021-10-02)
+
+### Bug Fixes
+
+- **deps:** update dependency npm-package-json-lint to ^5.2.4 ([c10086c](https://github.com/shunkakinoki/configurations/commit/c10086c88c910837c5a5c4b97f12c3f46ccfbb3d))
+
 ## @shunkakinoki/npm-package-json-lint-config [1.0.2](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/npm-package-json-lint-config@1.0.1...@shunkakinoki/npm-package-json-lint-config@1.0.2) (2021-08-16)
 
 ### Bug Fixes
