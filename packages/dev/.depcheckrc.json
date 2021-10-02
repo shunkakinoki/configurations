@@ -1,3 +1,3 @@
 {
-  "ignores": ["concurrently", "scripty", "sort-package-json"]
+  "ignores": ["concurrently", "cross-env", "scripty", "sort-package-json"]
 }

@@ -25,6 +25,7 @@
     "editorGroup.border": "#d04649",
     "panel.border": "#d04649",
     "sideBar.border": "#d04649",
-    "tab.activeBorder": "#d04649"
+    "tab.activeBorder": "#d04649",
+    "sash.hoverBorder": "#d04649"
   }
 }
