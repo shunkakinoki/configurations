@@ -2426,6 +2426,11 @@ at-least-node@^1.0.0:
   resolved "https://registry.yarnpkg.com/at-least-node/-/at-least-node-1.0.0.tgz#602cd4b46e844ad4effc92a8011a3c46e0238dc2"
   integrity sha512-+q/t7Ekv1EDY2l6Gda6LLiX14rU9TV20Wa3ofeQmwPFZbOMo9DXrLbOjFaaclkXKWidIaopwAObQDqwWtGUjqg==
 
+auth-header@1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/auth-header/-/auth-header-1.0.0.tgz#ea24fdc5588e1eb8b750df8655a396aa48fc9076"
+  integrity sha512-CPPazq09YVDUNNVWo4oSPTQmtwIzHusZhQmahCKvIsk0/xH6U3QsMAv3sM+7+Q0B1K2KJ/Q38OND317uXs4NHA==
+
 autoprefixer@^9.8.6:
   version "9.8.6"
   resolved "https://registry.yarnpkg.com/autoprefixer/-/autoprefixer-9.8.6.tgz#3b73594ca1bf9266320c5acf1588d74dea74210f"
@@ -8552,10 +8557,10 @@ remote-git-tags@^3.0.0:
   resolved "https://registry.yarnpkg.com/remote-git-tags/-/remote-git-tags-3.0.0.tgz#424f8ec2cdea00bb5af1784a49190f25e16983c3"
   integrity sha512-C9hAO4eoEsX+OXA4rla66pXZQ+TLQ8T9dttgQj18yuKlPMTVkIkdYXvlMC55IuUsIkV6DpmQYi10JKFLaU+l7w==
 
-renovate@^27.25.0:
-  version "27.25.0"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-27.25.0.tgz#76b9fed8d7b9718714a447e61424b1f538740999"
-  integrity sha512-W6F+lgM8IWJxjENLIpbRtrCgoXwdCOIbI8+Nz2CPzDBdwfSNvPQnHOYXQZiSkcaXv8FfYBxhq5yVvl1n+0ynMA==
+renovate@^27.26.0:
+  version "27.26.0"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-27.26.0.tgz#1fad665fcd319470bd5ed83dffdf4191c9025eae"
+  integrity sha512-4cdQkXEMEhnepXij9jwakeUIGn5iDDkzhRvrB8yo+C1UJ7+NBfm4EPd0uBWX70m9ErLC2+CCIplmA1JXaB876Q==
   dependencies:
     "@aws-sdk/client-ecr" "3.25.0"
     "@breejs/later" "4.0.2"
@@ -8565,6 +8570,7 @@ renovate@^27.25.0:
     "@sindresorhus/is" "4.2.0"
     "@yarnpkg/core" "2.4.0"
     "@yarnpkg/parsers" "2.4.0"
+    auth-header "1.0.0"
     azure-devops-node-api "11.0.1"
     bunyan "1.8.15"
     cacache "15.3.0"
@@ -8627,7 +8633,6 @@ renovate@^27.25.0:
     upath "2.0.1"
     url-join "4.0.1"
     validate-npm-package-name "3.0.0"
-    www-authenticate "0.6.2"
     xmldoc "1.1.2"
   optionalDependencies:
     re2 "1.16.0"
@@ -10309,11 +10314,6 @@ write-file-atomic@^3.0.0, write-file-atomic@^3.0.3:
     is-typedarray "^1.0.0"
     signal-exit "^3.0.2"
     typedarray-to-buffer "^3.1.5"
-
-www-authenticate@0.6.2:
-  version "0.6.2"
-  resolved "https://registry.yarnpkg.com/www-authenticate/-/www-authenticate-0.6.2.tgz#b7a7d487bdc5a8b423a4d8fd5f9c661adde50ebf"
-  integrity sha1-t6fUh73FqLQjpNj9X5xmGt3lDr8=
 
 xdg-basedir@^4.0.0:
   version "4.0.0"
