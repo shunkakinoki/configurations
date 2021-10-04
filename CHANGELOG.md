@@ -1,3 +1,9 @@
+## [1.8.55](https://github.com/shunkakinoki/configurations/compare/v1.8.54...v1.8.55) (2021-10-04)
+
+### Bug Fixes
+
+- **deps:** update dependency concurrently to ^6.3.0 ([e7724dd](https://github.com/shunkakinoki/configurations/commit/e7724dda1adfe85b7598acb9f0ace1e3f64630ab))
+
 ## [1.8.54](https://github.com/shunkakinoki/configurations/compare/v1.8.53...v1.8.54) (2021-10-04)
 
 ### Bug Fixes
