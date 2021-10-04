@@ -1,3 +1,11 @@
+## [1.8.54](https://github.com/shunkakinoki/configurations/compare/v1.8.53...v1.8.54) (2021-10-04)
+
+### Bug Fixes
+
+- **deps:** update dependency @tailwindcss/aspect-ratio to ^0.2.2 ([4646bf3](https://github.com/shunkakinoki/configurations/commit/4646bf31417a7aa8b0843ac508471005cfc38607))
+- **deps:** update dependency eslint-plugin-tailwindcss to ^1.16.1 ([54857ba](https://github.com/shunkakinoki/configurations/commit/54857ba7260f46dcadce76af4c137f74012489c5))
+- **deps:** update dependency renovate to ^27.26.0 ([4c59c18](https://github.com/shunkakinoki/configurations/commit/4c59c18c6f9c752bbad9534c1c50a02a80bdd94f))
+
 ## [1.8.53](https://github.com/shunkakinoki/configurations/compare/v1.8.52...v1.8.53) (2021-10-02)
 
 ### Bug Fixes
