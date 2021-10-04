@@ -1,3 +1,9 @@
+## @shunkakinoki/eslint-config [1.1.21](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/eslint-config@1.1.20...@shunkakinoki/eslint-config@1.1.21) (2021-10-04)
+
+### Bug Fixes
+
+- **deps:** update dependency eslint-plugin-tailwindcss to ^1.16.1 ([54857ba](https://github.com/shunkakinoki/configurations/commit/54857ba7260f46dcadce76af4c137f74012489c5))
+
 ## @shunkakinoki/eslint-config [1.1.20](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/eslint-config@1.1.19...@shunkakinoki/eslint-config@1.1.20) (2021-10-02)
 
 ### Bug Fixes
