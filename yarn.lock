@@ -8557,10 +8557,10 @@ remote-git-tags@^3.0.0:
   resolved "https://registry.yarnpkg.com/remote-git-tags/-/remote-git-tags-3.0.0.tgz#424f8ec2cdea00bb5af1784a49190f25e16983c3"
   integrity sha512-C9hAO4eoEsX+OXA4rla66pXZQ+TLQ8T9dttgQj18yuKlPMTVkIkdYXvlMC55IuUsIkV6DpmQYi10JKFLaU+l7w==
 
-renovate@^27.30.3:
-  version "27.30.3"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-27.30.3.tgz#a2605cb12c449bd47059827d0ee61a9af4cfffda"
-  integrity sha512-fdr687cnSpx33CgrtW60A04FJFHh/4+KO0HH5i5prGZ9UKeKL96/YQQlORu/P0mwHPWlwsdGx95djtsxBm7/eQ==
+renovate@^27.30.4:
+  version "27.30.4"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-27.30.4.tgz#002725c51606217bafa59bdcb7fce0ef8467c7c8"
+  integrity sha512-6AQqdJmVtFq0PEIWDbK4iTT6JMK//b5i6F7Qi7URwLvixFeYzaimvDxwX0milVPdVSJhE+Fph/BbuNSrckHysg==
   dependencies:
     "@aws-sdk/client-ecr" "3.25.0"
     "@breejs/later" "4.0.2"
