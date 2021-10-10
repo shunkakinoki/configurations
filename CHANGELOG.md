@@ -1,3 +1,12 @@
+## [1.8.63](https://github.com/shunkakinoki/configurations/compare/v1.8.62...v1.8.63) (2021-10-10)
+
+### Bug Fixes
+
+- **deps:** update commitlint monorepo to ^13.2.1 ([130e10b](https://github.com/shunkakinoki/configurations/commit/130e10b25a6e7f4d4628fc194954088806c3dd91))
+- **deps:** update dependency lint-staged to ^11.2.2 ([83d4791](https://github.com/shunkakinoki/configurations/commit/83d479122ca7a257b950b51b30057afb48b1b8ac))
+- **deps:** update dependency renovate to ^27.31.0 ([279d9af](https://github.com/shunkakinoki/configurations/commit/279d9af81e9e7092dc81858d70908900b6e3ea8d))
+- **deps:** update dependency renovate to ^27.31.4 ([17d2dd6](https://github.com/shunkakinoki/configurations/commit/17d2dd6a012688b4102225738a3dc8c75af71bc3))
+
 ## [1.8.62](https://github.com/shunkakinoki/configurations/compare/v1.8.61...v1.8.62) (2021-10-07)
 
 ### Bug Fixes
