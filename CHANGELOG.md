@@ -1,3 +1,9 @@
+## [1.8.67](https://github.com/shunkakinoki/configurations/compare/v1.8.66...v1.8.67) (2021-10-10)
+
+### Bug Fixes
+
+- **deps:** update dependency renovate to ^27.31.6 ([eef8bbc](https://github.com/shunkakinoki/configurations/commit/eef8bbc23572eaefc1b81a2d701e9d0559422ae4))
+
 ## [1.8.66](https://github.com/shunkakinoki/configurations/compare/v1.8.65...v1.8.66) (2021-10-10)
 
 ### Bug Fixes
