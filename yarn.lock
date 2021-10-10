@@ -8547,7 +8547,7 @@ remote-git-tags@^3.0.0:
   resolved "https://registry.yarnpkg.com/remote-git-tags/-/remote-git-tags-3.0.0.tgz#424f8ec2cdea00bb5af1784a49190f25e16983c3"
   integrity sha512-C9hAO4eoEsX+OXA4rla66pXZQ+TLQ8T9dttgQj18yuKlPMTVkIkdYXvlMC55IuUsIkV6DpmQYi10JKFLaU+l7w==
 
-renovate@^27.31.6:
+renovate@^27.31.7:
   version "27.31.7"
   resolved "https://registry.yarnpkg.com/renovate/-/renovate-27.31.7.tgz#7d69af01750bd25797bf4616c83a599174d185c1"
   integrity sha512-jgl3ZytZP1cv1gYKNBCYHdeivuvTX6/D2sMtC7YUIzSewXqqVPDKlHya++T9vj+I98lckhncX9KLIOEhzlc9XA==
