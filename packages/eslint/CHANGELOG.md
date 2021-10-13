@@ -1,3 +1,9 @@
+## @shunkakinoki/eslint-config [1.1.25](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/eslint-config@1.1.24...@shunkakinoki/eslint-config@1.1.25) (2021-10-13)
+
+### Bug Fixes
+
+- **deps:** update dependency eslint to v8 ([1663b5a](https://github.com/shunkakinoki/configurations/commit/1663b5aa49e82ff4f185cdedaecd52469f324c9c))
+
 ## @shunkakinoki/eslint-config [1.1.24](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/eslint-config@1.1.23...@shunkakinoki/eslint-config@1.1.24) (2021-10-13)
 
 ### Bug Fixes
