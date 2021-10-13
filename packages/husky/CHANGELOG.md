@@ -1,3 +1,9 @@
+## @shunkakinoki/husky [1.0.4](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/husky@1.0.3...@shunkakinoki/husky@1.0.4) (2021-10-13)
+
+### Bug Fixes
+
+- **deps:** update dependency git-cz to ^4.8.0 ([2c3486e](https://github.com/shunkakinoki/configurations/commit/2c3486e0fd9e072b98e6112a6f9de77790bfd7ed))
+
 ## @shunkakinoki/husky [1.0.3](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/husky@1.0.2...@shunkakinoki/husky@1.0.3) (2021-10-02)
 
 ### Bug Fixes
