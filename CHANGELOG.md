@@ -1,3 +1,9 @@
+## [1.8.77](https://github.com/shunkakinoki/configurations/compare/v1.8.76...v1.8.77) (2021-10-13)
+
+### Bug Fixes
+
+- **deps:** update dependency git-cz to ^4.8.0 ([2c3486e](https://github.com/shunkakinoki/configurations/commit/2c3486e0fd9e072b98e6112a6f9de77790bfd7ed))
+
 ## [1.8.76](https://github.com/shunkakinoki/configurations/compare/v1.8.75...v1.8.76) (2021-10-13)
 
 ### Bug Fixes
