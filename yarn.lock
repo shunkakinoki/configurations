@@ -8547,10 +8547,10 @@ remote-git-tags@^3.0.0:
   resolved "https://registry.yarnpkg.com/remote-git-tags/-/remote-git-tags-3.0.0.tgz#424f8ec2cdea00bb5af1784a49190f25e16983c3"
   integrity sha512-C9hAO4eoEsX+OXA4rla66pXZQ+TLQ8T9dttgQj18yuKlPMTVkIkdYXvlMC55IuUsIkV6DpmQYi10JKFLaU+l7w==
 
-renovate@^27.31.10:
-  version "27.31.10"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-27.31.10.tgz#88d0278c71c17adc0c09c1608ceacb2055fc9a1a"
-  integrity sha512-bHZGAZfPCnb06G4blFosM7Fi8m9UtWjynsogwa6f6PXNZLFfPZF9SrME/Cf3BTf99uibZ1rIwExu9oV6p8HOvA==
+renovate@^28.1.0:
+  version "28.1.0"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-28.1.0.tgz#f4ca7324cf0c0d3320f56f136c4511cc01786c00"
+  integrity sha512-jmvXZF69xDroO46aJDWFmBKYjphJOBUbzx0Awn0qULz1VDv8AXqd8IiMzb7gN4ZUiD8+WZ8pgSz+I/k6r1MryQ==
   dependencies:
     "@aws-sdk/client-ecr" "3.25.0"
     "@breejs/later" "4.0.2"
@@ -8618,7 +8618,7 @@ renovate@^27.31.10:
     shlex "2.1.0"
     shortid "2.2.16"
     simple-git "2.46.0"
-    slugify "1.6.0"
+    slugify "1.6.1"
     traverse "0.6.6"
     upath "2.0.1"
     url-join "4.0.1"
@@ -9107,10 +9107,10 @@ slice-ansi@^4.0.0:
     astral-regex "^2.0.0"
     is-fullwidth-code-point "^3.0.0"
 
-slugify@1.6.0:
-  version "1.6.0"
-  resolved "https://registry.yarnpkg.com/slugify/-/slugify-1.6.0.tgz#6bdf8ed01dabfdc46425b67e3320b698832ff893"
-  integrity sha512-FkMq+MQc5hzYgM86nLuHI98Acwi3p4wX+a5BO9Hhw4JdK4L7WueIiZ4tXEobImPqBz2sVcV0+Mu3GRB30IGang==
+slugify@1.6.1:
+  version "1.6.1"
+  resolved "https://registry.yarnpkg.com/slugify/-/slugify-1.6.1.tgz#a5fcaef29f4e57c6e932ce7044b6ffd9cf81b641"
+  integrity sha512-5ofqMTbetNhxlzjYYLBaZFQd6oiTuSkQlyfPEFIMwgUABlZQ0hbk5xIV9Ydd5jghWeRoO7GkiJliUvTpLOjNRA==
 
 smart-buffer@^4.1.0:
   version "4.1.0"
