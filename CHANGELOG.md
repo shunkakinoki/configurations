@@ -1,3 +1,9 @@
+## [1.8.76](https://github.com/shunkakinoki/configurations/compare/v1.8.75...v1.8.76) (2021-10-13)
+
+### Bug Fixes
+
+- **deps:** update dependency tailwindcss to ^2.2.17 ([7da814f](https://github.com/shunkakinoki/configurations/commit/7da814f765d5ad8a04232fec2ab778ed57cca77f))
+
 ## [1.8.75](https://github.com/shunkakinoki/configurations/compare/v1.8.74...v1.8.75) (2021-10-13)
 
 ### Bug Fixes
