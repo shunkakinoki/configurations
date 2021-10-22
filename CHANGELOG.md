@@ -1,3 +1,9 @@
+## [1.8.82](https://github.com/shunkakinoki/configurations/compare/v1.8.81...v1.8.82) (2021-10-22)
+
+### Bug Fixes
+
+- **deps:** update dependency stylelint-config-standard to v23 ([04ceea7](https://github.com/shunkakinoki/configurations/commit/04ceea7d6b8223d35e31f16453e28ca99214ccc6))
+
 ## [1.8.81](https://github.com/shunkakinoki/configurations/compare/v1.8.80...v1.8.81) (2021-10-22)
 
 ### Bug Fixes
