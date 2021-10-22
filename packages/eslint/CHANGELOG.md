@@ -1,3 +1,9 @@
+## @shunkakinoki/eslint-config [1.1.27](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/eslint-config@1.1.26...@shunkakinoki/eslint-config@1.1.27) (2021-10-22)
+
+### Bug Fixes
+
+- **deps:** update dependency eslint-plugin-editorconfig to ^3.2.0 ([ed4948d](https://github.com/shunkakinoki/configurations/commit/ed4948d7ec92a125a322548ff5833a91bb0260ba))
+
 ## @shunkakinoki/eslint-config [1.1.26](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/eslint-config@1.1.25...@shunkakinoki/eslint-config@1.1.26) (2021-10-16)
 
 ### Bug Fixes
