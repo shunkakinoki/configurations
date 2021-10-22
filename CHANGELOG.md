@@ -1,3 +1,11 @@
+## [1.8.80](https://github.com/shunkakinoki/configurations/compare/v1.8.79...v1.8.80) (2021-10-22)
+
+### Bug Fixes
+
+- **deps:** update dependency eslint-plugin-editorconfig to ^3.2.0 ([ed4948d](https://github.com/shunkakinoki/configurations/commit/ed4948d7ec92a125a322548ff5833a91bb0260ba))
+- **deps:** update dependency husky to ^7.0.4 ([b7aabd6](https://github.com/shunkakinoki/configurations/commit/b7aabd62cbb488f513b800fc9e1d73c9239a1ed2))
+- **deps:** update dependency multi-semantic-release to ^2.9.1 ([7f3be33](https://github.com/shunkakinoki/configurations/commit/7f3be334d402fa52c40d1a90ac7cfc84e438ab25))
+
 ## [1.8.79](https://github.com/shunkakinoki/configurations/compare/v1.8.78...v1.8.79) (2021-10-16)
 
 ### Bug Fixes
