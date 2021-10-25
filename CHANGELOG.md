@@ -1,3 +1,11 @@
+## [1.8.85](https://github.com/shunkakinoki/configurations/compare/v1.8.84...v1.8.85) (2021-10-25)
+
+### Bug Fixes
+
+- **deps:** update dependency eslint to ^8.1.0 ([57c34c5](https://github.com/shunkakinoki/configurations/commit/57c34c5778f7b9c3baab8aeaee470a118c7c3ca6))
+- **deps:** update dependency lint-staged to ^11.2.4 ([b23b271](https://github.com/shunkakinoki/configurations/commit/b23b27195bfbe33efbbee18309fe25cfaa0b2cd1))
+- **deps:** update dependency renovate to ^28.8.5 ([9cf559e](https://github.com/shunkakinoki/configurations/commit/9cf559ef0a60cb739590c7048dbed6e15d034c27))
+
 ## [1.8.84](https://github.com/shunkakinoki/configurations/compare/v1.8.83...v1.8.84) (2021-10-22)
 
 ### Bug Fixes
