@@ -1,3 +1,9 @@
+## @shunkakinoki/lint-staged [1.1.8](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/lint-staged@1.1.7...@shunkakinoki/lint-staged@1.1.8) (2021-10-25)
+
+### Bug Fixes
+
+- **deps:** update dependency lint-staged to ^11.2.4 ([b23b271](https://github.com/shunkakinoki/configurations/commit/b23b27195bfbe33efbbee18309fe25cfaa0b2cd1))
+
 ## @shunkakinoki/lint-staged [1.1.7](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/lint-staged@1.1.6...@shunkakinoki/lint-staged@1.1.7) (2021-10-10)
 
 ### Bug Fixes
