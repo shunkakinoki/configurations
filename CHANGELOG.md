@@ -1,3 +1,9 @@
+## [1.8.89](https://github.com/shunkakinoki/configurations/compare/v1.8.88...v1.8.89) (2021-10-25)
+
+### Bug Fixes
+
+- **deps:** update dependency multi-semantic-release to ^2.9.2 ([cd4832e](https://github.com/shunkakinoki/configurations/commit/cd4832e702eedf00b35bf4db605b37fb59247dcc))
+
 ## [1.8.88](https://github.com/shunkakinoki/configurations/compare/v1.8.87...v1.8.88) (2021-10-25)
 
 ### Bug Fixes
