@@ -1,3 +1,12 @@
+## [1.8.92](https://github.com/shunkakinoki/configurations/compare/v1.8.91...v1.8.92) (2021-10-28)
+
+### Bug Fixes
+
+- **deps:** update dependency @next/eslint-plugin-next to v12 ([5b44d20](https://github.com/shunkakinoki/configurations/commit/5b44d203b4f410186b3c4b417e887d5f2a17dfc3))
+- **deps:** update dependency is-ci to ^3.0.1 ([49581ac](https://github.com/shunkakinoki/configurations/commit/49581ac1eeac867d62316d6b804966f6281cba02))
+- **deps:** update dependency renovate to ^28.11.2 ([3a7a184](https://github.com/shunkakinoki/configurations/commit/3a7a1848c4b57d31100cf8e2a3a67104ff17ec1a))
+- **deps:** update dependency stylelint to ^14.0.1 ([11e3f06](https://github.com/shunkakinoki/configurations/commit/11e3f066b457322c01608d66138bcbbf663be9dd))
+
 ## [1.8.91](https://github.com/shunkakinoki/configurations/compare/v1.8.90...v1.8.91) (2021-10-25)
 
 ### Bug Fixes
