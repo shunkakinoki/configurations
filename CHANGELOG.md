@@ -1,3 +1,9 @@
+## [1.8.94](https://github.com/shunkakinoki/configurations/compare/v1.8.93...v1.8.94) (2021-10-28)
+
+### Bug Fixes
+
+- **deps:** update dependency npm-package-json-lint to ^5.4.1 ([5e64da6](https://github.com/shunkakinoki/configurations/commit/5e64da6aa6bfe245f15ea2a86c942f7be80e35d9))
+
 ## [1.8.93](https://github.com/shunkakinoki/configurations/compare/v1.8.92...v1.8.93) (2021-10-28)
 
 ### Bug Fixes
