@@ -1,3 +1,9 @@
+## @shunkakinoki/husky [1.0.6](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/husky@1.0.5...@shunkakinoki/husky@1.0.6) (2021-10-28)
+
+### Bug Fixes
+
+- **deps:** update dependency is-ci to ^3.0.1 ([49581ac](https://github.com/shunkakinoki/configurations/commit/49581ac1eeac867d62316d6b804966f6281cba02))
+
 ## @shunkakinoki/husky [1.0.5](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/husky@1.0.4...@shunkakinoki/husky@1.0.5) (2021-10-22)
 
 ### Bug Fixes
