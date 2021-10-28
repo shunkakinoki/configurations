@@ -1,3 +1,9 @@
+## @shunkakinoki/stylelint [1.0.4](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/stylelint@1.0.3...@shunkakinoki/stylelint@1.0.4) (2021-10-28)
+
+### Bug Fixes
+
+- **deps:** update dependency stylelint to ^14.0.1 ([11e3f06](https://github.com/shunkakinoki/configurations/commit/11e3f066b457322c01608d66138bcbbf663be9dd))
+
 ## @shunkakinoki/stylelint [1.0.3](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/stylelint@1.0.2...@shunkakinoki/stylelint@1.0.3) (2021-10-22)
 
 ### Bug Fixes
