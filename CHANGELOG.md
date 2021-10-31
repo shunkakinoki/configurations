@@ -1,3 +1,11 @@
+## [1.8.99](https://github.com/shunkakinoki/configurations/compare/v1.8.98...v1.8.99) (2021-10-31)
+
+### Bug Fixes
+
+- **deps:** update dependency renovate to ^28.17.0 ([8a5ce98](https://github.com/shunkakinoki/configurations/commit/8a5ce98b63adaa6753d487bcaf0450f573196471))
+- **deps:** update dependency tailwindcss to ^2.2.19 ([b3f4371](https://github.com/shunkakinoki/configurations/commit/b3f4371aaa83af068a546595146c4abc1b3d7c60))
+- **deps:** update semantic-release monorepo ([260066d](https://github.com/shunkakinoki/configurations/commit/260066db22d26efb83e06704c810e658522e66f8))
+
 ## [1.8.98](https://github.com/shunkakinoki/configurations/compare/v1.8.97...v1.8.98) (2021-10-28)
 
 ### Bug Fixes
