@@ -1,3 +1,9 @@
+## [1.8.113](https://github.com/shunkakinoki/configurations/compare/v1.8.112...v1.8.113) (2021-11-04)
+
+### Bug Fixes
+
+- **deps:** update dependency multi-semantic-release to ^2.10.0 ([dd6ce67](https://github.com/shunkakinoki/configurations/commit/dd6ce677973fb935003329c3064e1876bead4f6d))
+
 ## [1.8.112](https://github.com/shunkakinoki/configurations/compare/v1.8.111...v1.8.112) (2021-11-04)
 
 ### Bug Fixes
