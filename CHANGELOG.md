@@ -1,3 +1,9 @@
+## [1.8.111](https://github.com/shunkakinoki/configurations/compare/v1.8.110...v1.8.111) (2021-11-04)
+
+### Bug Fixes
+
+- **deps:** update dependency npm-check-updates to v12 ([afed690](https://github.com/shunkakinoki/configurations/commit/afed690c9506033b5fb09015b8b22590c4b2ffd6))
+
 ## [1.8.110](https://github.com/shunkakinoki/configurations/compare/v1.8.109...v1.8.110) (2021-11-04)
 
 ### Bug Fixes
