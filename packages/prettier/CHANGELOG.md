@@ -1,3 +1,9 @@
+## @shunkakinoki/prettier [1.0.2](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/prettier@1.0.1...@shunkakinoki/prettier@1.0.2) (2021-11-07)
+
+### Performance Improvements
+
+- fix eslint hook ([65e4194](https://github.com/shunkakinoki/configurations/commit/65e41943cf0e0971ea5e6cbc5878e84c71d4c1f2))
+
 ## @shunkakinoki/prettier [1.0.1](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/prettier@1.0.0...@shunkakinoki/prettier@1.0.1) (2021-10-02)
 
 ### Bug Fixes
