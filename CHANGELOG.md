@@ -1,3 +1,9 @@
+## [1.8.118](https://github.com/shunkakinoki/configurations/compare/v1.8.117...v1.8.118) (2021-11-07)
+
+### Bug Fixes
+
+- **deps:** update dependency eslint-plugin-react-hooks to ^4.2.1-alpha-fd5e01c2e-20210913 ([a830f22](https://github.com/shunkakinoki/configurations/commit/a830f22bcf6c504a75c6d1551303a3d171433e80))
+
 ## [1.8.117](https://github.com/shunkakinoki/configurations/compare/v1.8.116...v1.8.117) (2021-11-07)
 
 ### Performance Improvements
