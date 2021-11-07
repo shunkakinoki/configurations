@@ -1,3 +1,9 @@
+## [1.8.117](https://github.com/shunkakinoki/configurations/compare/v1.8.116...v1.8.117) (2021-11-07)
+
+### Performance Improvements
+
+- fix eslint hook ([65e4194](https://github.com/shunkakinoki/configurations/commit/65e41943cf0e0971ea5e6cbc5878e84c71d4c1f2))
+
 ## [1.8.116](https://github.com/shunkakinoki/configurations/compare/v1.8.115...v1.8.116) (2021-11-07)
 
 ### Bug Fixes
