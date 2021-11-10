@@ -1,3 +1,9 @@
+## @shunkakinoki/eslint-config [1.1.40](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/eslint-config@1.1.39...@shunkakinoki/eslint-config@1.1.40) (2021-11-10)
+
+### Bug Fixes
+
+- **deps:** update dependency eslint-plugin-jsx-a11y to ^6.5.1 ([0fd2811](https://github.com/shunkakinoki/configurations/commit/0fd28112a52a0134561c8ec37ffa28ccbb19eeb9))
+
 ## @shunkakinoki/eslint-config [1.1.39](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/eslint-config@1.1.38...@shunkakinoki/eslint-config@1.1.39) (2021-11-10)
 
 ### Bug Fixes
