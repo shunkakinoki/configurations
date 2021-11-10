@@ -1,3 +1,9 @@
+## [1.8.125](https://github.com/shunkakinoki/configurations/compare/v1.8.124...v1.8.125) (2021-11-10)
+
+### Bug Fixes
+
+- **deps:** update dependency eslint-plugin-jsx-a11y to ^6.5.1 ([0fd2811](https://github.com/shunkakinoki/configurations/commit/0fd28112a52a0134561c8ec37ffa28ccbb19eeb9))
+
 ## [1.8.124](https://github.com/shunkakinoki/configurations/compare/v1.8.123...v1.8.124) (2021-11-10)
 
 ### Bug Fixes
