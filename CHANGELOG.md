@@ -1,3 +1,12 @@
+## [1.8.119](https://github.com/shunkakinoki/configurations/compare/v1.8.118...v1.8.119) (2021-11-10)
+
+### Bug Fixes
+
+- **deps:** update dependency eslint-plugin-tailwindcss to ^1.17.1 ([eaa615f](https://github.com/shunkakinoki/configurations/commit/eaa615f6d1005d9086c83b4ce0ef6bd64aff9207))
+- **deps:** update dependency npm-check-updates to ^12.0.2 ([2828cf4](https://github.com/shunkakinoki/configurations/commit/2828cf449239b3242002e5c2e983601fb1950681))
+- **deps:** update dependency renovate to ^29.3.4 ([bc00c61](https://github.com/shunkakinoki/configurations/commit/bc00c611fd292bf9400c42239f4afb1a69fe0cb6))
+- **deps:** update typescript-eslint monorepo to ^5.3.1 ([ad867fe](https://github.com/shunkakinoki/configurations/commit/ad867fe881c63b4b8615754d420712235be5eb75))
+
 ## [1.8.118](https://github.com/shunkakinoki/configurations/compare/v1.8.117...v1.8.118) (2021-11-07)
 
 ### Bug Fixes
