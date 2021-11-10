@@ -1,3 +1,10 @@
+## @shunkakinoki/eslint-config [1.1.39](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/eslint-config@1.1.38...@shunkakinoki/eslint-config@1.1.39) (2021-11-10)
+
+### Bug Fixes
+
+- **deps:** update dependency eslint-plugin-import to ^2.25.3 ([86b1fcd](https://github.com/shunkakinoki/configurations/commit/86b1fcdecb011fe04876fccc0c84f3f41b3fd25a))
+- **deps:** update dependency eslint-plugin-react to ^7.27.0 ([e5baeee](https://github.com/shunkakinoki/configurations/commit/e5baeee41478c13b5a633d86ea62a6a101474980))
+
 ## @shunkakinoki/eslint-config [1.1.38](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/eslint-config@1.1.37...@shunkakinoki/eslint-config@1.1.38) (2021-11-10)
 
 ### Bug Fixes
