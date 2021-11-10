@@ -1,3 +1,9 @@
+## [1.8.124](https://github.com/shunkakinoki/configurations/compare/v1.8.123...v1.8.124) (2021-11-10)
+
+### Bug Fixes
+
+- **deps:** update dependency renovate to ^29.4.1 ([9dbfab5](https://github.com/shunkakinoki/configurations/commit/9dbfab5e5c69e6e99d4c564078fefb8e16e3eb92))
+
 ## [1.8.123](https://github.com/shunkakinoki/configurations/compare/v1.8.122...v1.8.123) (2021-11-10)
 
 ### Bug Fixes
