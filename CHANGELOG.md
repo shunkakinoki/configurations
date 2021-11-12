@@ -1,3 +1,9 @@
+## [1.8.127](https://github.com/shunkakinoki/configurations/compare/v1.8.126...v1.8.127) (2021-11-12)
+
+### Bug Fixes
+
+- **deps:** update dependency prettier-plugin-packagejson to ^2.2.13 ([9626214](https://github.com/shunkakinoki/configurations/commit/96262146249f8fdc76923d400f61acadeb7289f5))
+
 ## [1.8.126](https://github.com/shunkakinoki/configurations/compare/v1.8.125...v1.8.126) (2021-11-10)
 
 ### Bug Fixes
