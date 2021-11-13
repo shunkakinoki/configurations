@@ -1,3 +1,9 @@
+## [1.8.130](https://github.com/shunkakinoki/configurations/compare/v1.8.129...v1.8.130) (2021-11-13)
+
+### Bug Fixes
+
+- **deps:** update dependency lint-staged to v12 ([020e581](https://github.com/shunkakinoki/configurations/commit/020e58159332f1520c1d51182116b6e67aaa7089))
+
 ## [1.8.129](https://github.com/shunkakinoki/configurations/compare/v1.8.128...v1.8.129) (2021-11-13)
 
 ### Bug Fixes
