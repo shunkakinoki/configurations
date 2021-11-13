@@ -1,3 +1,10 @@
+## [1.8.129](https://github.com/shunkakinoki/configurations/compare/v1.8.128...v1.8.129) (2021-11-13)
+
+### Bug Fixes
+
+- **deps:** update dependency concurrently to ^6.4.0 ([99ad809](https://github.com/shunkakinoki/configurations/commit/99ad8099ca579121be7a91029d04adc29a99980f))
+- **deps:** update dependency sort-package-json to ^1.53.1 ([371c896](https://github.com/shunkakinoki/configurations/commit/371c8968f8abcc69c19101c8fef01a7a966b50ce))
+
 ## [1.8.128](https://github.com/shunkakinoki/configurations/compare/v1.8.127...v1.8.128) (2021-11-13)
 
 ### Bug Fixes
