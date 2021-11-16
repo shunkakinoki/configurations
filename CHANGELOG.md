@@ -1,3 +1,12 @@
+## [1.8.132](https://github.com/shunkakinoki/configurations/compare/v1.8.131...v1.8.132) (2021-11-16)
+
+### Bug Fixes
+
+- **deps:** update dependency @next/eslint-plugin-next to ^12.0.4 ([057851d](https://github.com/shunkakinoki/configurations/commit/057851d1b53ce455a194143c3896e2a0a4619112))
+- **deps:** update dependency lint-staged to ^12.0.2 ([0d70312](https://github.com/shunkakinoki/configurations/commit/0d70312edadc39d0bd7ffe0ed7673b529abbf75b))
+- **deps:** update dependency npm-package-json-lint to ^5.4.2 ([f5b933c](https://github.com/shunkakinoki/configurations/commit/f5b933c2437b7a9c492f336453c521f6535ed979))
+- **deps:** update dependency stylelint to ^14.1.0 ([bb56e61](https://github.com/shunkakinoki/configurations/commit/bb56e61c2b1428d33c0ac6ef4799e8f5bc86148f))
+
 ## [1.8.131](https://github.com/shunkakinoki/configurations/compare/v1.8.130...v1.8.131) (2021-11-13)
 
 ### Bug Fixes
