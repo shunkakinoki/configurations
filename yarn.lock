@@ -8496,10 +8496,10 @@ remove-trailing-separator@^1.0.1:
   resolved "https://registry.yarnpkg.com/remove-trailing-separator/-/remove-trailing-separator-1.1.0.tgz#c24bce2a283adad5bc3f58e0d48249b92379d8ef"
   integrity sha1-wkvOKig62tW8P1jg1IJJuSN52O8=
 
-renovate@^29.9.1:
-  version "29.9.1"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-29.9.1.tgz#ca31026850d3ad7876c0f567e3b458abc72090de"
-  integrity sha512-NCpMDBbsJdyYCkurrG73Kdy7OBidsSbLJrNLIRSZKvOkYyaXe0XB0QdfYCn6caTtQtKsgTklEvZuvMiC0GXX5A==
+renovate@^29.10.0:
+  version "29.10.0"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-29.10.0.tgz#89f14f1c9c1789c5915cba22dd007dd90309a0c5"
+  integrity sha512-vOZcqthJQuB1Y8lPlitUq/rOPJbgwJCyFiA4yv7plvC50bizUVjXGQAhp1CmonrsbbEMYJ5PIhvaWT6MPr+5Zg==
   dependencies:
     "@aws-sdk/client-ecr" "3.38.0"
     "@breejs/later" "4.1.0"
@@ -8571,6 +8571,7 @@ renovate@^29.9.1:
     simple-git "2.47.0"
     slugify "1.6.2"
     traverse "0.6.6"
+    tslib "2.3.1"
     upath "2.0.1"
     url-join "4.0.1"
     validate-npm-package-name "3.0.0"
@@ -9874,15 +9875,15 @@ tslib@2.1.0, tslib@~2.1.0:
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.1.0.tgz#da60860f1c2ecaa5703ab7d39bc05b6bf988b97a"
   integrity sha512-hcVC3wYEziELGGmEEXue7D75zbwIIVUMWAVbHItGPx0ziyXxrOMQx4rQEVEV45Ut/1IotuEvwqPopzIOkDMf0A==
 
+tslib@2.3.1, tslib@^2, tslib@^2.3.0, tslib@^2.3.1:
+  version "2.3.1"
+  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.3.1.tgz#e8a335add5ceae51aa261d32a490158ef042ef01"
+  integrity sha512-77EbyPPpMz+FRFRuAFlWMtmgUWGe9UOG2Z25NqCwiIjRhOf5iKGuzSe5P2w1laq+FkRy4p+PCuVkJSGkzTEKVw==
+
 tslib@^1.11.1, tslib@^1.13.0, tslib@^1.8.1, tslib@^1.9.0:
   version "1.14.1"
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-1.14.1.tgz#cf2d38bdc34a134bcaf1091c41f6619e2f672d00"
   integrity sha512-Xni35NKzjgMrwevysHTCArtLDpPvye8zV/0E4EyYn43P7/7qvQwPh9BGkHewbMulVntbigmcT7rdX3BNo9wRJg==
-
-tslib@^2, tslib@^2.3.0, tslib@^2.3.1:
-  version "2.3.1"
-  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.3.1.tgz#e8a335add5ceae51aa261d32a490158ef042ef01"
-  integrity sha512-77EbyPPpMz+FRFRuAFlWMtmgUWGe9UOG2Z25NqCwiIjRhOf5iKGuzSe5P2w1laq+FkRy4p+PCuVkJSGkzTEKVw==
 
 tslib@^2.0.0:
   version "2.3.0"
