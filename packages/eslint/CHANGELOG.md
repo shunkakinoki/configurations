@@ -1,3 +1,9 @@
+## @shunkakinoki/eslint-config [1.1.41](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/eslint-config@1.1.40...@shunkakinoki/eslint-config@1.1.41) (2021-11-16)
+
+### Bug Fixes
+
+- **deps:** update dependency @next/eslint-plugin-next to ^12.0.4 ([057851d](https://github.com/shunkakinoki/configurations/commit/057851d1b53ce455a194143c3896e2a0a4619112))
+
 ## @shunkakinoki/eslint-config [1.1.40](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/eslint-config@1.1.39...@shunkakinoki/eslint-config@1.1.40) (2021-11-10)
 
 ### Bug Fixes
