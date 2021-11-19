@@ -1,3 +1,13 @@
+## [1.8.137](https://github.com/shunkakinoki/configurations/compare/v1.8.136...v1.8.137) (2021-11-19)
+
+### Bug Fixes
+
+- **deps:** update commitlint monorepo to v15 ([c88b2ed](https://github.com/shunkakinoki/configurations/commit/c88b2ed0e9b49720b9d4459f9451f478c0c7f711))
+- **deps:** update dependency eslint-plugin-tailwindcss to ^1.17.2 ([d07c329](https://github.com/shunkakinoki/configurations/commit/d07c329e1e6a79dbede47f9bbf6332fafb3b91f6))
+- **deps:** update dependency lint-staged to ^12.0.3 ([2bd683b](https://github.com/shunkakinoki/configurations/commit/2bd683b3f4515cfba29d33e58755cd82f6458ea1))
+- **deps:** update dependency renovate to ^29.13.4 ([9cd9258](https://github.com/shunkakinoki/configurations/commit/9cd92585b9b96b41dacfb5036bad8e04dae74bab))
+- **deps:** update dependency typescript to ^4.5.2 ([40b2969](https://github.com/shunkakinoki/configurations/commit/40b2969932a5649e60b3971dc18a35495dcd963b))
+
 ## [1.8.136](https://github.com/shunkakinoki/configurations/compare/v1.8.135...v1.8.136) (2021-11-16)
 
 ### Bug Fixes
