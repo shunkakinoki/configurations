@@ -1,3 +1,9 @@
+## [1.8.138](https://github.com/shunkakinoki/configurations/compare/v1.8.137...v1.8.138) (2021-11-19)
+
+### Bug Fixes
+
+- **deps:** update dependency eslint-plugin-react to ^7.27.1 ([d8b2589](https://github.com/shunkakinoki/configurations/commit/d8b258993afbf371e0e1bd64a9f3d452f659bc9d))
+
 ## [1.8.137](https://github.com/shunkakinoki/configurations/compare/v1.8.136...v1.8.137) (2021-11-19)
 
 ### Bug Fixes
