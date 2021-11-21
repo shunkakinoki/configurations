@@ -1,3 +1,9 @@
+## @shunkakinoki/prettier [1.0.4](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/prettier@1.0.3...@shunkakinoki/prettier@1.0.4) (2021-11-21)
+
+### Performance Improvements
+
+- fea ([43af845](https://github.com/shunkakinoki/configurations/commit/43af84577e445ffd01bc75b737b34a217a636280))
+
 ## @shunkakinoki/prettier [1.0.3](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/prettier@1.0.2...@shunkakinoki/prettier@1.0.3) (2021-11-13)
 
 ### Bug Fixes
