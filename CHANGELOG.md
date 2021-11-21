@@ -1,3 +1,9 @@
+## [1.8.140](https://github.com/shunkakinoki/configurations/compare/v1.8.139...v1.8.140) (2021-11-21)
+
+### Performance Improvements
+
+- fea ([43af845](https://github.com/shunkakinoki/configurations/commit/43af84577e445ffd01bc75b737b34a217a636280))
+
 ## [1.8.139](https://github.com/shunkakinoki/configurations/compare/v1.8.138...v1.8.139) (2021-11-19)
 
 ### Bug Fixes
