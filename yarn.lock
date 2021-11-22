@@ -9088,10 +9088,10 @@ remove-trailing-separator@^1.0.1:
   resolved "https://registry.yarnpkg.com/remove-trailing-separator/-/remove-trailing-separator-1.1.0.tgz#c24bce2a283adad5bc3f58e0d48249b92379d8ef"
   integrity sha1-wkvOKig62tW8P1jg1IJJuSN52O8=
 
-renovate@^29.14.1:
-  version "29.14.1"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-29.14.1.tgz#67bbfbf02046933e4664d7bb0300b19b75876dae"
-  integrity sha512-2Dj2RusJdLOrYqfscakxCky0BbOn7s4K+uKUlcVfGEu3CggmJx8bGQ7G1LFZNmRzKqBpZkg8jEMCz8u3TVVssQ==
+renovate@^29.16.0:
+  version "29.16.0"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-29.16.0.tgz#a1564fb04177114ceb8cb4e0bb1618223dccd0e8"
+  integrity sha512-7XhfjMVT2597pWMhXASYUeu2o/IENQquILqmOncDPpYv+JygqljlHmE6J1cKQEbc/3EQE5hDY6kRS83gAG7QgQ==
   dependencies:
     "@aws-sdk/client-ec2" "3.35.0"
     "@aws-sdk/client-ecr" "3.38.0"
