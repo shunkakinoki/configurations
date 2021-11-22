@@ -9088,7 +9088,7 @@ remove-trailing-separator@^1.0.1:
   resolved "https://registry.yarnpkg.com/remove-trailing-separator/-/remove-trailing-separator-1.1.0.tgz#c24bce2a283adad5bc3f58e0d48249b92379d8ef"
   integrity sha1-wkvOKig62tW8P1jg1IJJuSN52O8=
 
-renovate@^29.17.1:
+renovate@^29.17.2:
   version "29.17.2"
   resolved "https://registry.yarnpkg.com/renovate/-/renovate-29.17.2.tgz#0e447e84bc730f7ef33494a7dc34f902c3ff7348"
   integrity sha512-42cpto3tePdXpFpwjHuEQbHEbg0QdFmUMy3orfz9zdRr5jE2gopGLivNB7uUvp6SOofhNw/VR9/r7r8SohfKcA==
