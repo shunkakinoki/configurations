@@ -1,3 +1,9 @@
+## @shunkakinoki/prettier [1.0.5](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/prettier@1.0.4...@shunkakinoki/prettier@1.0.5) (2021-11-25)
+
+### Bug Fixes
+
+- **deps:** update dependency prettier to ^2.5.0 ([c139e1d](https://github.com/shunkakinoki/configurations/commit/c139e1d261c99366385be6d81f6c75a0ad982d6b))
+
 ## @shunkakinoki/prettier [1.0.4](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/prettier@1.0.3...@shunkakinoki/prettier@1.0.4) (2021-11-21)
 
 ### Performance Improvements
