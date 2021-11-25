@@ -24,7 +24,7 @@
     "@semantic-release/exec": "^6.0.2",
     "@semantic-release/git": "^10.0.1",
     "multi-semantic-release": "^2.11.0",
-    "semantic-release": "^18.0.0"
+    "semantic-release": "^18.0.1"
   },
   "publishConfig": {
     "access": "public",
