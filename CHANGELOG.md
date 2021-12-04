@@ -1,3 +1,9 @@
+## [1.8.161](https://github.com/shunkakinoki/configurations/compare/v1.8.160...v1.8.161) (2021-12-04)
+
+### Bug Fixes
+
+- **deps:** update dependency prettier to ^2.5.1 ([e480bc3](https://github.com/shunkakinoki/configurations/commit/e480bc34152203c37d90cc1b6fbbcba58fc31d62))
+
 ## [1.8.160](https://github.com/shunkakinoki/configurations/compare/v1.8.159...v1.8.160) (2021-12-04)
 
 ### Bug Fixes
