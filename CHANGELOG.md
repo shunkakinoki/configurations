@@ -1,3 +1,9 @@
+## [1.8.160](https://github.com/shunkakinoki/configurations/compare/v1.8.159...v1.8.160) (2021-12-04)
+
+### Bug Fixes
+
+- **deps:** update dependency @next/eslint-plugin-next to ^12.0.6 ([78d11b8](https://github.com/shunkakinoki/configurations/commit/78d11b8cf6eac131de273d8a7dcbb54e13ed86e1))
+
 ## [1.8.159](https://github.com/shunkakinoki/configurations/compare/v1.8.158...v1.8.159) (2021-12-04)
 
 ### Bug Fixes
