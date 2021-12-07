@@ -1,3 +1,9 @@
+## [1.8.164](https://github.com/shunkakinoki/configurations/compare/v1.8.163...v1.8.164) (2021-12-07)
+
+### Bug Fixes
+
+- **deps:** update dependency eslint to ^8.4.1 ([4a10064](https://github.com/shunkakinoki/configurations/commit/4a100647901db0a8d7329fa35e70b931f3cd8e03))
+
 ## [1.8.163](https://github.com/shunkakinoki/configurations/compare/v1.8.162...v1.8.163) (2021-12-07)
 
 ### Bug Fixes
