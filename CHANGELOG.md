@@ -1,3 +1,11 @@
+## [1.8.168](https://github.com/shunkakinoki/configurations/compare/v1.8.167...v1.8.168) (2021-12-10)
+
+### Bug Fixes
+
+- **deps:** update dependency @tailwindcss/line-clamp to ^0.3.0 ([c8c093d](https://github.com/shunkakinoki/configurations/commit/c8c093d999db65ef6a4469c77f49327197e0b67d))
+- **deps:** update dependency renovate to v30 ([395fdc9](https://github.com/shunkakinoki/configurations/commit/395fdc9b70fdc41c682cc07ff268d04f607dc489))
+- **deps:** update dependency tailwindcss to v3 ([7e89cdb](https://github.com/shunkakinoki/configurations/commit/7e89cdb2e4318d5091a9526bd43a401392b05068))
+
 ## [1.8.167](https://github.com/shunkakinoki/configurations/compare/v1.8.166...v1.8.167) (2021-12-10)
 
 ### Bug Fixes
