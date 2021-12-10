@@ -1,3 +1,9 @@
+## [1.8.169](https://github.com/shunkakinoki/configurations/compare/v1.8.168...v1.8.169) (2021-12-10)
+
+### Bug Fixes
+
+- **deps:** update dependency @tailwindcss/forms to ^0.4.0 ([3393a2a](https://github.com/shunkakinoki/configurations/commit/3393a2a9909ed4692814ff0a4629402d5adb9a9a))
+
 ## [1.8.168](https://github.com/shunkakinoki/configurations/compare/v1.8.167...v1.8.168) (2021-12-10)
 
 ### Bug Fixes
