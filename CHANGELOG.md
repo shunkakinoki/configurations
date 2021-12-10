@@ -1,3 +1,12 @@
+## [1.8.167](https://github.com/shunkakinoki/configurations/compare/v1.8.166...v1.8.167) (2021-12-10)
+
+### Bug Fixes
+
+- **deps:** update dependency @tailwindcss/aspect-ratio to ^0.4.0 ([8f21e60](https://github.com/shunkakinoki/configurations/commit/8f21e60efa5feac6eba8cc6a8d230c4b8ca33aa7))
+- **deps:** update dependency @tailwindcss/typography to ^0.5.0 ([4b3bdab](https://github.com/shunkakinoki/configurations/commit/4b3bdab5097e8bf9268a5484173b44168a0eb172))
+- **deps:** update dependency renovate to ^29.36.2 ([c75068a](https://github.com/shunkakinoki/configurations/commit/c75068a5119938d9ed0413686518afe228052a46))
+- **deps:** update dependency typescript to ^4.5.3 ([048f129](https://github.com/shunkakinoki/configurations/commit/048f1299f86fbdf29dca1f9b90de28906a570aee))
+
 ## [1.8.166](https://github.com/shunkakinoki/configurations/compare/v1.8.165...v1.8.166) (2021-12-08)
 
 ### Bug Fixes
