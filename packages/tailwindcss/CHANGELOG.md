@@ -1,3 +1,10 @@
+## @shunkakinoki/tailwindcss [1.0.10](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/tailwindcss@1.0.9...@shunkakinoki/tailwindcss@1.0.10) (2021-12-10)
+
+### Bug Fixes
+
+- **deps:** update dependency @tailwindcss/line-clamp to ^0.3.0 ([c8c093d](https://github.com/shunkakinoki/configurations/commit/c8c093d999db65ef6a4469c77f49327197e0b67d))
+- **deps:** update dependency tailwindcss to v3 ([7e89cdb](https://github.com/shunkakinoki/configurations/commit/7e89cdb2e4318d5091a9526bd43a401392b05068))
+
 ## @shunkakinoki/tailwindcss [1.0.9](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/tailwindcss@1.0.8...@shunkakinoki/tailwindcss@1.0.9) (2021-12-10)
 
 ### Bug Fixes
