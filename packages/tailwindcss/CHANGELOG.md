@@ -1,3 +1,10 @@
+## @shunkakinoki/tailwindcss [1.0.9](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/tailwindcss@1.0.8...@shunkakinoki/tailwindcss@1.0.9) (2021-12-10)
+
+### Bug Fixes
+
+- **deps:** update dependency @tailwindcss/aspect-ratio to ^0.4.0 ([8f21e60](https://github.com/shunkakinoki/configurations/commit/8f21e60efa5feac6eba8cc6a8d230c4b8ca33aa7))
+- **deps:** update dependency @tailwindcss/typography to ^0.5.0 ([4b3bdab](https://github.com/shunkakinoki/configurations/commit/4b3bdab5097e8bf9268a5484173b44168a0eb172))
+
 ## @shunkakinoki/tailwindcss [1.0.8](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/tailwindcss@1.0.7...@shunkakinoki/tailwindcss@1.0.8) (2021-10-31)
 
 ### Bug Fixes
