@@ -1,3 +1,9 @@
+## [1.8.171](https://github.com/shunkakinoki/configurations/compare/v1.8.170...v1.8.171) (2021-12-10)
+
+### Bug Fixes
+
+- **deps:** update dependency renovate to ^30.2.0 ([578d811](https://github.com/shunkakinoki/configurations/commit/578d81198ab2c7b1b84210eb928fbbc554518c87))
+
 ## [1.8.170](https://github.com/shunkakinoki/configurations/compare/v1.8.169...v1.8.170) (2021-12-10)
 
 ### Bug Fixes
