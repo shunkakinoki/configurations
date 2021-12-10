@@ -1,3 +1,9 @@
+## @shunkakinoki/tailwindcss [1.0.11](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/tailwindcss@1.0.10...@shunkakinoki/tailwindcss@1.0.11) (2021-12-10)
+
+### Bug Fixes
+
+- **deps:** update dependency @tailwindcss/forms to ^0.4.0 ([3393a2a](https://github.com/shunkakinoki/configurations/commit/3393a2a9909ed4692814ff0a4629402d5adb9a9a))
+
 ## @shunkakinoki/tailwindcss [1.0.10](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/tailwindcss@1.0.9...@shunkakinoki/tailwindcss@1.0.10) (2021-12-10)
 
 ### Bug Fixes
