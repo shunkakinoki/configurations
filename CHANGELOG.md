@@ -1,3 +1,10 @@
+## [1.8.173](https://github.com/shunkakinoki/configurations/compare/v1.8.172...v1.8.173) (2021-12-13)
+
+### Bug Fixes
+
+- **deps:** update dependency renovate to ^30.3.1 ([d563982](https://github.com/shunkakinoki/configurations/commit/d563982eda43a09abc7222182bd1779d0a7296f5))
+- **deps:** update dependency tailwindcss to ^3.0.1 ([23cbd4c](https://github.com/shunkakinoki/configurations/commit/23cbd4cfe6a6e16221a2c31db17011befc2107fc))
+
 ## [1.8.172](https://github.com/shunkakinoki/configurations/compare/v1.8.171...v1.8.172) (2021-12-10)
 
 ### Bug Fixes
