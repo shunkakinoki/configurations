@@ -1,3 +1,9 @@
+## @shunkakinoki/tsconfig [1.1.6](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/tsconfig@1.1.5...@shunkakinoki/tsconfig@1.1.6) (2021-12-16)
+
+### Bug Fixes
+
+- **deps:** update dependency typescript to ^4.5.4 ([067d203](https://github.com/shunkakinoki/configurations/commit/067d203af2d0527eed8620cfd136fa5774bd0387))
+
 ## @shunkakinoki/tsconfig [1.1.5](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/tsconfig@1.1.4...@shunkakinoki/tsconfig@1.1.5) (2021-12-10)
 
 ### Bug Fixes
