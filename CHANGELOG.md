@@ -1,3 +1,12 @@
+## [1.8.178](https://github.com/shunkakinoki/configurations/compare/v1.8.177...v1.8.178) (2021-12-16)
+
+### Bug Fixes
+
+- **deps:** update dependency @semantic-release/exec to ^6.0.3 ([a1354fe](https://github.com/shunkakinoki/configurations/commit/a1354fecba772449484f9c5a29259f6606ea0895))
+- **deps:** update dependency npm-check-updates to ^12.0.5 ([e3c93d1](https://github.com/shunkakinoki/configurations/commit/e3c93d1a1beea4f33f527deaab7981f39bb9d1a8))
+- **deps:** update dependency tailwindcss to ^3.0.5 ([145763d](https://github.com/shunkakinoki/configurations/commit/145763de8593d58885a2e84235ce728e117b8805))
+- **deps:** update dependency typescript to ^4.5.4 ([067d203](https://github.com/shunkakinoki/configurations/commit/067d203af2d0527eed8620cfd136fa5774bd0387))
+
 ## [1.8.177](https://github.com/shunkakinoki/configurations/compare/v1.8.176...v1.8.177) (2021-12-13)
 
 ### Bug Fixes
