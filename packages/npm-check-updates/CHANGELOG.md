@@ -1,3 +1,9 @@
+## @shunkakinoki/npm-check-updates [1.0.7](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/npm-check-updates@1.0.6...@shunkakinoki/npm-check-updates@1.0.7) (2021-12-16)
+
+### Bug Fixes
+
+- **deps:** update dependency npm-check-updates to ^12.0.5 ([e3c93d1](https://github.com/shunkakinoki/configurations/commit/e3c93d1a1beea4f33f527deaab7981f39bb9d1a8))
+
 ## @shunkakinoki/npm-check-updates [1.0.6](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/npm-check-updates@1.0.5...@shunkakinoki/npm-check-updates@1.0.6) (2021-12-07)
 
 ### Bug Fixes
