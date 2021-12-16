@@ -1,3 +1,9 @@
+## @shunkakinoki/semantic-release [1.2.13](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/semantic-release@1.2.12...@shunkakinoki/semantic-release@1.2.13) (2021-12-16)
+
+### Bug Fixes
+
+- **deps:** update dependency @semantic-release/exec to ^6.0.3 ([a1354fe](https://github.com/shunkakinoki/configurations/commit/a1354fecba772449484f9c5a29259f6606ea0895))
+
 ## @shunkakinoki/semantic-release [1.2.12](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/semantic-release@1.2.11...@shunkakinoki/semantic-release@1.2.12) (2021-11-25)
 
 ### Bug Fixes
