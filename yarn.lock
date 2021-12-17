@@ -7087,10 +7087,10 @@ map-obj@^4.0.0:
   resolved "https://registry.yarnpkg.com/map-obj/-/map-obj-4.2.1.tgz#e4ea399dbc979ae735c83c863dd31bdf364277b7"
   integrity sha512-+WA2/1sPmDj1dlvvJmB5G6JKfY9dpn7EVBUL06+y6PoljPkh+6V1QihwxNkbcGxCRjt2b0F9K0taiCuo7MbdFQ==
 
-markdown-it@12.2.0:
-  version "12.2.0"
-  resolved "https://registry.yarnpkg.com/markdown-it/-/markdown-it-12.2.0.tgz#091f720fd5db206f80de7a8d1f1a7035fd0d38db"
-  integrity sha512-Wjws+uCrVQRqOoJvze4HCqkKl1AsSh95iFAeQDwnyfxM09divCBSXlDR1uTvyUP3Grzpn4Ru8GeCxYPM8vkCQg==
+markdown-it@12.3.0:
+  version "12.3.0"
+  resolved "https://registry.yarnpkg.com/markdown-it/-/markdown-it-12.3.0.tgz#11490c61b412b8f41530319c005ecdcd4367171f"
+  integrity sha512-T345UZZ6ejQWTjG6PSEHplzNy5m4kF6zvUpHVDv8Snl/pEU0OxIK0jGg8YLVNwJvT8E0YJC7/2UvssJDk/wQCQ==
   dependencies:
     argparse "^2.0.1"
     entities "~2.1.0"
@@ -9110,10 +9110,10 @@ remove-trailing-separator@^1.0.1:
   resolved "https://registry.yarnpkg.com/remove-trailing-separator/-/remove-trailing-separator-1.1.0.tgz#c24bce2a283adad5bc3f58e0d48249b92379d8ef"
   integrity sha1-wkvOKig62tW8P1jg1IJJuSN52O8=
 
-renovate@^31.3.0:
-  version "31.3.0"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-31.3.0.tgz#772a69d802f2a55b84ad856d8dde71990453a241"
-  integrity sha512-utzxEsXwCqSVnQ2bFJ6jbsBx9so5v8yVdiT/KNt6ySbWpF4zSk5y5Jq4MqhzMGiRT8iZUscZ2+pEfg/zS8Rp4w==
+renovate@^31.4.1:
+  version "31.4.1"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-31.4.1.tgz#a82a4e628a245dfb885072e24c078d1d009de9d2"
+  integrity sha512-OlgcClG9xLQz1hc1SZqkQUMqdF7KBivDGCCHX1cTG3l+Unb+q2Fxz1axDvC36QTfocVfuRSNxJ3EjC8A2Q/M+A==
   dependencies:
     "@aws-sdk/client-ec2" "3.35.0"
     "@aws-sdk/client-ecr" "3.38.0"
@@ -9162,7 +9162,7 @@ renovate@^31.3.0:
     json-stringify-pretty-compact "3.0.0"
     json5 "2.2.0"
     luxon "2.1.1"
-    markdown-it "12.2.0"
+    markdown-it "12.3.0"
     markdown-table "2.0.0"
     marshal "0.5.2"
     minimatch "3.0.4"
