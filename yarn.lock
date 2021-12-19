@@ -7009,10 +7009,10 @@ lru-cache@^6.0.0:
   dependencies:
     yallist "^4.0.0"
 
-luxon@2.1.1:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/luxon/-/luxon-2.1.1.tgz#34052f7a33a7989767637be7cf80b47db264ff88"
-  integrity sha512-6VQVNw7+kQu3hL1ZH5GyOhnk8uZm21xS7XJ/6vDZaFNcb62dpFDKcH8TI5NkoZOdMRxr7af7aYGrJlE/Wv0i1w==
+luxon@2.2.0:
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/luxon/-/luxon-2.2.0.tgz#f5c4a234ba4016f792488b11aaed2d5bc14c888e"
+  integrity sha512-LwmknessH4jVIseCsizUgveIHwlLv/RQZWC2uDSMfGJs7w8faPUi2JFxfyfMcTPrpNbChTem3Uz6IKRtn+LcIA==
 
 magic-string@^0.25.7:
   version "0.25.7"
@@ -9118,10 +9118,10 @@ remove-trailing-separator@^1.0.1:
   resolved "https://registry.yarnpkg.com/remove-trailing-separator/-/remove-trailing-separator-1.1.0.tgz#c24bce2a283adad5bc3f58e0d48249b92379d8ef"
   integrity sha1-wkvOKig62tW8P1jg1IJJuSN52O8=
 
-renovate@^31.4.1:
-  version "31.4.1"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-31.4.1.tgz#a82a4e628a245dfb885072e24c078d1d009de9d2"
-  integrity sha512-OlgcClG9xLQz1hc1SZqkQUMqdF7KBivDGCCHX1cTG3l+Unb+q2Fxz1axDvC36QTfocVfuRSNxJ3EjC8A2Q/M+A==
+renovate@^31.7.0:
+  version "31.7.0"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-31.7.0.tgz#e63d20975bb0864d9abbd89d63d42bf5e0333eec"
+  integrity sha512-+GpoAMw8rc1nDzU8YS45OkjM+AuJxYOHzeF5RC9iHrGQCxC533NBZwSpcc0+eRWs/oaE5LCeo5z7JnxubD6WKA==
   dependencies:
     "@aws-sdk/client-ec2" "3.35.0"
     "@aws-sdk/client-ecr" "3.38.0"
@@ -9169,7 +9169,7 @@ renovate@^31.4.1:
     json-dup-key-validator "1.0.3"
     json-stringify-pretty-compact "3.0.0"
     json5 "2.2.0"
-    luxon "2.1.1"
+    luxon "2.2.0"
     markdown-it "12.3.0"
     markdown-table "2.0.0"
     marshal "0.5.2"
