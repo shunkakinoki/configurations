@@ -1,3 +1,13 @@
+## [1.8.183](https://github.com/shunkakinoki/configurations/compare/v1.8.182...v1.8.183) (2021-12-19)
+
+### Bug Fixes
+
+- **deps:** update dependency concurrently to ^6.5.0 ([cb9d5c9](https://github.com/shunkakinoki/configurations/commit/cb9d5c93615b331a5ce867af90d8919529de7af4))
+- **deps:** update dependency eslint to ^8.5.0 ([79f41bd](https://github.com/shunkakinoki/configurations/commit/79f41bdfaa26e21a2684fc508a364e95d3a45992))
+- **deps:** update dependency lint-staged to ^12.1.3 ([73273d2](https://github.com/shunkakinoki/configurations/commit/73273d2af6c194536e9f0f89897636ddbc8b9755))
+- **deps:** update dependency renovate to ^31.7.0 ([6b01312](https://github.com/shunkakinoki/configurations/commit/6b013122fdf5e2a6b322f8b498f8ef2a63f0034b))
+- **deps:** update dependency tailwindcss to ^3.0.7 ([6dd3ded](https://github.com/shunkakinoki/configurations/commit/6dd3deddf530521e2ecd781924c3d0564eb0a0b7))
+
 ## [1.8.182](https://github.com/shunkakinoki/configurations/compare/v1.8.181...v1.8.182) (2021-12-17)
 
 ### Bug Fixes
