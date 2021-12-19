@@ -1,3 +1,9 @@
+## [1.8.184](https://github.com/shunkakinoki/configurations/compare/v1.8.183...v1.8.184) (2021-12-19)
+
+### Bug Fixes
+
+- **deps:** update dependency concurrently to ^6.5.1 ([b262143](https://github.com/shunkakinoki/configurations/commit/b262143cad230d503735b5ea19d2c870e1a5b712))
+
 ## [1.8.183](https://github.com/shunkakinoki/configurations/compare/v1.8.182...v1.8.183) (2021-12-19)
 
 ### Bug Fixes
