@@ -1,3 +1,11 @@
+## [1.8.185](https://github.com/shunkakinoki/configurations/compare/v1.8.184...v1.8.185) (2021-12-22)
+
+### Bug Fixes
+
+- **deps:** update dependency renovate to ^31.11.4 ([a1bbe65](https://github.com/shunkakinoki/configurations/commit/a1bbe6571d7116c76a6fa59eb8c05f7c6e5f3d4a))
+- **deps:** update dependency stylelint to ^14.2.0 ([ccb565d](https://github.com/shunkakinoki/configurations/commit/ccb565d493bbf1fefa1ee66aed1d07d78965510e))
+- **deps:** update typescript-eslint monorepo to ^5.8.0 ([0e50036](https://github.com/shunkakinoki/configurations/commit/0e50036d943177d7ce768428b969839047427ff5))
+
 ## [1.8.184](https://github.com/shunkakinoki/configurations/compare/v1.8.183...v1.8.184) (2021-12-19)
 
 ### Bug Fixes
