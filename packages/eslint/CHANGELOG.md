@@ -1,3 +1,9 @@
+## @shunkakinoki/eslint-config [1.1.56](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/eslint-config@1.1.55...@shunkakinoki/eslint-config@1.1.56) (2021-12-22)
+
+### Bug Fixes
+
+- **deps:** update dependency eslint-plugin-react to ^7.28.0 ([bcb1603](https://github.com/shunkakinoki/configurations/commit/bcb16031bd9e7930c2da68cbb007fe888507bfde))
+
 ## @shunkakinoki/eslint-config [1.1.55](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/eslint-config@1.1.54...@shunkakinoki/eslint-config@1.1.55) (2021-12-22)
 
 ### Bug Fixes
