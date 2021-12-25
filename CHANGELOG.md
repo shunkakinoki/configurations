@@ -1,3 +1,10 @@
+## [1.8.189](https://github.com/shunkakinoki/configurations/compare/v1.8.188...v1.8.189) (2021-12-25)
+
+### Bug Fixes
+
+- **deps:** update dependency lint-staged to ^12.1.4 ([cd20dab](https://github.com/shunkakinoki/configurations/commit/cd20dabb8db02f6b00527229dcfe5985d0858867))
+- **deps:** update dependency renovate to ^31.13.1 ([b6ffacb](https://github.com/shunkakinoki/configurations/commit/b6ffacb0a4a08bbb0ef235994d98269b30249249))
+
 ## [1.8.188](https://github.com/shunkakinoki/configurations/compare/v1.8.187...v1.8.188) (2021-12-22)
 
 ### Bug Fixes
