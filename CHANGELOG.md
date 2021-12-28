@@ -1,3 +1,9 @@
+## [1.8.191](https://github.com/shunkakinoki/configurations/compare/v1.8.190...v1.8.191) (2021-12-28)
+
+### Bug Fixes
+
+- **deps:** update commitlint monorepo to v16 ([e62f042](https://github.com/shunkakinoki/configurations/commit/e62f04203e08540e4489b7980c0f8e2d3e05bd01))
+
 ## [1.8.190](https://github.com/shunkakinoki/configurations/compare/v1.8.189...v1.8.190) (2021-12-28)
 
 ### Bug Fixes
