@@ -1,3 +1,9 @@
+## @shunkakinoki/renovate-config [1.1.138](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/renovate-config@1.1.137...@shunkakinoki/renovate-config@1.1.138) (2021-12-28)
+
+### Bug Fixes
+
+- **deps:** update dependency renovate to ^31.13.6 ([fd6337d](https://github.com/shunkakinoki/configurations/commit/fd6337dff5c7b7e8be92388e03353b2a9eb6929d))
+
 ## @shunkakinoki/renovate-config [1.1.137](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/renovate-config@1.1.136...@shunkakinoki/renovate-config@1.1.137) (2021-12-25)
 
 ### Bug Fixes
