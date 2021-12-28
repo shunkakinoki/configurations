@@ -1,3 +1,10 @@
+## [1.8.192](https://github.com/shunkakinoki/configurations/compare/v1.8.191...v1.8.192) (2021-12-28)
+
+### Bug Fixes
+
+- **deps:** update commitlint monorepo to ^16.0.1 ([b04eaf5](https://github.com/shunkakinoki/configurations/commit/b04eaf56b3cc86e3f04f1eb283bfec2735343af1))
+- **deps:** update dependency renovate to ^31.13.7 ([da98cfb](https://github.com/shunkakinoki/configurations/commit/da98cfb167c20f0683a4ed524a06937873909dae))
+
 ## [1.8.191](https://github.com/shunkakinoki/configurations/compare/v1.8.190...v1.8.191) (2021-12-28)
 
 ### Bug Fixes
