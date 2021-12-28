@@ -20,9 +20,9 @@
     "fix": "cd ../.. && yarn run fix"
   },
   "dependencies": {
-    "@commitlint/cli": "^16.0.0",
+    "@commitlint/cli": "^16.0.1",
     "@commitlint/config-conventional": "^16.0.0",
-    "commitlint": "^16.0.0"
+    "commitlint": "^16.0.1"
   },
   "publishConfig": {
     "access": "public",
