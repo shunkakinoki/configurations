@@ -1,3 +1,9 @@
+## @shunkakinoki/commitlint [1.0.7](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/commitlint@1.0.6...@shunkakinoki/commitlint@1.0.7) (2021-12-28)
+
+### Bug Fixes
+
+- **deps:** update commitlint monorepo to v16 ([e62f042](https://github.com/shunkakinoki/configurations/commit/e62f04203e08540e4489b7980c0f8e2d3e05bd01))
+
 ## @shunkakinoki/commitlint [1.0.6](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/commitlint@1.0.5...@shunkakinoki/commitlint@1.0.6) (2021-11-19)
 
 ### Bug Fixes
