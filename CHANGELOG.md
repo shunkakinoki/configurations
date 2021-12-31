@@ -1,3 +1,10 @@
+## [1.8.195](https://github.com/shunkakinoki/configurations/compare/v1.8.194...v1.8.195) (2021-12-31)
+
+### Bug Fixes
+
+- **deps:** update dependency eslint-plugin-tailwindcss to ^3.0.2 ([1d353b3](https://github.com/shunkakinoki/configurations/commit/1d353b37f1c62451b93e47e35859f6d1067e46f8))
+- **deps:** update dependency renovate to ^31.14.0 ([43335a2](https://github.com/shunkakinoki/configurations/commit/43335a2c40e8abb4bb78430b14761dc202a90be4))
+
 ## [1.8.194](https://github.com/shunkakinoki/configurations/compare/v1.8.193...v1.8.194) (2021-12-28)
 
 ### Bug Fixes
