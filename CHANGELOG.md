@@ -1,3 +1,14 @@
+## [1.8.198](https://github.com/shunkakinoki/configurations/compare/v1.8.197...v1.8.198) (2022-01-04)
+
+### Bug Fixes
+
+- **deps:** update dependency concurrently to v7 ([a32693b](https://github.com/shunkakinoki/configurations/commit/a32693b2ae500e46be4968f8916de0dab8f8920e))
+- **deps:** update dependency eslint-plugin-import to ^2.25.4 ([7e2f1fa](https://github.com/shunkakinoki/configurations/commit/7e2f1fa2c9d9069fc73f5fa38001c32962a70b80))
+- **deps:** update dependency eslint-plugin-tailwindcss to ^3.0.3 ([e770702](https://github.com/shunkakinoki/configurations/commit/e770702793c4a89564bca6ab2c543514560ad744))
+- **deps:** update dependency lint-staged to ^12.1.5 ([d6d3901](https://github.com/shunkakinoki/configurations/commit/d6d3901350f454bdcbea5f25f974ef135dd27d85))
+- **deps:** update dependency renovate to ^31.15.0 ([802f7e9](https://github.com/shunkakinoki/configurations/commit/802f7e9d65876f15814f6383e4eaf4104fec32d3))
+- **deps:** update typescript-eslint monorepo to ^5.9.0 ([364f30f](https://github.com/shunkakinoki/configurations/commit/364f30f42fa6f823ce792febdcf298452315a988))
+
 ## [1.8.197](https://github.com/shunkakinoki/configurations/compare/v1.8.196...v1.8.197) (2022-01-01)
 
 ### Bug Fixes
