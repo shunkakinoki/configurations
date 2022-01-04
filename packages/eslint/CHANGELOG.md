@@ -1,3 +1,11 @@
+## @shunkakinoki/eslint-config [1.1.61](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/eslint-config@1.1.60...@shunkakinoki/eslint-config@1.1.61) (2022-01-04)
+
+### Bug Fixes
+
+- **deps:** update dependency eslint-plugin-import to ^2.25.4 ([7e2f1fa](https://github.com/shunkakinoki/configurations/commit/7e2f1fa2c9d9069fc73f5fa38001c32962a70b80))
+- **deps:** update dependency eslint-plugin-tailwindcss to ^3.0.3 ([e770702](https://github.com/shunkakinoki/configurations/commit/e770702793c4a89564bca6ab2c543514560ad744))
+- **deps:** update typescript-eslint monorepo to ^5.9.0 ([364f30f](https://github.com/shunkakinoki/configurations/commit/364f30f42fa6f823ce792febdcf298452315a988))
+
 ## @shunkakinoki/eslint-config [1.1.60](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/eslint-config@1.1.59...@shunkakinoki/eslint-config@1.1.60) (2022-01-01)
 
 ### Bug Fixes
