@@ -1,3 +1,9 @@
+## @shunkakinoki/dev [1.2.11](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/dev@1.2.10...@shunkakinoki/dev@1.2.11) (2022-01-04)
+
+### Bug Fixes
+
+- **deps:** update dependency concurrently to v7 ([a32693b](https://github.com/shunkakinoki/configurations/commit/a32693b2ae500e46be4968f8916de0dab8f8920e))
+
 ## @shunkakinoki/dev [1.2.10](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/dev@1.2.9...@shunkakinoki/dev@1.2.10) (2021-12-19)
 
 ### Bug Fixes
