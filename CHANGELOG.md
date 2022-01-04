@@ -1,3 +1,10 @@
+## [1.8.199](https://github.com/shunkakinoki/configurations/compare/v1.8.198...v1.8.199) (2022-01-04)
+
+### Bug Fixes
+
+- **deps:** update dependency npm-check-updates to ^12.1.0 ([1798f78](https://github.com/shunkakinoki/configurations/commit/1798f78e551bd9eb1ce35a250826b540476ac8db))
+- **deps:** update dependency tailwindcss to ^3.0.9 ([e417127](https://github.com/shunkakinoki/configurations/commit/e4171275feccb124a14acd308e6fcc2875b9cd7f))
+
 ## [1.8.198](https://github.com/shunkakinoki/configurations/compare/v1.8.197...v1.8.198) (2022-01-04)
 
 ### Bug Fixes
