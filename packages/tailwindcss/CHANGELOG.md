@@ -1,3 +1,9 @@
+## @shunkakinoki/tailwindcss [1.0.18](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/tailwindcss@1.0.17...@shunkakinoki/tailwindcss@1.0.18) (2022-01-04)
+
+### Bug Fixes
+
+- **deps:** update dependency tailwindcss to ^3.0.9 ([e417127](https://github.com/shunkakinoki/configurations/commit/e4171275feccb124a14acd308e6fcc2875b9cd7f))
+
 ## @shunkakinoki/tailwindcss [1.0.17](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/tailwindcss@1.0.16...@shunkakinoki/tailwindcss@1.0.17) (2021-12-28)
 
 ### Bug Fixes
