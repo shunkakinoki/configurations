@@ -1,3 +1,10 @@
+## [1.8.204](https://github.com/shunkakinoki/configurations/compare/v1.8.203...v1.8.204) (2022-01-07)
+
+### Bug Fixes
+
+- **deps:** update dependency eslint-plugin-tailwindcss to ^3.1.0 ([61cb733](https://github.com/shunkakinoki/configurations/commit/61cb7335408549cfd04d24916f2060bef959db05))
+- **deps:** update dependency lint-staged to ^12.1.6 ([6f61676](https://github.com/shunkakinoki/configurations/commit/6f61676fbbcb6f2e7a69e5e7aa6b79a21b00145b))
+
 ## [1.8.203](https://github.com/shunkakinoki/configurations/compare/v1.8.202...v1.8.203) (2022-01-07)
 
 ### Bug Fixes
