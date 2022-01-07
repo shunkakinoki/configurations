@@ -1,3 +1,9 @@
+## [1.8.206](https://github.com/shunkakinoki/configurations/compare/v1.8.205...v1.8.206) (2022-01-07)
+
+### Bug Fixes
+
+- **deps:** update dependency tailwindcss to ^3.0.12 ([e2a581d](https://github.com/shunkakinoki/configurations/commit/e2a581dc339a422a714fcf5c4846e9225877bc9d))
+
 ## [1.8.205](https://github.com/shunkakinoki/configurations/compare/v1.8.204...v1.8.205) (2022-01-07)
 
 ### Bug Fixes
