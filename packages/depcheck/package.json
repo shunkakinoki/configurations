@@ -16,7 +16,7 @@
     "fix": "cd ../.. && yarn run fix"
   },
   "dependencies": {
-    "depcheck": "^1.4.2"
+    "depcheck": "^1.4.3"
   },
   "publishConfig": {
     "access": "public",
