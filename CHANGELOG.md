@@ -1,3 +1,12 @@
+## [1.8.207](https://github.com/shunkakinoki/configurations/compare/v1.8.206...v1.8.207) (2022-01-10)
+
+### Bug Fixes
+
+- **deps:** update commitlint monorepo to ^16.0.2 ([559fd47](https://github.com/shunkakinoki/configurations/commit/559fd47e61932e5ab3542286d7105036ee28a6f2))
+- **deps:** update dependency depcheck to ^1.4.3 ([1d17253](https://github.com/shunkakinoki/configurations/commit/1d17253d8b6e0b55de0414233c2221396272cebf))
+- **deps:** update dependency eslint-plugin-tailwindcss to ^3.1.1 ([0837aed](https://github.com/shunkakinoki/configurations/commit/0837aedcb0118b58e813a3ad5895d39a96852f3f))
+- **deps:** update dependency renovate to ^31.21.2 ([acc82fb](https://github.com/shunkakinoki/configurations/commit/acc82fb4f632f2f4d04bab557dc0fcb497247129))
+
 ## [1.8.206](https://github.com/shunkakinoki/configurations/compare/v1.8.205...v1.8.206) (2022-01-07)
 
 ### Bug Fixes
