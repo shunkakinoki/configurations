@@ -1,3 +1,9 @@
+## @shunkakinoki/depcheck [1.0.2](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/depcheck@1.0.1...@shunkakinoki/depcheck@1.0.2) (2022-01-10)
+
+### Bug Fixes
+
+- **deps:** update dependency depcheck to ^1.4.3 ([1d17253](https://github.com/shunkakinoki/configurations/commit/1d17253d8b6e0b55de0414233c2221396272cebf))
+
 ## @shunkakinoki/depcheck [1.0.1](https://github.com/shunkakinoki/configurations/compare/@shunkakinoki/depcheck@1.0.0...@shunkakinoki/depcheck@1.0.1) (2021-07-05)
 
 ### Bug Fixes
