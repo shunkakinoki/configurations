@@ -7878,10 +7878,10 @@ parse-json@^5.0.0:
     json-parse-even-better-errors "^2.3.0"
     lines-and-columns "^1.1.6"
 
-parse-link-header@1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/parse-link-header/-/parse-link-header-1.0.1.tgz#bedfe0d2118aeb84be75e7b025419ec8a61140a7"
-  integrity sha1-vt/g0hGK64S+deewJUGeyKYRQKc=
+parse-link-header@2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/parse-link-header/-/parse-link-header-2.0.0.tgz#949353e284f8aa01f2ac857a98f692b57733f6b7"
+  integrity sha512-xjU87V0VyHZybn2RrCX5TIFGxTVZE6zqqZWMPlIKiSKuWh/X5WZdt+w1Ki1nXB+8L/KtL+nZ4iq+sfI6MrhhMw==
   dependencies:
     xtend "~4.0.1"
 
@@ -8625,10 +8625,10 @@ remove-trailing-separator@^1.0.1:
   resolved "https://registry.yarnpkg.com/remove-trailing-separator/-/remove-trailing-separator-1.1.0.tgz#c24bce2a283adad5bc3f58e0d48249b92379d8ef"
   integrity sha1-wkvOKig62tW8P1jg1IJJuSN52O8=
 
-renovate@^31.23.3:
-  version "31.23.3"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-31.23.3.tgz#4b755de8fbeb267fe00b22d615ed45106ef92f6d"
-  integrity sha512-dWK1O7JD4P+e9ygahMu8GJwRTUBAehFhSXiU9aMKSrF2psd85rN2XxjkadHqlbC80TO02Cy25bUYVLPj1GSpXQ==
+renovate@^31.23.4:
+  version "31.23.4"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-31.23.4.tgz#32084c3794b4b5b4a28ed74d59634cef90dd6d53"
+  integrity sha512-ovx42/HA6fG1+Tm1uOeVwLsYwAE1DhwNoNrGOLf7+fhZdRCBii8dSabXZbE4nzppqLMcJycu0PPs3A3JZBVEpg==
   dependencies:
     "@aws-sdk/client-ec2" "3.46.0"
     "@aws-sdk/client-ecr" "3.46.0"
@@ -8689,7 +8689,7 @@ renovate@^31.23.3:
     p-map "4.0.0"
     p-queue "6.6.2"
     parse-diff "0.9.0"
-    parse-link-header "1.0.1"
+    parse-link-header "2.0.0"
     redis "3.1.2"
     registry-auth-token "4.2.1"
     remark "13.0.0"
