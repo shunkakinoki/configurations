@@ -1618,10 +1618,10 @@
     lodash "^4.17.4"
     read-pkg-up "^7.0.0"
 
-"@sindresorhus/is@4.2.0":
-  version "4.2.0"
-  resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-4.2.0.tgz#667bfc6186ae7c9e0b45a08960c551437176e1ca"
-  integrity sha512-VkE3KLBmJwcCaVARtQpfuKcKv8gcBmUubrfHGF84dXuuW6jgsRYxPtzcIhPyK9WAPpRt2/xY6zkD9MnRaJzSyw==
+"@sindresorhus/is@4.2.1":
+  version "4.2.1"
+  resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-4.2.1.tgz#b88b5724283db80b507cd612caee9a1947412a20"
+  integrity sha512-BrzrgtaqEre0qfvI8sMTaEvx+bayuhPmfe2rfeUGPPHYr/PLxCOqkOe4TQTDPb+qcqgNcsAtXV/Ew74mcDIE8w==
 
 "@sindresorhus/is@^0.14.0":
   version "0.14.0"
@@ -6607,10 +6607,10 @@ map-obj@^4.0.0:
   resolved "https://registry.yarnpkg.com/map-obj/-/map-obj-4.2.1.tgz#e4ea399dbc979ae735c83c863dd31bdf364277b7"
   integrity sha512-+WA2/1sPmDj1dlvvJmB5G6JKfY9dpn7EVBUL06+y6PoljPkh+6V1QihwxNkbcGxCRjt2b0F9K0taiCuo7MbdFQ==
 
-markdown-it@12.3.0:
-  version "12.3.0"
-  resolved "https://registry.yarnpkg.com/markdown-it/-/markdown-it-12.3.0.tgz#11490c61b412b8f41530319c005ecdcd4367171f"
-  integrity sha512-T345UZZ6ejQWTjG6PSEHplzNy5m4kF6zvUpHVDv8Snl/pEU0OxIK0jGg8YLVNwJvT8E0YJC7/2UvssJDk/wQCQ==
+markdown-it@12.3.2:
+  version "12.3.2"
+  resolved "https://registry.yarnpkg.com/markdown-it/-/markdown-it-12.3.2.tgz#bf92ac92283fe983fe4de8ff8abfb5ad72cd0c90"
+  integrity sha512-TchMembfxfNVpHkbtriWltGWc+m3xszaRD0CZup7GFFhzIgQqxIfn3eGj1yZpfuflzPvfkt611B2Q/Bsk1YnGg==
   dependencies:
     argparse "^2.0.1"
     entities "~2.1.0"
@@ -8625,10 +8625,10 @@ remove-trailing-separator@^1.0.1:
   resolved "https://registry.yarnpkg.com/remove-trailing-separator/-/remove-trailing-separator-1.1.0.tgz#c24bce2a283adad5bc3f58e0d48249b92379d8ef"
   integrity sha1-wkvOKig62tW8P1jg1IJJuSN52O8=
 
-renovate@^31.24.1:
-  version "31.24.1"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-31.24.1.tgz#f365eb0840df880ceba86da44bcec908a4dcb071"
-  integrity sha512-IyIQrvlxA5odr2PRYXYGg/ZFiEw5CzVDLr7mWtUAINC6ChcIaq7AR8Pvnt3UVvkbyAhR4tsEo7AOJlDQEifGtg==
+renovate@^31.28.0:
+  version "31.28.0"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-31.28.0.tgz#b01205c5154f8557ebe30b3da6d503bdbd26f5af"
+  integrity sha512-A8nK9H2uOL0yCdfJLOCQZJ3hfx3oZZjscvaUcynPBOpl8vUuJRUqlk14spKISfT1A5VBLRRqP/reoxur8jgc2w==
   dependencies:
     "@aws-sdk/client-ec2" "3.46.0"
     "@aws-sdk/client-ecr" "3.46.0"
@@ -8636,7 +8636,7 @@ renovate@^31.24.1:
     "@iarna/toml" "2.2.5"
     "@renovatebot/pep440" "1.1.0"
     "@renovatebot/ruby-semver" "1.0.0"
-    "@sindresorhus/is" "4.2.0"
+    "@sindresorhus/is" "4.2.1"
     "@yarnpkg/core" "3.1.0"
     "@yarnpkg/parsers" "2.4.1"
     auth-header "1.0.0"
@@ -8677,7 +8677,7 @@ renovate@^31.24.1:
     json-stringify-pretty-compact "3.0.0"
     json5 "2.2.0"
     luxon "2.3.0"
-    markdown-it "12.3.0"
+    markdown-it "12.3.2"
     markdown-table "2.0.0"
     marshal "0.5.2"
     minimatch "3.0.4"
