@@ -22,7 +22,7 @@
   "dependencies": {
     "@commitlint/cli": "^16.0.3",
     "@commitlint/config-conventional": "^16.0.0",
-    "commitlint": "^16.0.2"
+    "commitlint": "^16.0.3"
   },
   "publishConfig": {
     "access": "public",
