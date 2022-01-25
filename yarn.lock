@@ -1617,12 +1617,12 @@
   resolved "https://registry.yarnpkg.com/@renovatebot/pep440/-/pep440-2.0.0.tgz#c9faec210d3eefed9c556f796dc1ff00ab55c979"
   integrity sha512-9dw67KZW+k1VzzlScH10/4ukaqyYR8TQm3QHBD4EkbUt2NPYlalXvdIjvx9tk15h4xubglDgYpsEMQkfEHMbvA==
 
-"@renovatebot/ruby-semver@1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@renovatebot/ruby-semver/-/ruby-semver-1.0.0.tgz#79b5b8edbfa09b9c7c99a1c60b0fc68af7bae9b4"
-  integrity sha512-Ov06M77JxuZXMmYPfUjwr9CQhzKfx26POT+XNSE8CCrTuXns/Nb970cwJMxDEn6E3+qJ079rhuiVa1YpRtyoIQ==
+"@renovatebot/ruby-semver@1.1.2":
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/@renovatebot/ruby-semver/-/ruby-semver-1.1.2.tgz#ffc4d751c41dc7d256858de746f6afdddb87d482"
+  integrity sha512-qFIqLwJgasTQbVchq08ShNwOWn3LqzMiESmzD8OTO8sghYRFY365luQ8TAaQveuQbJ50k0FKMTJ/kcr2Vc2tiA==
   dependencies:
-    tslib "2.1.0"
+    tslib "2.3.1"
 
 "@semantic-release/changelog@^6.0.1":
   version "6.0.1"
@@ -1810,10 +1810,10 @@
     lodash "^4.17.4"
     read-pkg-up "^7.0.0"
 
-"@sindresorhus/is@4.2.1":
-  version "4.2.1"
-  resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-4.2.1.tgz#b88b5724283db80b507cd612caee9a1947412a20"
-  integrity sha512-BrzrgtaqEre0qfvI8sMTaEvx+bayuhPmfe2rfeUGPPHYr/PLxCOqkOe4TQTDPb+qcqgNcsAtXV/Ew74mcDIE8w==
+"@sindresorhus/is@4.3.0":
+  version "4.3.0"
+  resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-4.3.0.tgz#344fd9bf808a84567ba563d00cc54b2f428dbab1"
+  integrity sha512-wwOvh0eO3PiTEivGJWiZ+b946SlMSb4pe+y+Ur/4S87cwo09pYi+FWHHnbrM3W9W7cBYKDqQXcrFYjYUCOJUEQ==
 
 "@sindresorhus/is@^0.14.0":
   version "0.14.0"
@@ -7493,10 +7493,10 @@ nan@^2.15.0:
   resolved "https://registry.yarnpkg.com/nan/-/nan-2.15.0.tgz#3f34a473ff18e15c1b5626b62903b5ad6e665fee"
   integrity sha512-8ZtvEnA2c5aYCZYd1cvgdnU6cqwixRoYg70xPLWUws5ORTa/lnw+u4amixRS/Ac5U5mQVgp9pnlSUnbNWFaWZQ==
 
-nanoid@3.1.32:
-  version "3.1.32"
-  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.1.32.tgz#8f96069e6239cc0a9ae8c0d3b41a3b4933a88c0a"
-  integrity sha512-F8mf7R3iT9bvThBoW4tGXhXFHCctyCiUUPrWF8WaTqa3h96d9QybkSeba43XVOOE3oiLfkVDe4bT8MeGmkrTxw==
+nanoid@3.2.0:
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.2.0.tgz#62667522da6673971cca916a6d3eff3f415ff80c"
+  integrity sha512-fmsZYa9lpn69Ad5eDn7FMcnnSR+8R34W9qJEijxYhTbfOWzr22n1QxCMzXLK+ODyW2973V3Fux959iQoUxzUIA==
 
 nanoid@^3.1.23:
   version "3.1.23"
@@ -8376,11 +8376,6 @@ parse-conflict-json@^1.1.1:
     just-diff "^3.0.1"
     just-diff-apply "^3.0.0"
 
-parse-diff@0.9.0:
-  version "0.9.0"
-  resolved "https://registry.yarnpkg.com/parse-diff/-/parse-diff-0.9.0.tgz#2e71b5dc5d8f4b9c19c471fd6325646dc9f21724"
-  integrity sha512-Jn+VZORAezkfOXR6B40EZcXxdJBamtgBpfeoFH6hxD+p0e74nVaCL9SWlQj1ggc8b6AexgPKlDiiE0CMMZDSbQ==
-
 parse-entities@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/parse-entities/-/parse-entities-2.0.0.tgz#53c6eb5b9314a1f4ec99fa0fdf7ce01ecda0cbe8"
@@ -9185,10 +9180,10 @@ remove-trailing-separator@^1.0.1:
   resolved "https://registry.yarnpkg.com/remove-trailing-separator/-/remove-trailing-separator-1.1.0.tgz#c24bce2a283adad5bc3f58e0d48249b92379d8ef"
   integrity sha1-wkvOKig62tW8P1jg1IJJuSN52O8=
 
-renovate@^31.44.0:
-  version "31.44.0"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-31.44.0.tgz#bfd43e1c1b2aba34fc57f28820202d3aedf6ed04"
-  integrity sha512-B9BODmbpR9zFzXSkLTFcjU6GUsrUpBu+CXctWW7Q8XSgVKBkZHrfK6RLLwLi8yEGVHXCBBPloS/C7HWfhW2nyQ==
+renovate@^31.53.0:
+  version "31.53.0"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-31.53.0.tgz#1f7aab67aa6b1ffe963277a1286a6fb602fa7816"
+  integrity sha512-FaYSdovC+sR4mFXRzb3pYEkiev3ixGQmimtKwmPRBPmdzlKGdTiRHU+VPk5ddVYNwGGBWEfUx3TtuvgdVGrBKQ==
   dependencies:
     "@aws-sdk/client-ec2" "3.47.0"
     "@aws-sdk/client-ecr" "3.47.0"
@@ -9196,8 +9191,8 @@ renovate@^31.44.0:
     "@cheap-glitch/mi-cron" "1.0.1"
     "@iarna/toml" "2.2.5"
     "@renovatebot/pep440" "2.0.0"
-    "@renovatebot/ruby-semver" "1.0.0"
-    "@sindresorhus/is" "4.2.1"
+    "@renovatebot/ruby-semver" "1.1.2"
+    "@sindresorhus/is" "4.3.0"
     "@yarnpkg/core" "3.1.0"
     "@yarnpkg/parsers" "2.4.1"
     auth-header "1.0.0"
@@ -9243,13 +9238,12 @@ renovate@^31.44.0:
     marshal "0.5.2"
     minimatch "3.0.4"
     moo "0.5.1"
-    nanoid "3.1.32"
+    nanoid "3.2.0"
     node-html-parser "5.2.0"
     openpgp "5.0.1"
     p-all "3.0.0"
     p-map "4.0.0"
     p-queue "6.6.2"
-    parse-diff "0.9.0"
     parse-link-header "2.0.0"
     redis "4.0.2"
     registry-auth-token "4.2.1"
@@ -10551,11 +10545,6 @@ tsconfig-paths@^3.9.0:
     json5 "^2.2.0"
     minimist "^1.2.0"
     strip-bom "^3.0.0"
-
-tslib@2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.1.0.tgz#da60860f1c2ecaa5703ab7d39bc05b6bf988b97a"
-  integrity sha512-hcVC3wYEziELGGmEEXue7D75zbwIIVUMWAVbHItGPx0ziyXxrOMQx4rQEVEV45Ut/1IotuEvwqPopzIOkDMf0A==
 
 tslib@2.3.1, tslib@^2.1.0, tslib@^2.3.0, tslib@^2.3.1:
   version "2.3.1"
