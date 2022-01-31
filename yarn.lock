@@ -9192,10 +9192,10 @@ remove-trailing-separator@^1.0.1:
   resolved "https://registry.yarnpkg.com/remove-trailing-separator/-/remove-trailing-separator-1.1.0.tgz#c24bce2a283adad5bc3f58e0d48249b92379d8ef"
   integrity sha1-wkvOKig62tW8P1jg1IJJuSN52O8=
 
-renovate@^31.60.0:
-  version "31.60.0"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-31.60.0.tgz#28b8a2ca23793eb88a8a4fe2f70e2bdcea0189ef"
-  integrity sha512-2CSxBhwcHNHe44GorDrVh+aj5Q7oVz+50ozPKJjk7Qtzi2YDPrm1vHRll8XcM6QePkuLHYZIvtyQLDOH1vMsJQ==
+renovate@^31.63.2:
+  version "31.63.2"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-31.63.2.tgz#af92480c548cadda6a4fa1c363f9d176f2e173e1"
+  integrity sha512-pl6+rb3+Xq8FcAGJOEtEIj/ey7csFY7WAjSu5nVH+sCR07desuGic8daeM3fJbr/dsTZBX5bGKcFS52YnxR68Q==
   dependencies:
     "@aws-sdk/client-ec2" "3.47.0"
     "@aws-sdk/client-ecr" "3.47.0"
@@ -9265,7 +9265,7 @@ renovate@^31.60.0:
     semver-stable "3.0.0"
     semver-utils "1.1.4"
     shlex "2.1.0"
-    simple-git "3.0.3"
+    simple-git "3.1.0"
     slugify "1.6.5"
     traverse "0.6.6"
     tslib "2.3.1"
@@ -9721,10 +9721,10 @@ signale@^1.2.1, signale@^1.4.0:
     figures "^2.0.0"
     pkg-conf "^2.1.0"
 
-simple-git@3.0.3:
-  version "3.0.3"
-  resolved "https://registry.yarnpkg.com/simple-git/-/simple-git-3.0.3.tgz#de3b67c8a130bbe388516cc1612c4a12bbcbb556"
-  integrity sha512-UWfIXKFtsCYpVcVOiyKYicTDa5hYYfvk+QT96ra5KPRyrXt0LTt36OpvptkF2+/HkbTeIu2C6Mc7DyrVePSW8A==
+simple-git@3.1.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/simple-git/-/simple-git-3.1.0.tgz#93a899cda9d4ffb9e11c2a735dddf08368704ac9"
+  integrity sha512-XpiIA5CBB8S40cJwkLhVe3ysyuLjvOrPo/xjorJl+hspFBgJFueqKXQbKhUl5Ujh2TWMt2jhxl5UTGciFnkXmA==
   dependencies:
     "@kwsites/file-exists" "^1.1.1"
     "@kwsites/promise-deferred" "^1.1.1"
