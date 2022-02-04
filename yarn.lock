@@ -3811,12 +3811,12 @@ debug@4, debug@^4.0.0, debug@^4.1.0, debug@^4.1.1, debug@^4.2.0, debug@^4.3.1, d
   dependencies:
     ms "2.1.2"
 
-debug@4.1.1:
-  version "4.1.1"
-  resolved "https://registry.yarnpkg.com/debug/-/debug-4.1.1.tgz#3b72260255109c6b589cee050f1d516139664791"
-  integrity sha512-pYAIzeRo8J6KPEaJ0VWOh5Pzkbw/RetuzehGM7QRRX5he4fPHx2rdKMB256ehJCkX+XRQm16eZLqLNS8RSZXZw==
+debug@4.3.3, debug@^4.3.3:
+  version "4.3.3"
+  resolved "https://registry.yarnpkg.com/debug/-/debug-4.3.3.tgz#04266e0b70a98d4462e6e288e38259213332b664"
+  integrity sha512-/zxw5+vh1Tfv+4Qn7a5nsbcJKPaSvCDhojn6FEl9vupwK2VCSDtEiEtqr8DFtzYFOdz63LBkxec7DYuc2jon6Q==
   dependencies:
-    ms "^2.1.1"
+    ms "2.1.2"
 
 debug@^2.6.9:
   version "2.6.9"
@@ -3831,13 +3831,6 @@ debug@^3.2.7:
   integrity sha512-CFjzYYAi4ThfiQvizrFQevTTXHtnCqWfe7x1AhgEscTz6ZbLbfoLRLPugTQyBth6f8ZERVUSyWHFD/7Wu4t1XQ==
   dependencies:
     ms "^2.1.1"
-
-debug@^4.3.3:
-  version "4.3.3"
-  resolved "https://registry.yarnpkg.com/debug/-/debug-4.3.3.tgz#04266e0b70a98d4462e6e288e38259213332b664"
-  integrity sha512-/zxw5+vh1Tfv+4Qn7a5nsbcJKPaSvCDhojn6FEl9vupwK2VCSDtEiEtqr8DFtzYFOdz63LBkxec7DYuc2jon6Q==
-  dependencies:
-    ms "2.1.2"
 
 debuglog@^1.0.1:
   version "1.0.1"
@@ -7084,12 +7077,12 @@ marked@^4.0.10:
   resolved "https://registry.yarnpkg.com/marked/-/marked-4.0.10.tgz#423e295385cc0c3a70fa495e0df68b007b879423"
   integrity sha512-+QvuFj0nGgO970fySghXGmuw+Fd0gD2x3+MqCWLIPf5oxdv1Ka6b2q+z9RP01P/IaKPMEramy+7cNy/Lw8c3hw==
 
-marshal@0.5.2:
-  version "0.5.2"
-  resolved "https://registry.yarnpkg.com/marshal/-/marshal-0.5.2.tgz#4a6e6a20c5f59053a5b86d7fac7ad28081214b36"
-  integrity sha512-f6zOFkXq8k8AJbACRR06s4RFCP19ugCFLn9fX4v01yinL634v8gzSf8mVVHrXFhn6GpMKXR0n8LU2wIUL+c32Q==
+marshal@0.5.3:
+  version "0.5.3"
+  resolved "https://registry.yarnpkg.com/marshal/-/marshal-0.5.3.tgz#76f9b3a2e1730619d648cbfade50df2bf939da93"
+  integrity sha512-5aTnm2yZtgrSqoXQDTOGwB7B7M0HkvsDGR+EvPVq8nJ0YSQgQ42S0UAJ+o6FKRYS+YGTpz0RYDKuG6RIicSRCg==
   dependencies:
-    debug "4.1.1"
+    debug "4.3.3"
 
 matcher@^3.0.0:
   version "3.0.0"
@@ -9192,10 +9185,10 @@ remove-trailing-separator@^1.0.1:
   resolved "https://registry.yarnpkg.com/remove-trailing-separator/-/remove-trailing-separator-1.1.0.tgz#c24bce2a283adad5bc3f58e0d48249b92379d8ef"
   integrity sha1-wkvOKig62tW8P1jg1IJJuSN52O8=
 
-renovate@^31.65.1:
-  version "31.65.1"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-31.65.1.tgz#37bf3da278033421fad82353bb2ffa5ed8cb150d"
-  integrity sha512-KfoMhlSywGb5+Hm3f0JeQMekxJiLuWVII3AX1bbfqvr+S9aDwiCghS2dZNcj7QuBxZCVQq1BMVhvhKmX2NM2Vg==
+renovate@^31.66.1:
+  version "31.66.1"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-31.66.1.tgz#527c488bf83856349c9783d83b9f2c56e401e429"
+  integrity sha512-kFwvfohtYdFB3Q50MouXRI6AEg4WawEWE+WcHjuBrvJHB5MvdJMyabPYteJBFlC2GLhEGoDhX+qmTG+Jst5Kmg==
   dependencies:
     "@aws-sdk/client-ec2" "3.47.0"
     "@aws-sdk/client-ecr" "3.47.0"
@@ -9247,7 +9240,7 @@ renovate@^31.65.1:
     luxon "2.3.0"
     markdown-it "12.3.2"
     markdown-table "2.0.0"
-    marshal "0.5.2"
+    marshal "0.5.3"
     minimatch "3.0.4"
     moo "0.5.1"
     nanoid "3.2.0"
@@ -9265,7 +9258,7 @@ renovate@^31.65.1:
     semver-stable "3.0.0"
     semver-utils "1.1.4"
     shlex "2.1.0"
-    simple-git "3.1.0"
+    simple-git "3.1.1"
     slugify "1.6.5"
     traverse "0.6.6"
     tslib "2.3.1"
@@ -9721,10 +9714,10 @@ signale@^1.2.1, signale@^1.4.0:
     figures "^2.0.0"
     pkg-conf "^2.1.0"
 
-simple-git@3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/simple-git/-/simple-git-3.1.0.tgz#93a899cda9d4ffb9e11c2a735dddf08368704ac9"
-  integrity sha512-XpiIA5CBB8S40cJwkLhVe3ysyuLjvOrPo/xjorJl+hspFBgJFueqKXQbKhUl5Ujh2TWMt2jhxl5UTGciFnkXmA==
+simple-git@3.1.1:
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/simple-git/-/simple-git-3.1.1.tgz#dcc7c971b952a97824b961669fd036751ced6818"
+  integrity sha512-VamXD/Royf2Xo7s+ASzT9fp2cJatLtz/w8zLwjOLCAq9FC9ks5mEoBUYVwXuDq4GoqDReqV5r/GM+lwx6Jucyw==
   dependencies:
     "@kwsites/file-exists" "^1.1.1"
     "@kwsites/promise-deferred" "^1.1.1"
