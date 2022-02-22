@@ -7376,10 +7376,10 @@ minimalistic-assert@^1.0.0:
   dependencies:
     brace-expansion "^1.1.7"
 
-minimatch@3.0.5:
-  version "3.0.5"
-  resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-3.0.5.tgz#4da8f1290ee0f0f8e83d60ca69f8f134068604a3"
-  integrity sha512-tUpxzX0VAzJHjLu0xUfFv1gwVp9ba3IOuRAVH2EGuRW8a5emA2FlACLqiT/lDVtS1W+TGNwqz3sWaNyLgDJWuw==
+minimatch@3.1.1:
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-3.1.1.tgz#879ad447200773912898b46cd516a7abbb5e50b0"
+  integrity sha512-reLxBcKUPNBnc/sVtAbxgRVFSegoGeLaSjmphNhcwcolhYLRgtJscn5mRl6YRZNQv40Y7P6JM2YhSIsbL9OB5A==
   dependencies:
     brace-expansion "^1.1.7"
 
@@ -9357,10 +9357,10 @@ remove-trailing-separator@^1.0.1:
   resolved "https://registry.yarnpkg.com/remove-trailing-separator/-/remove-trailing-separator-1.1.0.tgz#c24bce2a283adad5bc3f58e0d48249b92379d8ef"
   integrity sha1-wkvOKig62tW8P1jg1IJJuSN52O8=
 
-renovate@^31.89.2:
-  version "31.89.2"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-31.89.2.tgz#3d563edb5a2886a77d00588b994e74ad3e315f86"
-  integrity sha512-kwRtBFGJUD4SzRsEX3LFW5EEYHj6/8NXo/UMb8Mk1MWXddMja23wLC1H6PO7X9aEqt5M2QJ2hLu0h8vhkCKvaw==
+renovate@^31.89.8:
+  version "31.89.8"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-31.89.8.tgz#7839953da931d95cdfa585d552eebb7f94904b22"
+  integrity sha512-JTRbc4Ij0Y1RFy5XuB96bXlmiU5Kr0sGTNvLCH9+abxPabsJf9rSF1uLLMrctX2Zgr7hpQgPK5En2P4WZqvRvQ==
   dependencies:
     "@aws-sdk/client-ec2" "3.50.0"
     "@aws-sdk/client-ecr" "3.50.0"
@@ -9413,7 +9413,7 @@ renovate@^31.89.2:
     markdown-it "12.3.2"
     markdown-table "2.0.0"
     marshal "0.5.3"
-    minimatch "3.0.5"
+    minimatch "3.1.1"
     moo "0.5.1"
     nanoid "3.2.0"
     node-html-parser "5.2.0"
@@ -9430,7 +9430,7 @@ renovate@^31.89.2:
     semver-stable "3.0.0"
     semver-utils "1.1.4"
     shlex "2.1.0"
-    simple-git "3.1.1"
+    simple-git "3.2.4"
     slugify "1.6.5"
     traverse "0.6.6"
     tslib "2.3.1"
@@ -9891,10 +9891,10 @@ signale@^1.2.1, signale@^1.4.0:
     figures "^2.0.0"
     pkg-conf "^2.1.0"
 
-simple-git@3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/simple-git/-/simple-git-3.1.1.tgz#dcc7c971b952a97824b961669fd036751ced6818"
-  integrity sha512-VamXD/Royf2Xo7s+ASzT9fp2cJatLtz/w8zLwjOLCAq9FC9ks5mEoBUYVwXuDq4GoqDReqV5r/GM+lwx6Jucyw==
+simple-git@3.2.4:
+  version "3.2.4"
+  resolved "https://registry.yarnpkg.com/simple-git/-/simple-git-3.2.4.tgz#0c9dc47117f128a13c2a44482e206b1fc038dcf0"
+  integrity sha512-hkn1LgXW9bYqvAbge60m7W9iGljSTe2F66II03eNc4s+/czwHSUWEHe7UQlmWCfBxl6DiusD+6g0ifHbJlG8Xg==
   dependencies:
     "@kwsites/file-exists" "^1.1.1"
     "@kwsites/promise-deferred" "^1.1.1"
