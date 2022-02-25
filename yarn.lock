@@ -1633,10 +1633,10 @@
     write-file-atomic "^3.0.3"
     write-yaml-file "^4.2.0"
 
-"@renovatebot/pep440@2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@renovatebot/pep440/-/pep440-2.0.0.tgz#c9faec210d3eefed9c556f796dc1ff00ab55c979"
-  integrity sha512-9dw67KZW+k1VzzlScH10/4ukaqyYR8TQm3QHBD4EkbUt2NPYlalXvdIjvx9tk15h4xubglDgYpsEMQkfEHMbvA==
+"@renovatebot/pep440@2.1.0":
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/@renovatebot/pep440/-/pep440-2.1.0.tgz#a883a2a9ab57390b63af27e5920948c71d8911b0"
+  integrity sha512-iG3kP5kVDzghATS4DQ6C7pMRiJVyyLAOBQmnYweZcfZa9AEx/lbIx8S6D84YGLniAnHm++//xWg+vi6fiH43Bw==
 
 "@renovatebot/ruby-semver@1.1.2":
   version "1.1.2"
@@ -7594,10 +7594,10 @@ nan@^2.15.0:
   resolved "https://registry.yarnpkg.com/nan/-/nan-2.15.0.tgz#3f34a473ff18e15c1b5626b62903b5ad6e665fee"
   integrity sha512-8ZtvEnA2c5aYCZYd1cvgdnU6cqwixRoYg70xPLWUws5ORTa/lnw+u4amixRS/Ac5U5mQVgp9pnlSUnbNWFaWZQ==
 
-nanoid@3.3.0:
-  version "3.3.0"
-  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.3.0.tgz#5906f776fd886c66c24f3653e0c46fcb1d4ad6b0"
-  integrity sha512-JzxqqT5u/x+/KOFSd7JP15DOo9nOoHpx6DYatqIHUW2+flybkm+mdcraotSQR5WcnZr+qhGVh8Ted0KdfSMxlg==
+nanoid@3.3.1:
+  version "3.3.1"
+  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.3.1.tgz#6347a18cac88af88f58af0b3594b723d5e99bb35"
+  integrity sha512-n6Vs/3KGyxPQd6uO0eH4Bv0ojGSUvuLlIHtC3Y0kEO23YRge8H9x1GCzLn28YX0H66pMkxuaeESFq4tKISKwdw==
 
 nanoid@^3.1.23:
   version "3.1.23"
@@ -9355,17 +9355,17 @@ remove-trailing-separator@^1.0.1:
   resolved "https://registry.yarnpkg.com/remove-trailing-separator/-/remove-trailing-separator-1.1.0.tgz#c24bce2a283adad5bc3f58e0d48249b92379d8ef"
   integrity sha1-wkvOKig62tW8P1jg1IJJuSN52O8=
 
-renovate@^31.89.10:
-  version "31.89.10"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-31.89.10.tgz#51643c994dfd7d3ad4b0d2f276f17be7d0cc7e8c"
-  integrity sha512-mELXHAMNWwtYqQzpNrkEx3+wuj9T/1OTEaBlpiipzVtCsK0FnR+rW6oTMceE8MI2BFUkDR7Pb8XW5PLS72U9kA==
+renovate@^31.91.0:
+  version "31.91.0"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-31.91.0.tgz#5091881f5ea09b1183853659e49e5e352e809283"
+  integrity sha512-xbzHvWfJy75CLLLxhdt+NRTfVO3jFNSW74G8VEf42Kjze9CGI8i4nvAw2Y4JorC0dDdx69cmUidCwTdChuD5dQ==
   dependencies:
     "@aws-sdk/client-ec2" "3.50.0"
     "@aws-sdk/client-ecr" "3.50.0"
     "@breejs/later" "4.1.0"
     "@cheap-glitch/mi-cron" "1.0.1"
     "@iarna/toml" "2.2.5"
-    "@renovatebot/pep440" "2.0.0"
+    "@renovatebot/pep440" "2.1.0"
     "@renovatebot/ruby-semver" "1.1.2"
     "@sindresorhus/is" "4.4.0"
     "@yarnpkg/core" "3.1.0"
@@ -9413,7 +9413,7 @@ renovate@^31.89.10:
     marshal "0.5.3"
     minimatch "3.1.2"
     moo "0.5.1"
-    nanoid "3.3.0"
+    nanoid "3.3.1"
     node-html-parser "5.2.0"
     openpgp "5.1.0"
     p-all "3.0.0"
