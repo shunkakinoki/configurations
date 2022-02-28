@@ -9299,7 +9299,7 @@ regexpp@^3.1.0, regexpp@^3.2.0:
   resolved "https://registry.yarnpkg.com/regexpp/-/regexpp-3.2.0.tgz#0425a2768d8f23bad70ca4b90461fa2f1213e1b2"
   integrity sha512-pq2bWo9mVD43nbts2wGv17XLiNLya+GklZ8kaDLV2Z08gDCsGpnKn9BFMepvWuHCbyVvY7J5o5+BVvoQbmlJLg==
 
-registry-auth-token@4.2.1, registry-auth-token@^4.0.0:
+registry-auth-token@^4.0.0:
   version "4.2.1"
   resolved "https://registry.yarnpkg.com/registry-auth-token/-/registry-auth-token-4.2.1.tgz#6d7b4006441918972ccd5fedcd41dc322c79b250"
   integrity sha512-6gkSb4U6aWJB4SF2ZvLb76yCBjcvufXBqvvEx1HbmKPkutswjW1xNVRY0+daljIYRbogN7O0etYSlbiaEQyMyw==
@@ -9355,10 +9355,10 @@ remove-trailing-separator@^1.0.1:
   resolved "https://registry.yarnpkg.com/remove-trailing-separator/-/remove-trailing-separator-1.1.0.tgz#c24bce2a283adad5bc3f58e0d48249b92379d8ef"
   integrity sha1-wkvOKig62tW8P1jg1IJJuSN52O8=
 
-renovate@^31.92.0:
-  version "31.92.0"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-31.92.0.tgz#9734e4fe411d682a719b12cbc5217dba0cd53947"
-  integrity sha512-af7FrS7P8kSyh1Wq6VSc03aYdFafhnX7emS17zs83bQyGaXbVPGQkKmGcocnxK10zt2kWY85RS00EkWBH5X7XQ==
+renovate@^31.94.0:
+  version "31.94.0"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-31.94.0.tgz#b9f5550cb5c3f21baecb58c49cd2ac7400461a9b"
+  integrity sha512-4GM5WbyzqtB6JiDa91y1QWQegW19JSF14eQHZrZ3nKqDewRUGH9y9tDx/OFWDNfwozqRQixYNt8FTLqA+xgxsQ==
   dependencies:
     "@aws-sdk/client-ec2" "3.50.0"
     "@aws-sdk/client-ecr" "3.50.0"
@@ -9421,7 +9421,6 @@ renovate@^31.92.0:
     p-queue "6.6.2"
     parse-link-header "2.0.0"
     redis "4.0.3"
-    registry-auth-token "4.2.1"
     remark "13.0.0"
     remark-github "10.1.0"
     semver "7.3.5"
