@@ -20,7 +20,7 @@
     "fix": "cd ../.. && yarn run fix"
   },
   "dependencies": {
-    "typescript": "^4.5.5"
+    "typescript": "^4.6.2"
   },
   "publishConfig": {
     "access": "public",
