@@ -1841,10 +1841,10 @@
     lodash "^4.17.4"
     read-pkg-up "^7.0.0"
 
-"@sindresorhus/is@4.4.0":
-  version "4.4.0"
-  resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-4.4.0.tgz#e277e5bdbdf7cb1e20d320f02f5e2ed113cd3185"
-  integrity sha512-QppPM/8l3Mawvh4rn9CNEYIU9bxpXUCRMaX9yUpvBk1nMKusLKpfXGDEKExKaPhLzcn3lzil7pR6rnJ11HgeRQ==
+"@sindresorhus/is@4.5.0":
+  version "4.5.0"
+  resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-4.5.0.tgz#7c8293e2268de42d7037249a9e4f905dc890539b"
+  integrity sha512-ZzlL5VTnHZJl8wMWEaYk/13hwMNKLylTSPZRz8+0HIwfRTQMnFgUahDNRRV+rTmPADxQZYxna/nQcStNSCccKg==
 
 "@sindresorhus/is@^0.14.0":
   version "0.14.0"
@@ -9445,10 +9445,10 @@ remove-trailing-separator@^1.0.1:
   resolved "https://registry.yarnpkg.com/remove-trailing-separator/-/remove-trailing-separator-1.1.0.tgz#c24bce2a283adad5bc3f58e0d48249b92379d8ef"
   integrity sha1-wkvOKig62tW8P1jg1IJJuSN52O8=
 
-renovate@^32.0.0:
-  version "32.0.0"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.0.0.tgz#51dd3966eda9ac22e4f6c8c6395fc87d01d1d1a1"
-  integrity sha512-wxaYFYcu2hM0lOsKv2xbqWM/fyIe5hZGKURXT/t8QTS+ReMA11Z231PvNMKg+/lwVPXMBIf2YzgXSXRe3dmK6w==
+renovate@^32.0.1:
+  version "32.0.1"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.0.1.tgz#2fda41cdc03b4984b8b343fccac8cb47fc8c17d1"
+  integrity sha512-u03JHfs7y/3Hn5rbEgakhAQ/tCeYffF2xvyAYabp20AwLXqoQDI7s56lTzZOUDJ33/oLwI9A4+zyyxeBGqy+cA==
   dependencies:
     "@aws-sdk/client-ec2" "3.50.0"
     "@aws-sdk/client-ecr" "3.50.0"
@@ -9457,7 +9457,7 @@ renovate@^32.0.0:
     "@iarna/toml" "2.2.5"
     "@renovatebot/pep440" "2.1.0"
     "@renovatebot/ruby-semver" "1.1.2"
-    "@sindresorhus/is" "4.4.0"
+    "@sindresorhus/is" "4.5.0"
     "@yarnpkg/core" "3.1.0"
     "@yarnpkg/parsers" "2.5.0"
     auth-header "1.0.0"
