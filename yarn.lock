@@ -5756,11 +5756,6 @@ ignore@^5.1.1, ignore@^5.1.4, ignore@^5.1.8:
   resolved "https://registry.yarnpkg.com/ignore/-/ignore-5.1.8.tgz#f150a8b50a34289b33e22f5889abd4d8016f0e57"
   integrity sha512-BMpfD7PpiETpBl/A6S498BaIJ6Y/ABT93ETbby2fP00v4EbvPBXWEoaR1UBPKs3iR53pJY7EtZk5KACI57i1Uw==
 
-ignore@^5.1.9:
-  version "5.1.9"
-  resolved "https://registry.yarnpkg.com/ignore/-/ignore-5.1.9.tgz#9ec1a5cbe8e1446ec60d4420060d43aa6e7382fb"
-  integrity sha512-2zeMQpbKz5dhZ9IwL0gbxSW5w0NK/MSAMtNuhgIHEPmaU3vPdKPL0UdvUCXs5SS4JAwsBxysK5sFMW8ocFiVjQ==
-
 import-cwd@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/import-cwd/-/import-cwd-3.0.0.tgz#20845547718015126ea9b3676b7592fb8bd4cf92"
@@ -7268,23 +7263,6 @@ mdurl@^1.0.1:
   resolved "https://registry.yarnpkg.com/mdurl/-/mdurl-1.0.1.tgz#fe85b2ec75a59037f2adfec100fd6c601761152e"
   integrity sha1-/oWy7HWlkDfyrf7BAP1sYBdhFS4=
 
-meow@^6.1.1:
-  version "6.1.1"
-  resolved "https://registry.yarnpkg.com/meow/-/meow-6.1.1.tgz#1ad64c4b76b2a24dfb2f635fddcadf320d251467"
-  integrity sha512-3YffViIt2QWgTy6Pale5QpopX/IvU3LPL03jOTqp6pGj3VjesdO/U8CuHMKpnQr4shCNCM5fd5XFFvIIl6JBHg==
-  dependencies:
-    "@types/minimist" "^1.2.0"
-    camelcase-keys "^6.2.2"
-    decamelize-keys "^1.1.0"
-    hard-rejection "^2.1.0"
-    minimist-options "^4.0.2"
-    normalize-package-data "^2.5.0"
-    read-pkg-up "^7.0.1"
-    redent "^3.0.0"
-    trim-newlines "^3.0.0"
-    type-fest "^0.13.1"
-    yargs-parser "^18.1.3"
-
 meow@^7.0.0:
   version "7.1.1"
   resolved "https://registry.yarnpkg.com/meow/-/meow-7.1.1.tgz#7c01595e3d337fcb0ec4e8eed1666ea95903d306"
@@ -7448,7 +7426,7 @@ minimatch@^5.0.1:
   dependencies:
     brace-expansion "^2.0.1"
 
-minimist-options@4.1.0, minimist-options@^4.0.2:
+minimist-options@4.1.0:
   version "4.1.0"
   resolved "https://registry.yarnpkg.com/minimist-options/-/minimist-options-4.1.0.tgz#c0655713c53a8a2ebd77ffa247d342c40f010619"
   integrity sha512-Q4r8ghd80yhO/0j1O3B2BjweX3fiHg9cdOwjJd2J76Q135c+NDxGCqdYKQ1SKBuFfgWbAUzBfvYjPUEeNgqN1A==
@@ -7950,26 +7928,28 @@ npm-package-arg@^9.0.0:
     semver "^7.3.5"
     validate-npm-package-name "^3.0.0"
 
-npm-package-json-lint@^5.4.2:
-  version "5.4.2"
-  resolved "https://registry.yarnpkg.com/npm-package-json-lint/-/npm-package-json-lint-5.4.2.tgz#f2565b1c71ce7dd8a5a14b29da0d54bd6509aad0"
-  integrity sha512-DH1MSvYvm+cuQFXcPehIIu/WiYzMYs7BOxlhOOFHaH2SNrA+P2uDtTEe5LOG90Ci7PTwgF/dCmSKM2HWTgWXNA==
+npm-package-json-lint@^6.0.0:
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/npm-package-json-lint/-/npm-package-json-lint-6.0.0.tgz#98f1e78ce70f694d73b6732a0f132fe873c75a91"
+  integrity sha512-4kqnHxU3cOcXI7DMiSNnb2dwFq5gASN4YCtNC4o9gVxRZRsWtLq3Z47wihvrE+/gGOwY1Um3fL9Ajr0MQSs+vA==
   dependencies:
     ajv "^6.12.6"
     ajv-errors "^1.0.1"
     chalk "^4.1.2"
     cosmiconfig "^7.0.1"
-    debug "^4.3.2"
-    globby "^11.0.4"
-    ignore "^5.1.9"
+    debug "^4.3.3"
+    globby "^11.1.0"
+    ignore "^5.2.0"
     is-plain-obj "^3.0.0"
     jsonc-parser "^3.0.0"
     log-symbols "^4.1.0"
-    meow "^6.1.1"
+    meow "^9.0.0"
     plur "^4.0.0"
     semver "^7.3.5"
     slash "^3.0.0"
     strip-json-comments "^3.1.1"
+    type-fest "^2.12.0"
+    validate-npm-package-name "^3.0.0"
 
 npm-packlist@^2.1.4:
   version "2.2.2"
@@ -10934,6 +10914,11 @@ type-fest@^1.0.2:
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/type-fest/-/type-fest-1.4.0.tgz#e9fb813fe3bf1744ec359d55d1affefa76f14be1"
   integrity sha512-yGSza74xk0UG8k+pLh5oeoYirvIiWo5t0/o3zHHAO2tRDiZcxWP7fywNlXhqb6/r6sWvwi+RsyQMWhVLe4BVuA==
+
+type-fest@^2.12.0:
+  version "2.12.0"
+  resolved "https://registry.yarnpkg.com/type-fest/-/type-fest-2.12.0.tgz#ce342f58cab9114912f54b493d60ab39c3fc82b6"
+  integrity sha512-Qe5GRT+n/4GoqCNGGVp5Snapg1Omq3V7irBJB3EaKsp7HWDo5Gv2d/67gfNyV+d5EXD+x/RF5l1h4yJ7qNkcGA==
 
 typed-rest-client@^1.8.4:
   version "1.8.4"
