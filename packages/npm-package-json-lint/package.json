@@ -20,7 +20,7 @@
     "fix": "cd ../.. && yarn run fix"
   },
   "dependencies": {
-    "npm-package-json-lint": "^5.4.2"
+    "npm-package-json-lint": "^6.0.0"
   },
   "publishConfig": {
     "access": "public",
