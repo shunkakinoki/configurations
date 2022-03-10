@@ -7935,10 +7935,10 @@ npm-package-arg@^9.0.0:
     semver "^7.3.5"
     validate-npm-package-name "^3.0.0"
 
-npm-package-json-lint@^6.0.0:
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/npm-package-json-lint/-/npm-package-json-lint-6.0.0.tgz#98f1e78ce70f694d73b6732a0f132fe873c75a91"
-  integrity sha512-4kqnHxU3cOcXI7DMiSNnb2dwFq5gASN4YCtNC4o9gVxRZRsWtLq3Z47wihvrE+/gGOwY1Um3fL9Ajr0MQSs+vA==
+npm-package-json-lint@^6.0.1:
+  version "6.0.1"
+  resolved "https://registry.yarnpkg.com/npm-package-json-lint/-/npm-package-json-lint-6.0.1.tgz#381808f437a1b4d5ba29f1e394bc7a42923de532"
+  integrity sha512-pV6T0xeQOQNGJikIAUPMO8EhEHs3ht7LtpTms5Pf8uaYgbIHx/RO/55HETOUcR00sqkKnEvrwHlOQd3xB2s1UA==
   dependencies:
     ajv "^6.12.6"
     ajv-errors "^1.0.1"
