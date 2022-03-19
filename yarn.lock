@@ -3913,6 +3913,13 @@ debug@^3.2.7:
   dependencies:
     ms "^2.1.1"
 
+debug@^4.3.4:
+  version "4.3.4"
+  resolved "https://registry.yarnpkg.com/debug/-/debug-4.3.4.tgz#1319f6579357f2338d3337d2cdd4914bb5dcc865"
+  integrity sha512-PRWFHuSU3eDtQJPvnNY7Jcket1j0t5OuOsFzPPzsekD52Zl8qUfFIPEiswXqIvHWGVHOgX+7G/vCNNhehwxfkQ==
+  dependencies:
+    ms "2.1.2"
+
 debuglog@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/debuglog/-/debuglog-1.0.1.tgz#aa24ffb9ac3df9a2351837cfb2d279360cd78492"
@@ -7936,16 +7943,16 @@ npm-package-arg@^9.0.0:
     semver "^7.3.5"
     validate-npm-package-name "^3.0.0"
 
-npm-package-json-lint@^6.0.3:
-  version "6.0.3"
-  resolved "https://registry.yarnpkg.com/npm-package-json-lint/-/npm-package-json-lint-6.0.3.tgz#968f354c9ddabf17971426642cb2f55ed2036016"
-  integrity sha512-moxJVEJ6yzT+xQxbmZ4dPUuZBphiBYkScvfja8RuZnG3X212eb81D6+s4OrZoe09/Wh06wlYHyfdY4SXipBfmg==
+npm-package-json-lint@^6.1.0:
+  version "6.1.0"
+  resolved "https://registry.yarnpkg.com/npm-package-json-lint/-/npm-package-json-lint-6.1.0.tgz#be0a2875598aa646b55a5ae8625168dfa598a50f"
+  integrity sha512-PTlmV3VAN/qvqnhizxOYEnN2EW2b4al+MCSCUlXB6vqZBenQd4b2L9G27T6K2D357Rn0Biw3E1lqY/Gd8mhVlQ==
   dependencies:
     ajv "^6.12.6"
     ajv-errors "^1.0.1"
     chalk "^4.1.2"
     cosmiconfig "^7.0.1"
-    debug "^4.3.3"
+    debug "^4.3.4"
     globby "^11.1.0"
     ignore "^5.2.0"
     is-plain-obj "^3.0.0"
