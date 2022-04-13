@@ -16,7 +16,7 @@
     "fix": "cd ../.. && yarn run fix"
   },
   "dependencies": {
-    "npm-check-updates": "^12.5.8"
+    "npm-check-updates": "^12.5.9"
   },
   "publishConfig": {
     "access": "public",
