@@ -9816,10 +9816,10 @@ remove-trailing-separator@^1.0.1:
   resolved "https://registry.yarnpkg.com/remove-trailing-separator/-/remove-trailing-separator-1.1.0.tgz#c24bce2a283adad5bc3f58e0d48249b92379d8ef"
   integrity sha1-wkvOKig62tW8P1jg1IJJuSN52O8=
 
-renovate@^32.20.2:
-  version "32.20.2"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.20.2.tgz#68a63ff3d8feff32bfb05a8a7a6ffd01e8ce7d42"
-  integrity sha512-Tszn+eckFJfMG8Sr521N2nclXmKNkboFzopakXkX+ZhqepAmZguFhLlBiUCVVCas+72pY0Kp5tMi7IukHEYGPw==
+renovate@^32.21.0:
+  version "32.21.0"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.21.0.tgz#53eaac7be2906588a75233debe2a2aacf103ed67"
+  integrity sha512-qUhR8q8T1kpF9PH633Ut7CDe5wpdDlQ2SIlIOfQ7KnVIzxXh0qj87rPyBKkp7GFVlfd27aVVv7i1J2rmvLADqw==
   dependencies:
     "@aws-sdk/client-ec2" "3.50.0"
     "@aws-sdk/client-ecr" "3.50.0"
@@ -9886,7 +9886,7 @@ renovate@^32.20.2:
     redis "4.0.6"
     remark "13.0.0"
     remark-github "10.1.0"
-    semver "7.3.5"
+    semver "7.3.6"
     semver-stable "3.0.0"
     semver-utils "1.1.4"
     shlex "2.1.0"
@@ -10278,6 +10278,13 @@ semver@*, semver@7.3.5, semver@^7.0.0, semver@^7.1.1, semver@^7.1.2, semver@^7.1
   version "5.7.1"
   resolved "https://registry.yarnpkg.com/semver/-/semver-5.7.1.tgz#a954f931aeba508d307bbf069eff0c01c96116f7"
   integrity sha512-sauaDf/PZdVgrLTNYHRtpXa1iRiKcaebiKQ1BJdpQlWH2lCvexQdX55snPFyK7QzpudqbCI0qXFfOasHdyNDGQ==
+
+semver@7.3.6:
+  version "7.3.6"
+  resolved "https://registry.yarnpkg.com/semver/-/semver-7.3.6.tgz#5d73886fb9c0c6602e79440b97165c29581cbb2b"
+  integrity sha512-HZWqcgwLsjaX1HBD31msI/rXktuIhS+lWvdE4kN9z+8IVT4Itc7vqU2WvYsyD6/sjYCt4dEKH/m1M3dwI9CC5w==
+  dependencies:
+    lru-cache "^7.4.0"
 
 semver@^6.0.0, semver@^6.2.0, semver@^6.3.0:
   version "6.3.0"
