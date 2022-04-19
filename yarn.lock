@@ -7511,10 +7511,10 @@ marked@^4.0.10:
   resolved "https://registry.yarnpkg.com/marked/-/marked-4.0.10.tgz#423e295385cc0c3a70fa495e0df68b007b879423"
   integrity sha512-+QvuFj0nGgO970fySghXGmuw+Fd0gD2x3+MqCWLIPf5oxdv1Ka6b2q+z9RP01P/IaKPMEramy+7cNy/Lw8c3hw==
 
-marshal@0.5.3:
-  version "0.5.3"
-  resolved "https://registry.yarnpkg.com/marshal/-/marshal-0.5.3.tgz#76f9b3a2e1730619d648cbfade50df2bf939da93"
-  integrity sha512-5aTnm2yZtgrSqoXQDTOGwB7B7M0HkvsDGR+EvPVq8nJ0YSQgQ42S0UAJ+o6FKRYS+YGTpz0RYDKuG6RIicSRCg==
+marshal@0.5.4:
+  version "0.5.4"
+  resolved "https://registry.yarnpkg.com/marshal/-/marshal-0.5.4.tgz#465f6bc0b5d869dc9526dcc801308937cec5e395"
+  integrity sha512-f82P3ZYEDjREiuyO6Sqh3+nsZlweBeFyQkrYkkumazgwf7+aKVzuCmSTRif5r59dYJ2giR2TWnKySZM8TM81tA==
   dependencies:
     debug "4.3.3"
 
@@ -9821,10 +9821,10 @@ remove-trailing-separator@^1.0.1:
   resolved "https://registry.yarnpkg.com/remove-trailing-separator/-/remove-trailing-separator-1.1.0.tgz#c24bce2a283adad5bc3f58e0d48249b92379d8ef"
   integrity sha1-wkvOKig62tW8P1jg1IJJuSN52O8=
 
-renovate@^32.25.0:
-  version "32.25.0"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.25.0.tgz#08911ace552282c99683ad0050d4d8be180f8ab6"
-  integrity sha512-0EQrK8J8JDYEwU2JdMzOACd5uHjk4QqqrBFUayaCs+Uj4l2YWloRWyQpHfZB2lD1rzNMyIHuVdlKqcE1JC7hXA==
+renovate@^32.26.1:
+  version "32.26.1"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.26.1.tgz#9336c51169ae7b929bc43863354cd63f57dbd835"
+  integrity sha512-fDUR1ttxtertdezFeQF22IUDP4OcI/8QUz55P+V0c+inEOudCzKssDj3FC9B+lniN1gs37ElGW4e/pqk/CswTQ==
   dependencies:
     "@aws-sdk/client-ec2" "3.50.0"
     "@aws-sdk/client-ecr" "3.50.0"
@@ -9878,7 +9878,7 @@ renovate@^32.25.0:
     luxon "2.3.1"
     markdown-it "12.3.2"
     markdown-table "2.0.0"
-    marshal "0.5.3"
+    marshal "0.5.4"
     minimatch "5.0.1"
     moo "0.5.1"
     nanoid "3.3.2"
@@ -9895,7 +9895,7 @@ renovate@^32.25.0:
     semver-stable "3.0.0"
     semver-utils "1.1.4"
     shlex "2.1.0"
-    simple-git "3.5.0"
+    simple-git "3.6.0"
     slugify "1.6.5"
     traverse "0.6.6"
     tslib "2.3.1"
@@ -10363,10 +10363,10 @@ signale@^1.2.1, signale@^1.4.0:
     figures "^2.0.0"
     pkg-conf "^2.1.0"
 
-simple-git@3.5.0:
-  version "3.5.0"
-  resolved "https://registry.yarnpkg.com/simple-git/-/simple-git-3.5.0.tgz#3c3538f4d7a1b3c8f3904412b12740bdcad9c8b1"
-  integrity sha512-fZsaq5nzdxQRhMNs6ESGLpMUHoL5GRP+boWPhq9pMYMKwOGZV2jHOxi8AbFFA2Y/6u4kR99HoULizSbpzaODkA==
+simple-git@3.6.0:
+  version "3.6.0"
+  resolved "https://registry.yarnpkg.com/simple-git/-/simple-git-3.6.0.tgz#28a9ebb7ca55495bb4e6cc5d367b4543e2d857a4"
+  integrity sha512-2e+4QhOVO59GeLsHgwSMKNrSKCnuACeA/gMNrLCYR8ID9qwm4hViVt4WsODcUGjx//KDv6GMLC6Hs/MeosgXxg==
   dependencies:
     "@kwsites/file-exists" "^1.1.1"
     "@kwsites/promise-deferred" "^1.1.1"
