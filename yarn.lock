@@ -1755,12 +1755,12 @@
   resolved "https://registry.yarnpkg.com/@renovatebot/pep440/-/pep440-2.1.1.tgz#fb1affdcfcc7d9e8c6f46a817d9cb4f741acbc28"
   integrity sha512-B6icy/x5ANwDGIUU3aTT+Y1zDCOkqjBtIpuTLcOENCYxLiAXwiZOn0sGEwpmwv2FF9VcuG0DSW5ZOdzpkmZI6g==
 
-"@renovatebot/ruby-semver@1.1.2":
-  version "1.1.2"
-  resolved "https://registry.yarnpkg.com/@renovatebot/ruby-semver/-/ruby-semver-1.1.2.tgz#ffc4d751c41dc7d256858de746f6afdddb87d482"
-  integrity sha512-qFIqLwJgasTQbVchq08ShNwOWn3LqzMiESmzD8OTO8sghYRFY365luQ8TAaQveuQbJ50k0FKMTJ/kcr2Vc2tiA==
+"@renovatebot/ruby-semver@1.1.3":
+  version "1.1.3"
+  resolved "https://registry.yarnpkg.com/@renovatebot/ruby-semver/-/ruby-semver-1.1.3.tgz#f6996a8002ffabf80c687c29d441880410cfa118"
+  integrity sha512-lBeF7M43v2zc3Z5tx/qcfOy/yWDRSWWikZ6wtngTpyLcdEiZ2YXevP2Sfp+aXzRAAKZyYNq2h0WF5/WZBNGwiw==
   dependencies:
-    tslib "2.3.1"
+    tslib "2.4.0"
 
 "@seald-io/binary-search-tree@^1.0.2":
   version "1.0.2"
@@ -9841,10 +9841,10 @@ remove-trailing-separator@^1.0.1:
   resolved "https://registry.yarnpkg.com/remove-trailing-separator/-/remove-trailing-separator-1.1.0.tgz#c24bce2a283adad5bc3f58e0d48249b92379d8ef"
   integrity sha1-wkvOKig62tW8P1jg1IJJuSN52O8=
 
-renovate@^32.33.1:
-  version "32.33.1"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.33.1.tgz#38e72e5638f52aeb46d05ef604b1e41b7e869f00"
-  integrity sha512-gzzt/oEoHJ3wml0lFtTrT7N1hBpoxitUUI24LBdBa9WJu5KSXjcZMtFdZxIXzdARXzAUFYGMwkL4181Ctzu9QA==
+renovate@^32.36.0:
+  version "32.36.0"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.36.0.tgz#6ab78261a26d15e81828418c3dea985ec7addfc0"
+  integrity sha512-gPBn+0fG7Kh/YSBPToi9uaLxgG7l84KOHfV1lvJOPeQrjCgjVWPVYmkYIjXBszGfYtNpIlNufXVAIrPlA7CrDg==
   dependencies:
     "@aws-sdk/client-ec2" "3.72.0"
     "@aws-sdk/client-ecr" "3.72.0"
@@ -9853,7 +9853,7 @@ renovate@^32.33.1:
     "@iarna/toml" "2.2.5"
     "@jamiemagee/osv-offline" "1.2.5"
     "@renovatebot/pep440" "2.1.1"
-    "@renovatebot/ruby-semver" "1.1.2"
+    "@renovatebot/ruby-semver" "1.1.3"
     "@sindresorhus/is" "4.6.0"
     "@yarnpkg/core" "3.1.0"
     "@yarnpkg/parsers" "2.5.0"
@@ -9915,10 +9915,10 @@ renovate@^32.33.1:
     semver-stable "3.0.0"
     semver-utils "1.1.4"
     shlex "2.1.0"
-    simple-git "3.7.0"
+    simple-git "3.7.1"
     slugify "1.6.5"
     traverse "0.6.6"
-    tslib "2.3.1"
+    tslib "2.4.0"
     upath "2.0.1"
     url-join "4.0.1"
     validate-npm-package-name "4.0.0"
@@ -10383,10 +10383,10 @@ signale@^1.2.1, signale@^1.4.0:
     figures "^2.0.0"
     pkg-conf "^2.1.0"
 
-simple-git@3.7.0:
-  version "3.7.0"
-  resolved "https://registry.yarnpkg.com/simple-git/-/simple-git-3.7.0.tgz#b0aac4c2e6e8118c115460ed93d072cda966dd42"
-  integrity sha512-O9HlI83ywqkYqnr7Wh3CqKNNrMkfjzpKQSGtJAhk7+H5P+lAxHBTIPgu/eO/0D9pMciepgs433p0d5S+NYv5Jg==
+simple-git@3.7.1:
+  version "3.7.1"
+  resolved "https://registry.yarnpkg.com/simple-git/-/simple-git-3.7.1.tgz#cb85c59da4da3d69792d206dd28cfbd803941fac"
+  integrity sha512-+Osjtsumbtew2y9to0pOYjNzSIr4NkKGBg7Po5SUtjQhaJf2QBmiTX/9E9cv9rmc7oUiSGFIB9e7ys5ibnT9+A==
   dependencies:
     "@kwsites/file-exists" "^1.1.1"
     "@kwsites/promise-deferred" "^1.1.1"
@@ -11240,10 +11240,10 @@ tsconfig-paths@^3.14.1:
     minimist "^1.2.6"
     strip-bom "^3.0.0"
 
-tslib@2.3.1, tslib@^2.1.0, tslib@^2.3.1:
-  version "2.3.1"
-  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.3.1.tgz#e8a335add5ceae51aa261d32a490158ef042ef01"
-  integrity sha512-77EbyPPpMz+FRFRuAFlWMtmgUWGe9UOG2Z25NqCwiIjRhOf5iKGuzSe5P2w1laq+FkRy4p+PCuVkJSGkzTEKVw==
+tslib@2.4.0:
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.4.0.tgz#7cecaa7f073ce680a05847aa77be941098f36dc3"
+  integrity sha512-d6xOpEDfsi2CZVlPQzGeux8XMwLT9hssAsaPYExaQMuYskwb+x1x7J371tWlbBdWHroy99KnVB6qIkUbs5X3UQ==
 
 tslib@^1.11.1, tslib@^1.13.0, tslib@^1.8.1, tslib@^1.9.0:
   version "1.14.1"
@@ -11254,6 +11254,11 @@ tslib@^2.0.0:
   version "2.3.0"
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.3.0.tgz#803b8cdab3e12ba581a4ca41c8839bbb0dacb09e"
   integrity sha512-N82ooyxVNm6h1riLCoyS9e3fuJ3AMG2zIZs2Gd1ATcSFjSA23Q0fzjjZeh0jbJvWVDZ0cJT8yaNNaaXHzueNjg==
+
+tslib@^2.1.0, tslib@^2.3.1:
+  version "2.3.1"
+  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.3.1.tgz#e8a335add5ceae51aa261d32a490158ef042ef01"
+  integrity sha512-77EbyPPpMz+FRFRuAFlWMtmgUWGe9UOG2Z25NqCwiIjRhOf5iKGuzSe5P2w1laq+FkRy4p+PCuVkJSGkzTEKVw==
 
 tsutils@^3.21.0:
   version "3.21.0"
