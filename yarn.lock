@@ -3495,10 +3495,10 @@ cacache@*, cacache@^15.3.0:
     tar "^6.0.2"
     unique-filename "^1.1.1"
 
-cacache@16.0.6:
-  version "16.0.6"
-  resolved "https://registry.yarnpkg.com/cacache/-/cacache-16.0.6.tgz#3e4b1e8196673486e725a66eaa747a91da753963"
-  integrity sha512-9a/MLxGaw3LEGes0HaPez2RgZWDV6X0jrgChsuxfEh8xoDoYGxaGrkMe7Dlyjrb655tA/b8fX0qlUg6Ii5MBvw==
+cacache@16.0.7:
+  version "16.0.7"
+  resolved "https://registry.yarnpkg.com/cacache/-/cacache-16.0.7.tgz#74a5d9bc4c17b4c0b373c1f5d42dadf5dc06638d"
+  integrity sha512-a4zfQpp5vm4Ipdvbj+ZrPonikRhm6WBEd4zT1Yc1DXsmAxrPgDwWBLF/u/wTVXSFPIgOJ1U3ghSa2Xm4s3h28w==
   dependencies:
     "@npmcli/fs" "^2.1.0"
     "@npmcli/move-file" "^2.0.0"
@@ -10148,10 +10148,10 @@ remove-trailing-separator@^1.0.1:
   resolved "https://registry.yarnpkg.com/remove-trailing-separator/-/remove-trailing-separator-1.1.0.tgz#c24bce2a283adad5bc3f58e0d48249b92379d8ef"
   integrity sha1-wkvOKig62tW8P1jg1IJJuSN52O8=
 
-renovate@^32.41.2:
-  version "32.41.2"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.41.2.tgz#e2d24ff9efddbdbf17a3a502e5d55187d67d6d3d"
-  integrity sha512-I29XDNGXNLrl4SmbVc4YtUenSUYBjS+2UP3JFhf3wT4P3uPNLl134nDlTs68ACOrEcQO3NiarMSqVa+EpLtMxg==
+renovate@^32.45.2:
+  version "32.45.2"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.45.2.tgz#f7b0dcb4758ae645d9ce634a3e678eb48f64320d"
+  integrity sha512-Fg8zcxPjEPmD5CuLGqCrN60YH1R5khZazjoTdYvihT3oXXDM7pAq9oCuTQMKlRJrX8T19942XPLYGEKq0GDlxg==
   dependencies:
     "@aws-sdk/client-ec2" "3.72.0"
     "@aws-sdk/client-ecr" "3.72.0"
@@ -10168,7 +10168,7 @@ renovate@^32.41.2:
     auth-header "1.0.0"
     azure-devops-node-api "11.1.1"
     bunyan "1.8.15"
-    cacache "16.0.6"
+    cacache "16.0.7"
     chalk "4.1.2"
     changelog-filename-regex "2.0.1"
     clean-git-ref "2.0.1"
