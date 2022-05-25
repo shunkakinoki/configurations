@@ -3513,10 +3513,10 @@ cacache@*, cacache@^15.3.0:
     tar "^6.0.2"
     unique-filename "^1.1.1"
 
-cacache@16.0.7:
-  version "16.0.7"
-  resolved "https://registry.yarnpkg.com/cacache/-/cacache-16.0.7.tgz#74a5d9bc4c17b4c0b373c1f5d42dadf5dc06638d"
-  integrity sha512-a4zfQpp5vm4Ipdvbj+ZrPonikRhm6WBEd4zT1Yc1DXsmAxrPgDwWBLF/u/wTVXSFPIgOJ1U3ghSa2Xm4s3h28w==
+cacache@16.1.0:
+  version "16.1.0"
+  resolved "https://registry.yarnpkg.com/cacache/-/cacache-16.1.0.tgz#87a6bae558a511c9cb2a13768073e240ca76153a"
+  integrity sha512-Pk4aQkwCW82A4jGKFvcGkQFqZcMspfP9YWq9Pr87/ldDvlWf718zeI6KWCdKt/jeihu6BytHRUicJPB1K2k8EQ==
   dependencies:
     "@npmcli/fs" "^2.1.0"
     "@npmcli/move-file" "^2.0.0"
@@ -8117,10 +8117,10 @@ minimalistic-assert@^1.0.0:
   dependencies:
     brace-expansion "^1.1.7"
 
-minimatch@5.0.1, minimatch@^5.0.1:
-  version "5.0.1"
-  resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-5.0.1.tgz#fb9022f7528125187c92bd9e9b6366be1cf3415b"
-  integrity sha512-nLDxIFRyhDblz3qMuq+SoRZED4+miJ/G+tdDrjkkkRnjAsBexeGpgjLEQ0blJy7rHhR2b93rhQY4SvyWu9v03g==
+minimatch@5.1.0:
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-5.1.0.tgz#1717b464f4971b144f6aabe8f2d0b8e4511e09c7"
+  integrity sha512-9TPBGGak4nHfGZsPBohm9AWg6NoT7QTCehS3BIJABslyZbzxfV78QM2Y6+i741OPZIafFAaiiEMh5OyIrJPgtg==
   dependencies:
     brace-expansion "^2.0.1"
 
@@ -8130,6 +8130,13 @@ minimatch@^3.1.2:
   integrity sha512-J7p63hRiAjw1NDEww1W7i37+ByIrOWO5XQQAzZ3VOcL0PNybwpfmV/N05zFAzwQ9USyEcX6t3UO+K5aqBQOIHw==
   dependencies:
     brace-expansion "^1.1.7"
+
+minimatch@^5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-5.0.1.tgz#fb9022f7528125187c92bd9e9b6366be1cf3415b"
+  integrity sha512-nLDxIFRyhDblz3qMuq+SoRZED4+miJ/G+tdDrjkkkRnjAsBexeGpgjLEQ0blJy7rHhR2b93rhQY4SvyWu9v03g==
+  dependencies:
+    brace-expansion "^2.0.1"
 
 minimist-options@4.1.0:
   version "4.1.0"
@@ -10189,10 +10196,10 @@ remove-trailing-separator@^1.0.1:
   resolved "https://registry.yarnpkg.com/remove-trailing-separator/-/remove-trailing-separator-1.1.0.tgz#c24bce2a283adad5bc3f58e0d48249b92379d8ef"
   integrity sha1-wkvOKig62tW8P1jg1IJJuSN52O8=
 
-renovate@^32.64.4:
-  version "32.64.4"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.64.4.tgz#51ca16bfd6cc4eb3e51105c0c3f219bc2daf489a"
-  integrity sha512-KNJdIDJkPkckC0PEclEmWUmlhiB4efZvJvewaf3/6CVxLVFqEOxEAVfp5bhbzmEqNK8v0pCW3aXCpG8AjIWgkg==
+renovate@^32.66.1:
+  version "32.66.1"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.66.1.tgz#c87277592e90e80c3c485418404921cfad52e900"
+  integrity sha512-vbOQHGu41RMFifHQe/B+whgwNJ5wF1/yx+eAEWD2TUSpIjL1xY3dyMTkzw5eAdCLRpfRozSn5ulXK8A9it4auw==
   dependencies:
     "@aws-sdk/client-ec2" "3.72.0"
     "@aws-sdk/client-ecr" "3.72.0"
@@ -10209,7 +10216,7 @@ renovate@^32.64.4:
     auth-header "1.0.0"
     azure-devops-node-api "11.1.1"
     bunyan "1.8.15"
-    cacache "16.0.7"
+    cacache "16.1.0"
     chalk "4.1.2"
     changelog-filename-regex "2.0.1"
     clean-git-ref "2.0.1"
@@ -10248,7 +10255,7 @@ renovate@^32.64.4:
     markdown-it "13.0.1"
     markdown-table "2.0.0"
     marshal "0.5.4"
-    minimatch "5.0.1"
+    minimatch "5.1.0"
     moo "0.5.1"
     nanoid "3.3.4"
     node-html-parser "5.3.3"
