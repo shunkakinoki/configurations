@@ -1435,16 +1435,16 @@
   dependencies:
     "@seald-io/nedb" "3.0.0"
 
-"@jamiemagee/osv-offline@1.2.6":
-  version "1.2.6"
-  resolved "https://registry.yarnpkg.com/@jamiemagee/osv-offline/-/osv-offline-1.2.6.tgz#387d3e6a251ff9858f5bf2ff75920c65e35c8eb9"
-  integrity sha512-PPIKlgCzHbKKtg4uzkwMeS9UjylFK4FMuQXeXDuPiAgJRj9Aphw+9US7a4kf0yaxgebHjOFCex7WG08MMx0hnw==
+"@jamiemagee/osv-offline@1.2.7":
+  version "1.2.7"
+  resolved "https://registry.yarnpkg.com/@jamiemagee/osv-offline/-/osv-offline-1.2.7.tgz#c0fa075c1bdd155d76b9d94bb73628ccb43efef7"
+  integrity sha512-5EquMiMtWNowdEEZDyV6idf5UZNpp9s2EjVvqtTohr/4C+UXM/8GSuRuqZ8a+MyUHKdZeHSO5eFrd5CeU1puRA==
   dependencies:
     "@jamiemagee/osv-offline-db" "1.1.4"
     "@octokit/rest" "18.12.0"
     adm-zip "^0.5.9"
     fs-extra "10.0.0"
-    got "11.8.3"
+    got "11.8.5"
     luxon "2.4.0"
 
 "@kwsites/file-exists@^1.1.1":
@@ -6055,10 +6055,10 @@ good-enough-parser@1.1.7:
     klona "2.0.5"
     moo "0.5.1"
 
-got@11.8.3:
-  version "11.8.3"
-  resolved "https://registry.yarnpkg.com/got/-/got-11.8.3.tgz#f496c8fdda5d729a90b4905d2b07dbd148170770"
-  integrity sha512-7gtQ5KiPh1RtGS9/Jbv1ofDpBFuq42gyfEib+ejaRBJuj/3tQFeR5+gw57e4ipaU8c/rCjvX6fkQz2lyDlGAOg==
+got@11.8.5:
+  version "11.8.5"
+  resolved "https://registry.yarnpkg.com/got/-/got-11.8.5.tgz#ce77d045136de56e8f024bebb82ea349bc730046"
+  integrity sha512-o0Je4NvQObAuZPHLFoRSkdG2lTgtcynqymzg2Vupdx6PorhaT5MCbIyXG6d4D94kk8ZG57QeosgdiqfJWhEhlQ==
   dependencies:
     "@sindresorhus/is" "^4.0.0"
     "@szmarczak/http-timer" "^4.0.5"
@@ -10245,10 +10245,10 @@ remove-trailing-separator@^1.0.1:
   resolved "https://registry.yarnpkg.com/remove-trailing-separator/-/remove-trailing-separator-1.1.0.tgz#c24bce2a283adad5bc3f58e0d48249b92379d8ef"
   integrity sha1-wkvOKig62tW8P1jg1IJJuSN52O8=
 
-renovate@^32.71.1:
-  version "32.71.1"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.71.1.tgz#2fba44342747f01bb7cce0430a1e4abd6049caff"
-  integrity sha512-+ADPNbqg+CopQK3MhjTyehZCSfyVumaozM0y99QzQ0X/uDLQjHxawCKB2mT62HMUMj4SgAw3Wi990pDOZohLgA==
+renovate@^32.71.3:
+  version "32.71.3"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.71.3.tgz#2f7d2f2fa0537a68e8912444bc2d0bdebc1551aa"
+  integrity sha512-EvFwmPmdWkt2iYLO8gQjXLCZLS3ycdiWiQSgaNC5hNnYDNke4M85Wv4q5nz6hLUvwsi5DzbabneL+ldG3/R8TA==
   dependencies:
     "@aws-sdk/client-ec2" "3.72.0"
     "@aws-sdk/client-ecr" "3.72.0"
@@ -10256,7 +10256,7 @@ renovate@^32.71.1:
     "@breejs/later" "4.1.0"
     "@cheap-glitch/mi-cron" "1.0.1"
     "@iarna/toml" "2.2.5"
-    "@jamiemagee/osv-offline" "1.2.6"
+    "@jamiemagee/osv-offline" "1.2.7"
     "@renovatebot/pep440" "2.1.1"
     "@renovatebot/ruby-semver" "1.1.3"
     "@sindresorhus/is" "4.6.0"
@@ -10290,7 +10290,7 @@ renovate@^32.71.1:
     github-url-from-git "1.5.0"
     global-agent "3.0.0"
     good-enough-parser "1.1.7"
-    got "11.8.3"
+    got "11.8.5"
     graph-data-structure "2.0.0"
     handlebars "4.7.7"
     hasha "5.2.2"
