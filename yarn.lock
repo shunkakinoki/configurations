@@ -7236,10 +7236,10 @@ kind-of@^6.0.2, kind-of@^6.0.3:
   resolved "https://registry.yarnpkg.com/kind-of/-/kind-of-6.0.3.tgz#07c05034a6c349fa06e24fa35aa76db4580ce4dd"
   integrity sha512-dcS1ul+9tmeD95T+x28/ehLgd9mENa3LsvDTtzm3vyBEO7RPptvAD+t44WVXaUjTBRcrpFeFlC8WCruUR456hw==
 
-kleur@^3.0.3:
-  version "3.0.3"
-  resolved "https://registry.yarnpkg.com/kleur/-/kleur-3.0.3.tgz#a79c9ecc86ee1ce3fa6206d1216c501f147fc07e"
-  integrity sha512-eTIzlVOSUR+JxdDFepEYcBMtZ9Qqdef+rnzWdRZuMbOywu5tO2w2N7rqjoANZ5k9vywhL6Br1VRjUIgTQx4E8w==
+kleur@^4.0.1:
+  version "4.1.4"
+  resolved "https://registry.yarnpkg.com/kleur/-/kleur-4.1.4.tgz#8c202987d7e577766d039a8cd461934c01cda04d"
+  integrity sha512-8QADVssbrFjivHWQU7KkMgptGTl6WAcSdlbBPY4uNF+mWr6DGcKrvY2w4FQJoXch7+fKMjj0dRrL75vk3k23OA==
 
 klona@2.0.5:
   version "2.0.5"
@@ -8637,10 +8637,10 @@ npm-bundled@^1.1.1, npm-bundled@^1.1.2:
   dependencies:
     npm-normalize-package-bin "^1.0.1"
 
-npm-check-updates@^14.0.2:
-  version "14.0.2"
-  resolved "https://registry.yarnpkg.com/npm-check-updates/-/npm-check-updates-14.0.2.tgz#67c689bd12f13df26e4cf89957967a6d469a3be2"
-  integrity sha512-rVetP51QHbbbcDhTBkQv+h+EEZbLx1ehPgqT6F9MH3Z23O8tS2Jb7PWusIWCM04qhp2IXu6D3u1sjagG0H7SLw==
+npm-check-updates@^14.1.1:
+  version "14.1.1"
+  resolved "https://registry.yarnpkg.com/npm-check-updates/-/npm-check-updates-14.1.1.tgz#26ffb56d32699cfaf7396f962440b0d62a58f9fc"
+  integrity sha512-lVGckd/SR9lpCPV3WhY/LbhqQRV6V7jYkN5wSp49P+ER2xCgKGewE1i5kSCBBnNG91tcQo9CfBGhX1KY9t7DCg==
   dependencies:
     chalk "^4.1.2"
     cint "^8.2.1"
@@ -8660,7 +8660,7 @@ npm-check-updates@^14.0.2:
     pacote "^13.6.0"
     parse-github-url "^1.0.2"
     progress "^2.0.3"
-    prompts "^2.4.2"
+    prompts-ncu "^2.5.0"
     rc-config-loader "^4.1.0"
     remote-git-tags "^3.0.0"
     rimraf "^3.0.2"
@@ -9882,12 +9882,12 @@ promiseback@^2.0.2:
     is-callable "^1.1.5"
     promise-deferred "^2.0.3"
 
-prompts@^2.4.2:
-  version "2.4.2"
-  resolved "https://registry.yarnpkg.com/prompts/-/prompts-2.4.2.tgz#7b57e73b3a48029ad10ebd44f74b01722a4cb069"
-  integrity sha512-NxNv/kLguCA7p3jE8oL2aEBsrJWgAakBpgmgK6lpPWV+WuOmY6r2/zbAVnP+T8bQlA0nzHXSJSJW0Hq7ylaD2Q==
+prompts-ncu@^2.5.0:
+  version "2.5.0"
+  resolved "https://registry.yarnpkg.com/prompts-ncu/-/prompts-ncu-2.5.0.tgz#eae6bb7f5564aa3937b037df1096d6dd3b828346"
+  integrity sha512-a9WdInrG7zSlmfzDszmF3r8O4grZRI8+ChV0LtagHRT4dH7F+kxkrwFPGxeS83FZgAGBx3AXoLP+c4kGJb1P3w==
   dependencies:
-    kleur "^3.0.3"
+    kleur "^4.0.1"
     sisteransi "^1.0.5"
 
 promzard@^0.3.0:
