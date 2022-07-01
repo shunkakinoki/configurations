@@ -2000,15 +2000,15 @@
   dependencies:
     graceful-fs "^4.2.6"
 
-"@pnpm/read-project-manifest@3.0.4":
-  version "3.0.4"
-  resolved "https://registry.yarnpkg.com/@pnpm/read-project-manifest/-/read-project-manifest-3.0.4.tgz#111e315b32c2f951a53dd029249d1463ccf503ad"
-  integrity sha512-YtPdr82a1mrgQJefX3XZ8mp8yl9h50HTvyl3eqHjiZUB53ey1iFvkSzd9UjAeq2opeAnWeUK8JlMW/10KkUS1g==
+"@pnpm/read-project-manifest@3.0.5":
+  version "3.0.5"
+  resolved "https://registry.yarnpkg.com/@pnpm/read-project-manifest/-/read-project-manifest-3.0.5.tgz#0b395e40772b7966bb16aaf75f6401c9e64d3a04"
+  integrity sha512-wskWUcxkjnOrDb7WFMcAZkQIUX4TG6a2+SSVLqYl6CAHgTRRwXUO4lCUBJhYCWuiiRvVoa1hzS/7cN42ZsT3mA==
   dependencies:
     "@pnpm/error" "3.0.1"
     "@pnpm/graceful-fs" "2.0.0"
-    "@pnpm/types" "8.2.0"
-    "@pnpm/write-project-manifest" "3.0.3"
+    "@pnpm/types" "8.3.0"
+    "@pnpm/write-project-manifest" "3.0.4"
     detect-indent "^6.0.0"
     fast-deep-equal "^3.1.3"
     is-windows "^1.0.2"
@@ -2018,17 +2018,17 @@
     sort-keys "^4.2.0"
     strip-bom "^4.0.0"
 
-"@pnpm/types@8.2.0":
-  version "8.2.0"
-  resolved "https://registry.yarnpkg.com/@pnpm/types/-/types-8.2.0.tgz#752d19befb91e3358df303c44a3e0d8a6c5ff20b"
-  integrity sha512-Lr976vR4mezo3iL4bwGXyZFaDuVhkoko1Dr159mj+/GrqghiVmZFSZQQZNkfWEvMq1v3NSCTtPPzMTZASKJzCg==
+"@pnpm/types@8.3.0":
+  version "8.3.0"
+  resolved "https://registry.yarnpkg.com/@pnpm/types/-/types-8.3.0.tgz#ef17c7c3569b2ea00ae122ff2d7fafa4f4185de2"
+  integrity sha512-RCO4nOX4N3C4RtWybxJ9WA2P/xQEeM7IhVP/b8WFkj9SJh2BH62HLoouWyf60XCB33pc+9yJpG//oZNHSQS7TA==
 
-"@pnpm/write-project-manifest@3.0.3":
-  version "3.0.3"
-  resolved "https://registry.yarnpkg.com/@pnpm/write-project-manifest/-/write-project-manifest-3.0.3.tgz#1722e412bbffe12456ecfeaddf5f9ec1eb945403"
-  integrity sha512-nQBL/6iXTDOI3pYIUEb0VQLhjvgklpdstKP1fup5NuYUsvlNProVnWxHVxaU3y7kdAFcHGrHXJY4twLRX+pk8Q==
+"@pnpm/write-project-manifest@3.0.4":
+  version "3.0.4"
+  resolved "https://registry.yarnpkg.com/@pnpm/write-project-manifest/-/write-project-manifest-3.0.4.tgz#c505f35d4d8549868df8d952f77f146a48eb5f4c"
+  integrity sha512-HO3dFnJfqUYp3Ix1p72hvWmBKnGZSVZAn/Nsqd/aw6OC9XIzlNAufeXQ26t9HRobXDmZyt8B5uk8wqAPLfdyCA==
   dependencies:
-    "@pnpm/types" "8.2.0"
+    "@pnpm/types" "8.3.0"
     json5 "^2.1.3"
     write-file-atomic "^3.0.3"
     write-yaml-file "^4.2.0"
@@ -5568,13 +5568,13 @@ find-node-modules@^2.1.2:
     findup-sync "^4.0.0"
     merge "^2.1.0"
 
-find-packages@9.0.4:
-  version "9.0.4"
-  resolved "https://registry.yarnpkg.com/find-packages/-/find-packages-9.0.4.tgz#f6429c8cf5dae0062d621360b8b7284c6ce7427a"
-  integrity sha512-+C7ND27Yv2L1ZyJFN1SV1Odkeo0YS8xIN6TPD3AMAIqtCe30BsPyOkYuhKLO5/Q7mtc14IIOmD1DP8+v3CYcpQ==
+find-packages@9.0.5:
+  version "9.0.5"
+  resolved "https://registry.yarnpkg.com/find-packages/-/find-packages-9.0.5.tgz#97b9bcc4ec5e1612413bac6c4dafa29084f51d59"
+  integrity sha512-8A//5HSwbnmgOvyvTVWB+SNt/sPRBMZRr0EJ+xzylqHXUtGzV37HSFRTRWj0SgpY/8mW8GVoY1Grb6hysWEpWw==
   dependencies:
-    "@pnpm/read-project-manifest" "3.0.4"
-    "@pnpm/types" "8.2.0"
+    "@pnpm/read-project-manifest" "3.0.5"
+    "@pnpm/types" "8.3.0"
     fast-glob "^3.2.4"
     p-filter "^2.1.0"
 
@@ -10317,10 +10317,10 @@ remove-trailing-separator@^1.0.1:
   resolved "https://registry.yarnpkg.com/remove-trailing-separator/-/remove-trailing-separator-1.1.0.tgz#c24bce2a283adad5bc3f58e0d48249b92379d8ef"
   integrity sha1-wkvOKig62tW8P1jg1IJJuSN52O8=
 
-renovate@^32.99.9:
-  version "32.99.9"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.99.9.tgz#ea039a322f3c17ea29636fd917ea0784d2be3fd4"
-  integrity sha512-LnvSJlOA/iFpr2/gR9ovH802uibMDGgw8FLDc4bxXLOp853VS7SlOgINcmniz0fYLeSydw11etfp225ntAzXUw==
+renovate@^32.100.3:
+  version "32.100.3"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.100.3.tgz#bd8630ae272185f6d766e1a5e27618a28851932a"
+  integrity sha512-BtxxwlQBXifGwoNszJoLuMzghd4mTjz+TZ53vszp9eM6DIA7lQesJ5PdOiyPp5V/CXW5LGh9BKMMkWfrw4c47w==
   dependencies:
     "@aws-sdk/client-ec2" "3.112.0"
     "@aws-sdk/client-ecr" "3.112.0"
@@ -10356,7 +10356,7 @@ renovate@^32.99.9:
     emojibase-regex "6.0.1"
     extract-zip "2.0.1"
     fast-safe-stringify "2.1.1"
-    find-packages "9.0.4"
+    find-packages "9.0.5"
     find-up "5.0.0"
     fs-extra "10.1.0"
     git-url-parse "11.6.0"
@@ -10393,7 +10393,7 @@ renovate@^32.99.9:
     semver-stable "3.0.0"
     semver-utils "1.1.4"
     shlex "2.1.0"
-    simple-git "3.8.0"
+    simple-git "3.9.0"
     slugify "1.6.5"
     traverse "0.6.6"
     tslib "2.4.0"
@@ -10866,10 +10866,10 @@ signale@^1.2.1, signale@^1.4.0:
     figures "^2.0.0"
     pkg-conf "^2.1.0"
 
-simple-git@3.8.0:
-  version "3.8.0"
-  resolved "https://registry.yarnpkg.com/simple-git/-/simple-git-3.8.0.tgz#d93500f3d792cec365420c80ddc6cb782edf737d"
-  integrity sha512-nbR1PufcbvCaW90CiAXC1mM7OnEqLzjSOnySnq7Sd2kcVG6GxSa+DhxhFmCgxLv4kWCKmZagkCZSjfNAQTZwaw==
+simple-git@3.9.0:
+  version "3.9.0"
+  resolved "https://registry.yarnpkg.com/simple-git/-/simple-git-3.9.0.tgz#0b29fa5b6749d32b6ce95ea2faaac359f5fce25d"
+  integrity sha512-twG3rcFMYASct3mJcCP8KBtmtN7V2s6cdO5IXVAe/ffIu6TjdkdVnatR+PGmcirKXiK5y28eIdCVF0i3UQypfQ==
   dependencies:
     "@kwsites/file-exists" "^1.1.1"
     "@kwsites/promise-deferred" "^1.1.1"
