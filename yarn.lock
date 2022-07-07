@@ -8626,10 +8626,10 @@ npm-bundled@^1.1.1, npm-bundled@^1.1.2:
   dependencies:
     npm-normalize-package-bin "^1.0.1"
 
-npm-check-updates@^15.0.2:
-  version "15.0.2"
-  resolved "https://registry.yarnpkg.com/npm-check-updates/-/npm-check-updates-15.0.2.tgz#ff274346709c68351e20e8b04210296a356249b7"
-  integrity sha512-ZSmNUm2Cl8K7VZBhLY4/AE2NHmZfR4glKoRZIeJrgg5bvFP1LhRBU3tdS+IX1+MLoUvpF2L+Q7oD5QO+nBOm+Q==
+npm-check-updates@^15.2.0:
+  version "15.2.0"
+  resolved "https://registry.yarnpkg.com/npm-check-updates/-/npm-check-updates-15.2.0.tgz#01395d5d30184450009da1ce90edef3a6e03126a"
+  integrity sha512-QcNQE3FyOsolWD1Nc+DRryffuBf68fXqVDvN5gBMk3BSaRQ+urZCTfm9By0VuPPA2vrDBRPVgYZB+8L9UN4Avw==
   dependencies:
     chalk "^4.1.2"
     cint "^8.2.1"
@@ -8649,7 +8649,7 @@ npm-check-updates@^15.0.2:
     pacote "^13.6.1"
     parse-github-url "^1.0.2"
     progress "^2.0.3"
-    prompts-ncu "^2.5.0"
+    prompts-ncu "^2.5.1"
     rc-config-loader "^4.1.0"
     remote-git-tags "^3.0.0"
     rimraf "^3.0.2"
@@ -9845,10 +9845,10 @@ promiseback@^2.0.2:
     is-callable "^1.1.5"
     promise-deferred "^2.0.3"
 
-prompts-ncu@^2.5.0:
-  version "2.5.0"
-  resolved "https://registry.yarnpkg.com/prompts-ncu/-/prompts-ncu-2.5.0.tgz#eae6bb7f5564aa3937b037df1096d6dd3b828346"
-  integrity sha512-a9WdInrG7zSlmfzDszmF3r8O4grZRI8+ChV0LtagHRT4dH7F+kxkrwFPGxeS83FZgAGBx3AXoLP+c4kGJb1P3w==
+prompts-ncu@^2.5.1:
+  version "2.5.1"
+  resolved "https://registry.yarnpkg.com/prompts-ncu/-/prompts-ncu-2.5.1.tgz#0a75702e0af1d1319261113aad9153fd7267122a"
+  integrity sha512-Hdd7GgV7b76Yh9FP9HL1D9xqtJCJdVPpiM2vDtuoc8W1KfweJe15gutFYmxkq83ViFaagFM8K0UcPCQ/tZq8bA==
   dependencies:
     kleur "^4.0.1"
     sisteransi "^1.0.5"
