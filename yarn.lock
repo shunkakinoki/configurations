@@ -9152,10 +9152,10 @@ opener@*, opener@^1.5.2:
   resolved "https://registry.yarnpkg.com/opener/-/opener-1.5.2.tgz#5d37e1f35077b9dcac4301372271afdeb2a13598"
   integrity sha512-ur5UIdyw5Y7yEj9wLzhqXiy6GZ3Mwx0yGI+5sMn2r0N0v3cKJvUmFH5yPP+WXh9e0xfyzyJX95D8l088DNFj7A==
 
-openpgp@5.3.0:
-  version "5.3.0"
-  resolved "https://registry.yarnpkg.com/openpgp/-/openpgp-5.3.0.tgz#e8fc97e538865b8c095dbd91c7be4203bd1dd1df"
-  integrity sha512-qjCj0vYpV3dmmkE+vURiJ5kVAJwrMk8BPukvpWJiHcTNWKwPVsRS810plIe4klIcHVf1ScgUQwqtBbv99ff+kQ==
+openpgp@5.3.1:
+  version "5.3.1"
+  resolved "https://registry.yarnpkg.com/openpgp/-/openpgp-5.3.1.tgz#001df6b33546fbed044686d4d6af7e80ed9354d2"
+  integrity sha512-CxjY4gZ3D0pp6dJUmcM6EgjvDv0u+LsY+3ymULPZYRUPa0tmigDXHNUm5EX+omqmU401DTQNO6ud+QA6UpCdEA==
   dependencies:
     asn1.js "^5.0.0"
 
@@ -10252,10 +10252,10 @@ remove-trailing-separator@^1.0.1:
   resolved "https://registry.yarnpkg.com/remove-trailing-separator/-/remove-trailing-separator-1.1.0.tgz#c24bce2a283adad5bc3f58e0d48249b92379d8ef"
   integrity sha1-wkvOKig62tW8P1jg1IJJuSN52O8=
 
-renovate@^32.105.0:
-  version "32.105.0"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.105.0.tgz#d9ffcf58d63ecc028445dca6d22823be77eccd20"
-  integrity sha512-EnQLIAQYtMckeCiOXUBusE0O17jKiwXuy2F8sp+Y5mB3SLUZ1nc+qa64QHljshh08shUXXwQq67kmaJZ80GfpQ==
+renovate@^32.105.4:
+  version "32.105.4"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.105.4.tgz#48631b8c26fe2596342aa3ffa09dbb0242e76d12"
+  integrity sha512-vNA+4MXbZeTer0qooX1XzzvfJFmNRmcq0zuKVhoM3Tj6RW+FjgNYrYFUi1IlWnfnut1jf70XTn5+9RfOEwFg6A==
   dependencies:
     "@aws-sdk/client-ec2" "3.112.0"
     "@aws-sdk/client-ecr" "3.112.0"
@@ -10316,7 +10316,7 @@ renovate@^32.105.0:
     moo "0.5.1"
     nanoid "3.3.4"
     node-html-parser "5.3.3"
-    openpgp "5.3.0"
+    openpgp "5.3.1"
     p-all "3.0.0"
     p-map "4.0.0"
     p-queue "6.6.2"
@@ -10335,7 +10335,7 @@ renovate@^32.105.0:
     upath "2.0.1"
     url-join "4.0.1"
     validate-npm-package-name "4.0.0"
-    xmldoc "1.1.3"
+    xmldoc "1.1.4"
   optionalDependencies:
     re2 "1.17.7"
 
@@ -12216,10 +12216,10 @@ xdg-basedir@^5.0.1, xdg-basedir@^5.1.0:
   resolved "https://registry.yarnpkg.com/xdg-basedir/-/xdg-basedir-5.1.0.tgz#1efba19425e73be1bc6f2a6ceb52a3d2c884c0c9"
   integrity sha512-GCPAHLvrIH13+c0SuacwvRYj2SxJXQ4kaVTT5xgL3kPrz56XxkF21IGhjSE1+W0aw7gpBWRGXLCPnPby6lSpmQ==
 
-xmldoc@1.1.3:
-  version "1.1.3"
-  resolved "https://registry.yarnpkg.com/xmldoc/-/xmldoc-1.1.3.tgz#1a4f0fd4e7fe1567e6660cea9cadf991df5bb312"
-  integrity sha512-xLbV1OMj8ysWK5Z4xt+qGUm0J/A5hRpXisZGYeOvFElqgMzDVqy8Ma2VoV+6QIDVb9UmdpABVhPL/04VnmBcXQ==
+xmldoc@1.1.4:
+  version "1.1.4"
+  resolved "https://registry.yarnpkg.com/xmldoc/-/xmldoc-1.1.4.tgz#ea4e26dca76b1d218a2f777018bce404ba374a86"
+  integrity sha512-rQshsBGR5s7pUNENTEncpI2LTCuzicri0DyE4SCV5XmS0q81JS8j1iPijP0Q5c4WLGbKh3W92hlOwY6N9ssW1w==
   dependencies:
     sax "^1.2.4"
 
