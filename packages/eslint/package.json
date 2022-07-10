@@ -20,7 +20,7 @@
     "fix": "cd ../.. && yarn run fix"
   },
   "dependencies": {
-    "@next/eslint-plugin-next": "^12.2.0",
+    "@next/eslint-plugin-next": "^12.2.2",
     "@typescript-eslint/eslint-plugin": "^5.30.5",
     "@typescript-eslint/parser": "^5.30.5",
     "eslint": "^8.19.0",
