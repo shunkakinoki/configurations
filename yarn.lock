@@ -3296,10 +3296,10 @@ axobject-query@^2.2.0:
   resolved "https://registry.yarnpkg.com/axobject-query/-/axobject-query-2.2.0.tgz#943d47e10c0b704aa42275e20edf3722648989be"
   integrity sha512-Td525n+iPOOyUQIeBfcASuG6uJsDOITl7Mds5gFyerkWiX7qhUTdYUBlSgNMyVqtSJqwpt1kXGLdUt6SykLMRA==
 
-azure-devops-node-api@11.1.1:
-  version "11.1.1"
-  resolved "https://registry.yarnpkg.com/azure-devops-node-api/-/azure-devops-node-api-11.1.1.tgz#dd1356031fa4e334e016732594e8fee0f68268c4"
-  integrity sha512-XDG91XzLZ15reP12s3jFkKS8oiagSICjnLwxEYieme4+4h3ZveFOFRA4iYIG40RyHXsiI0mefFYYMFIJbMpWcg==
+azure-devops-node-api@11.2.0:
+  version "11.2.0"
+  resolved "https://registry.yarnpkg.com/azure-devops-node-api/-/azure-devops-node-api-11.2.0.tgz#bf04edbef60313117a0507415eed4790a420ad6b"
+  integrity sha512-XdiGPhrpaT5J8wdERRKs5g8E0Zy1pvOYTli7z9E8nmOn3YGp4FhtjhrOyFmX/8veWCwdI69mCHKJw6l+4J/bHA==
   dependencies:
     tunnel "0.0.6"
     typed-rest-client "^1.8.4"
@@ -9746,7 +9746,7 @@ prettier-plugin-sort-json@^0.0.2:
   dependencies:
     "@types/prettier" "^2.2.0"
 
-prettier@^2.7.1:
+prettier@2.7.1, prettier@^2.7.1:
   version "2.7.1"
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.7.1.tgz#e235806850d057f97bb08368a4f7d899f7760c64"
   integrity sha512-ujppO+MkdPqoVINuDFDRLClm7D78qbDt0/NR+wp5FqEZOoTNAjPHWj17QRhu7geIHJfcNhRk1XVQmF8Bp3ye+g==
@@ -10223,10 +10223,10 @@ remove-trailing-separator@^1.0.1:
   resolved "https://registry.yarnpkg.com/remove-trailing-separator/-/remove-trailing-separator-1.1.0.tgz#c24bce2a283adad5bc3f58e0d48249b92379d8ef"
   integrity sha1-wkvOKig62tW8P1jg1IJJuSN52O8=
 
-renovate@^32.112.0:
-  version "32.112.0"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.112.0.tgz#1e51b262b68a5b8da1a24aa31c523be348950ccb"
-  integrity sha512-H6fVUDgWGi5maCws9w80P4Cm8zapy4rz+foELD8DJ1NyVb7pBD7qN5aogFDisAozhIFOroPH6Ed8OqiiCcC3jA==
+renovate@^32.117.1:
+  version "32.117.1"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.117.1.tgz#fa731e12413820a34557fc3dd9aaa6a2f9c9e827"
+  integrity sha512-04PqZsJRaQfvdiS6UeW9daR2Gpy7oZyywH5JMB4kG76ebK/jZf/B1gj+rQBaPIulVrS832ALNmlQTwpS5MTrtA==
   dependencies:
     "@aws-sdk/client-ec2" "3.112.0"
     "@aws-sdk/client-ecr" "3.112.0"
@@ -10242,7 +10242,7 @@ renovate@^32.112.0:
     "@yarnpkg/core" "3.1.0"
     "@yarnpkg/parsers" "2.5.1"
     auth-header "1.0.0"
-    azure-devops-node-api "11.1.1"
+    azure-devops-node-api "11.2.0"
     bunyan "1.8.15"
     cacache "16.1.1"
     chalk "4.1.2"
@@ -10292,6 +10292,7 @@ renovate@^32.112.0:
     p-map "4.0.0"
     p-queue "6.6.2"
     parse-link-header "2.0.0"
+    prettier "2.7.1"
     redis "4.2.0"
     remark "13.0.0"
     remark-github "10.1.0"
