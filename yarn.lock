@@ -4623,10 +4623,10 @@ deps-regex@^0.1.4:
   resolved "https://registry.yarnpkg.com/deps-regex/-/deps-regex-0.1.4.tgz#518667b7691460a5e7e0a341be76eb7ce8090184"
   integrity sha1-UYZnt2kUYKXn4KNBvnbrfOgJAYQ=
 
-dequal@2.0.2:
-  version "2.0.2"
-  resolved "https://registry.yarnpkg.com/dequal/-/dequal-2.0.2.tgz#85ca22025e3a87e65ef75a7a437b35284a7e319d"
-  integrity sha512-q9K8BlJVxK7hQYqa6XISGmBZbtQQWVXSrRrWreHC94rMt1QL/Impruc+7p2CYSYuVIUr+YCt6hjrs1kkdJRTug==
+dequal@2.0.3:
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/dequal/-/dequal-2.0.3.tgz#2644214f1997d39ed0ee0ece72335490a7ac67be"
+  integrity sha512-0je+qPKHEMohvfRTCEo3CrPG6cAzAYgmzKyxRiYSSDkS6eGJdyVJm7WaYA5ECaAD9wLB2T4EEeymA5aFVcYXCA==
 
 detect-file@^1.0.0:
   version "1.0.0"
@@ -10352,10 +10352,10 @@ remove-trailing-separator@^1.0.1:
   resolved "https://registry.yarnpkg.com/remove-trailing-separator/-/remove-trailing-separator-1.1.0.tgz#c24bce2a283adad5bc3f58e0d48249b92379d8ef"
   integrity sha1-wkvOKig62tW8P1jg1IJJuSN52O8=
 
-renovate@^32.117.4:
-  version "32.117.4"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.117.4.tgz#38a00c1dd20c920cac34afbbcedacdc632a36fde"
-  integrity sha512-bt9mcxBeJFADhoJrwAw93VGimtzVCj4vbGAeN+HGAyueP54xlhJzsMhDcjsz6tzhgIOsvLRk3sOcFqRRAX+L6w==
+renovate@^32.119.1:
+  version "32.119.1"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.119.1.tgz#2a5d9e42ac5718efa24714254e31c91d4bd9a537"
+  integrity sha512-X7lM7dsnj3WqaprHAqlYNLsRRb/v6tzhp5gOi/1OOQndeTl0xlIoMvHaBN2/OlryZFort2I3LSazE85s3W5SiQ==
   dependencies:
     "@aws-sdk/client-ec2" "3.112.0"
     "@aws-sdk/client-ecr" "3.112.0"
@@ -10382,7 +10382,7 @@ renovate@^32.117.4:
     crypto-random-string "3.3.1"
     deepmerge "4.2.2"
     delay "5.0.0"
-    dequal "2.0.2"
+    dequal "2.0.3"
     detect-indent "6.1.0"
     editorconfig "0.15.3"
     email-addresses "5.0.0"
