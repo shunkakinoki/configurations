@@ -4042,15 +4042,20 @@ combined-stream@^1.0.6, combined-stream@~1.0.6:
   dependencies:
     delayed-stream "~1.0.0"
 
-commander@9.3.0, commander@^9.3.0:
-  version "9.3.0"
-  resolved "https://registry.yarnpkg.com/commander/-/commander-9.3.0.tgz#f619114a5a2d2054e0d9ff1b31d5ccf89255e26b"
-  integrity sha512-hv95iU5uXPbK83mjrJKuZyFM/LBAoCV/XhVGkS5Je6tl7sxr6A0ITMw5WoRV46/UaJ46Nllm3Xt7IaJhXTIkzw==
+commander@9.4.0:
+  version "9.4.0"
+  resolved "https://registry.yarnpkg.com/commander/-/commander-9.4.0.tgz#bc4a40918fefe52e22450c111ecd6b7acce6f11c"
+  integrity sha512-sRPT+umqkz90UA8M1yqYfnHlZA7fF6nSphDtxeywPZ49ysjxDQybzk13CL+mXekDRG92skbcqCLVovuCusNmFw==
 
 commander@^2.19.0:
   version "2.20.3"
   resolved "https://registry.yarnpkg.com/commander/-/commander-2.20.3.tgz#fd485e84c03eb4881c20722ba48035e8531aeb33"
   integrity sha512-GpVkmM8vF2vQUkj2LvZmD35JxeJOLCwJ9cUkugyk2nuhbv3+mJvpLYYt+0+USMxE+oj+ey/lJEnhZw75x/OMcQ==
+
+commander@^9.3.0:
+  version "9.3.0"
+  resolved "https://registry.yarnpkg.com/commander/-/commander-9.3.0.tgz#f619114a5a2d2054e0d9ff1b31d5ccf89255e26b"
+  integrity sha512-hv95iU5uXPbK83mjrJKuZyFM/LBAoCV/XhVGkS5Je6tl7sxr6A0ITMw5WoRV46/UaJ46Nllm3Xt7IaJhXTIkzw==
 
 commitizen@^4.0.3:
   version "4.2.4"
@@ -10352,10 +10357,10 @@ remove-trailing-separator@^1.0.1:
   resolved "https://registry.yarnpkg.com/remove-trailing-separator/-/remove-trailing-separator-1.1.0.tgz#c24bce2a283adad5bc3f58e0d48249b92379d8ef"
   integrity sha1-wkvOKig62tW8P1jg1IJJuSN52O8=
 
-renovate@^32.119.2:
-  version "32.119.2"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.119.2.tgz#7ca8a8b8962c43e487192b132a14f5c3cb17c69a"
-  integrity sha512-R7eLVkkErHvpR96bwBelNM2XgBcNYaVTzi2xgvWJOslTkc3VDWShL+6VBV93+ohzw0TSdnWuggZmBOl+1IMixA==
+renovate@^32.122.6:
+  version "32.122.6"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.122.6.tgz#e88af0f0d1dc753479354be9827cd75560f77755"
+  integrity sha512-toFbsXu04nSZO2f3lhj1ZnPQmgiReerE8+0U7zR/nrsGOjMiGhNMEa3ZhitZMms2wD+p1BAFj0FOZBIYv2/jWg==
   dependencies:
     "@aws-sdk/client-ec2" "3.112.0"
     "@aws-sdk/client-ecr" "3.112.0"
@@ -10377,7 +10382,7 @@ renovate@^32.119.2:
     chalk "4.1.2"
     changelog-filename-regex "2.0.1"
     clean-git-ref "2.0.1"
-    commander "9.3.0"
+    commander "9.4.0"
     conventional-commits-detector "1.0.3"
     crypto-random-string "3.3.1"
     deepmerge "4.2.2"
@@ -10436,7 +10441,7 @@ renovate@^32.119.2:
     upath "2.0.1"
     url-join "4.0.1"
     validate-npm-package-name "4.0.0"
-    xmldoc "1.1.4"
+    xmldoc "1.2.0"
   optionalDependencies:
     re2 "1.17.7"
 
@@ -12344,10 +12349,10 @@ xdg-basedir@^5.0.1, xdg-basedir@^5.1.0:
   resolved "https://registry.yarnpkg.com/xdg-basedir/-/xdg-basedir-5.1.0.tgz#1efba19425e73be1bc6f2a6ceb52a3d2c884c0c9"
   integrity sha512-GCPAHLvrIH13+c0SuacwvRYj2SxJXQ4kaVTT5xgL3kPrz56XxkF21IGhjSE1+W0aw7gpBWRGXLCPnPby6lSpmQ==
 
-xmldoc@1.1.4:
-  version "1.1.4"
-  resolved "https://registry.yarnpkg.com/xmldoc/-/xmldoc-1.1.4.tgz#ea4e26dca76b1d218a2f777018bce404ba374a86"
-  integrity sha512-rQshsBGR5s7pUNENTEncpI2LTCuzicri0DyE4SCV5XmS0q81JS8j1iPijP0Q5c4WLGbKh3W92hlOwY6N9ssW1w==
+xmldoc@1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/xmldoc/-/xmldoc-1.2.0.tgz#7554371bfd8c138287cff01841ae4566d26e5541"
+  integrity sha512-2eN8QhjBsMW2uVj7JHLHkMytpvGHLHxKXBy4J3fAT/HujsEtM6yU84iGjpESYGHg6XwK0Vu4l+KgqQ2dv2cCqg==
   dependencies:
     sax "^1.2.4"
 
