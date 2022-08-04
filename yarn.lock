@@ -2060,20 +2060,20 @@
     "@pnpm/network.ca-file" "^1.0.1"
     config-chain "^1.1.11"
 
-"@pnpm/read-project-manifest@3.0.6":
-  version "3.0.6"
-  resolved "https://registry.yarnpkg.com/@pnpm/read-project-manifest/-/read-project-manifest-3.0.6.tgz#f37645215c3b60e7d198b8423c79832efc09042b"
-  integrity sha512-nKFODeo/K7kLSLXMJcGywANaiyL9JlLQHKG3SWJaAjkP3QBgYWqqXhGWx8ZPsk5z9k0RL0gPEpt3wod8FAbTPg==
+"@pnpm/read-project-manifest@3.0.7":
+  version "3.0.7"
+  resolved "https://registry.yarnpkg.com/@pnpm/read-project-manifest/-/read-project-manifest-3.0.7.tgz#da43fbfe8905678bf7e9258ae406539dbca384c4"
+  integrity sha512-BTCU1l37K2VUGmSo70m6ocaQASPZaTzBgP0RtDloDR8rCb+y7AjOLOjEb+Qs6z9BbhryLWGARlfT5YOaEdca7w==
   dependencies:
     "@pnpm/error" "3.0.1"
     "@pnpm/graceful-fs" "2.0.0"
     "@pnpm/types" "8.4.0"
     "@pnpm/write-project-manifest" "3.0.5"
-    detect-indent "^6.0.0"
+    detect-indent "^6.1.0"
     fast-deep-equal "^3.1.3"
     is-windows "^1.0.2"
-    json5 "^2.1.3"
-    parse-json "^5.1.0"
+    json5 "^2.2.1"
+    parse-json "^5.2.0"
     read-yaml-file "^2.1.0"
     sort-keys "^4.2.0"
     strip-bom "^4.0.0"
@@ -5546,7 +5546,7 @@ fast-glob@^3.0.3, fast-glob@^3.1.1, fast-glob@^3.2.2, fast-glob@^3.2.5:
     merge2 "^1.3.0"
     micromatch "^4.0.4"
 
-fast-glob@^3.2.11, fast-glob@^3.2.4, fast-glob@^3.2.9:
+fast-glob@^3.2.11, fast-glob@^3.2.9:
   version "3.2.11"
   resolved "https://registry.yarnpkg.com/fast-glob/-/fast-glob-3.2.11.tgz#a1172ad95ceb8a16e20caa5c5e56480e5129c1d9"
   integrity sha512-xrO3+1bxSo3ZVHAnqzyuewYT6aMFHRAd4Kcs92MAonjwQZLsK9d0SF1IyQ3k5PoirxTW0Oe/RqFgMQ6TcNE5Ew==
@@ -5637,14 +5637,14 @@ find-node-modules@^2.1.2:
     findup-sync "^4.0.0"
     merge "^2.1.0"
 
-find-packages@9.0.6:
-  version "9.0.6"
-  resolved "https://registry.yarnpkg.com/find-packages/-/find-packages-9.0.6.tgz#6167bb706c1e27d0f808f84aa38e2487fff2d9fa"
-  integrity sha512-D4IhAYrTKeg/FgcjVCpgCYrnTCKOzyNfqktYETB3ttk21kmjxSSK+bTqoAOIyKy88o0cmMfbohtAZt69mf848A==
+find-packages@9.0.7:
+  version "9.0.7"
+  resolved "https://registry.yarnpkg.com/find-packages/-/find-packages-9.0.7.tgz#4039685b8ef54f1bab1ae0da4a3adfcfae3e627e"
+  integrity sha512-u0WPAaqn4GcWzy7p4Q1GNgOlmk66skMBxUmrTB/iBE7GuRAUi3dIyJAroQHAXAmajLwtsukHcBOkXZ7Es6fi5w==
   dependencies:
-    "@pnpm/read-project-manifest" "3.0.6"
+    "@pnpm/read-project-manifest" "3.0.7"
     "@pnpm/types" "8.4.0"
-    fast-glob "^3.2.4"
+    fast-glob "^3.2.11"
     p-filter "^2.1.0"
 
 find-root@1.1.0:
@@ -7295,7 +7295,7 @@ json-stringify-safe@^5.0.1, json-stringify-safe@~5.0.1:
   resolved "https://registry.yarnpkg.com/json-stringify-safe/-/json-stringify-safe-5.0.1.tgz#1296a2d58fd45f19a0f6ce01d65701e2c735b6eb"
   integrity sha1-Epai1Y/UXxmg9s4B1lcB4sc1tus=
 
-json5@2.2.1:
+json5@2.2.1, json5@^2.2.1:
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/json5/-/json5-2.2.1.tgz#655d50ed1e6f95ad1a3caababd2b0efda10b395c"
   integrity sha512-1hqLFMSrGHRHxav9q9gNjJ5EXznIxGVO09xQRrwplcS8qs28pZ8s8hupZAmqDwZUmVZ2Qb2jnyPOWcDH8m8dlA==
@@ -9629,7 +9629,7 @@ parse-json@^4.0.0:
     error-ex "^1.3.1"
     json-parse-better-errors "^1.0.1"
 
-parse-json@^5.0.0, parse-json@^5.1.0:
+parse-json@^5.0.0, parse-json@^5.2.0:
   version "5.2.0"
   resolved "https://registry.yarnpkg.com/parse-json/-/parse-json-5.2.0.tgz#c76fc66dee54231c962b22bcc8a72cf2f99753cd"
   integrity sha512-ayCKvm/phCGxOkYRSCM82iDwct8/EonSEgCSxWxD7ve6jHggsFl4fZVQBPRNgQoKiuV/odhFrGzQXZwbifC8Rg==
@@ -10424,10 +10424,10 @@ remove-trailing-separator@^1.0.1:
   resolved "https://registry.yarnpkg.com/remove-trailing-separator/-/remove-trailing-separator-1.1.0.tgz#c24bce2a283adad5bc3f58e0d48249b92379d8ef"
   integrity sha1-wkvOKig62tW8P1jg1IJJuSN52O8=
 
-renovate@^32.137.0:
-  version "32.137.0"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.137.0.tgz#d2e0f05442e151c11ac20d15e91d98bb7e33d52c"
-  integrity sha512-0ns5/PZmiLP0oM3RqK8byvpMOt2EqLMTPsmMAs0C8V5/8PpVwIymXGKP4kpDTZm+iT4dbvZm4gt0AW/0zhvYrQ==
+renovate@^32.143.1:
+  version "32.143.1"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.143.1.tgz#9f42bc7351f8ad0d9266023a497ca4642533420e"
+  integrity sha512-D8ZCVDJO5s9hZ3W216Nd+vXYScZB4PbcIfsm7BLKbfpSlmuxt2AnEeUslhiClP21jyiwnlz5FMgTRKHaSiLQ4g==
   dependencies:
     "@aws-sdk/client-ec2" "3.112.0"
     "@aws-sdk/client-ecr" "3.112.0"
@@ -10463,7 +10463,7 @@ renovate@^32.137.0:
     emojibase-regex "6.0.1"
     extract-zip "2.0.1"
     fast-safe-stringify "2.1.1"
-    find-packages "9.0.6"
+    find-packages "9.0.7"
     find-up "5.0.0"
     fs-extra "10.1.0"
     git-url-parse "12.0.0"
