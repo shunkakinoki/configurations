@@ -6203,10 +6203,10 @@ globrex@^0.1.2:
   resolved "https://registry.yarnpkg.com/globrex/-/globrex-0.1.2.tgz#dd5d9ec826232730cd6793a5e33a9302985e6098"
   integrity sha512-uHJgbwAMwNFf5mLst7IWLNg14x1CkeqglJb/K3doi4dw6q2IvAAmM/Y81kevy83wP+Sst+nutFTYOGg3d1lsxg==
 
-good-enough-parser@1.1.7:
-  version "1.1.7"
-  resolved "https://registry.yarnpkg.com/good-enough-parser/-/good-enough-parser-1.1.7.tgz#a1f6a2fbc10e351dcbb61e322a5f17bbc43bd1eb"
-  integrity sha512-2E03CBmbGc61rDA6TbDsTGm1UywMviza5N1APzp6YtFcB9g6bjWwDIG54EeNQdavOhLGivsMh1U8tB+v5mzE7Q==
+good-enough-parser@1.1.10:
+  version "1.1.10"
+  resolved "https://registry.yarnpkg.com/good-enough-parser/-/good-enough-parser-1.1.10.tgz#bcf5f59369f7fe3f0f621c8b2365171e4f41faf0"
+  integrity sha512-xSMiofggibG9rSt5P92ygB2tcgzgPMCVWPoI5sjnuNu5Id+p4zj4zYXkmQuKvD+c19ZUBfNCL0MFdnti/IBF1g==
   dependencies:
     "@thi.ng/zipper" "1.0.3"
     "@types/moo" "0.5.5"
@@ -10424,10 +10424,10 @@ remove-trailing-separator@^1.0.1:
   resolved "https://registry.yarnpkg.com/remove-trailing-separator/-/remove-trailing-separator-1.1.0.tgz#c24bce2a283adad5bc3f58e0d48249b92379d8ef"
   integrity sha1-wkvOKig62tW8P1jg1IJJuSN52O8=
 
-renovate@^32.145.0:
-  version "32.145.0"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.145.0.tgz#448b91ac9039c9bba0e530a04e09afe723a1b522"
-  integrity sha512-U1JZ9ZYLJAU8pyvNYKD3i/30nI/2t/WTDaTZRpxc0+yq/Cz21t+f/x2SDjVv2QbNzONVofA3kCS4TAMq3/8SIQ==
+renovate@^32.150.4:
+  version "32.150.4"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.150.4.tgz#188b4fd71edd41cd77d1f04b355e9eabfe7f2688"
+  integrity sha512-noH9YDrAY/9R0zq5bABTrBcinAkOrHUH9FAsYMDQCZJSvWhGjD9vJk+pptwwpqG8JPzFzfY9BzM/gIw95C+Kcg==
   dependencies:
     "@aws-sdk/client-ec2" "3.112.0"
     "@aws-sdk/client-ecr" "3.112.0"
@@ -10469,7 +10469,7 @@ renovate@^32.145.0:
     git-url-parse "12.0.0"
     github-url-from-git "1.5.0"
     global-agent "3.0.0"
-    good-enough-parser "1.1.7"
+    good-enough-parser "1.1.10"
     got "11.8.5"
     graph-data-structure "2.0.0"
     handlebars "4.7.7"
@@ -10501,7 +10501,7 @@ renovate@^32.145.0:
     semver-stable "3.0.0"
     semver-utils "1.1.4"
     shlex "2.1.2"
-    simple-git "3.10.0"
+    simple-git "3.11.0"
     slugify "1.6.5"
     traverse "0.6.6"
     tslib "2.4.0"
@@ -10988,10 +10988,10 @@ signale@^1.2.1, signale@^1.4.0:
     figures "^2.0.0"
     pkg-conf "^2.1.0"
 
-simple-git@3.10.0:
-  version "3.10.0"
-  resolved "https://registry.yarnpkg.com/simple-git/-/simple-git-3.10.0.tgz#f20031dd121d3c49e215ef0186a102bece3f89b2"
-  integrity sha512-2w35xrS5rVtAW0g67LqtxCZN5cdddz/woQRfS0OJXaljXEoTychZ4jnE+CQgra/wX4ZvHeiChTUMenCwfIYEYw==
+simple-git@3.11.0:
+  version "3.11.0"
+  resolved "https://registry.yarnpkg.com/simple-git/-/simple-git-3.11.0.tgz#fd8c98756f671e8056d7c0023394dadf1e3124b7"
+  integrity sha512-XULamN/hxviH/ABjDbxJqUTpH59Pn3fHRtwZZZ6v7KWTLE3wKl6CLB0SPXFfzjalQ5hUp+R5DWX2X8rKm4crvw==
   dependencies:
     "@kwsites/file-exists" "^1.1.1"
     "@kwsites/promise-deferred" "^1.1.1"
