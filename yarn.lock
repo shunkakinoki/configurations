@@ -10928,10 +10928,10 @@ set-blocking@^2.0.0, set-blocking@~2.0.0:
   resolved "https://registry.yarnpkg.com/set-blocking/-/set-blocking-2.0.0.tgz#045f9782d011ae9a6803ddd382b24392b3d890f7"
   integrity sha1-BF+XgtARrppoA93TgrJDkrPYkPc=
 
-shared-scripts@^1.5.1:
-  version "1.5.1"
-  resolved "https://registry.yarnpkg.com/shared-scripts/-/shared-scripts-1.5.1.tgz#edeb1b5a4514c831ab23b56aa89fd32ec1932438"
-  integrity sha512-h8FrHE9rYLH4RBBLarvYEcTMozCYt8G+imxCWl7HyzswGTquZNHVLD8/dRdSPbPPo0sD6K40qrxNTnqYjYCB0A==
+shared-scripts@^1.6.0:
+  version "1.6.0"
+  resolved "https://registry.yarnpkg.com/shared-scripts/-/shared-scripts-1.6.0.tgz#18bcd017b6a295244b01fff600a54ece0213741f"
+  integrity sha512-MMcSgNkuQoonSy+NcQJRhtbPxsYt1NY/etwnw1XI8goD64m63uHVjlpbI7E+hYtLHKS3gHFwReE+CLickacAOQ==
 
 shebang-command@^2.0.0:
   version "2.0.0"
