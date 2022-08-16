@@ -17,7 +17,7 @@
     "fix": "cd ../.. && yarn run fix"
   },
   "dependencies": {
-    "renovate": "^32.159.5"
+    "renovate": "^32.160.1"
   },
   "publishConfig": {
     "access": "public",
