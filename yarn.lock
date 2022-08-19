@@ -3293,10 +3293,10 @@ astral-regex@^2.0.0:
   resolved "https://registry.yarnpkg.com/astral-regex/-/astral-regex-2.0.0.tgz#483143c567aeed4785759c0865786dc77d7d2e31"
   integrity sha512-Z7tMw1ytTXt5jqMcOP+OQteU1VuNK9Y02uuJtKQ1Sv69jXQKKg5cibLwGJow8yzZP+eAc18EmLGPal0bp36rvQ==
 
-async@^2.6.1:
-  version "2.6.3"
-  resolved "https://registry.yarnpkg.com/async/-/async-2.6.3.tgz#d72625e2344a3656e3a3ad4fa749fa83299d82ff"
-  integrity sha512-zflvls11DCy+dQWzTW2dzuilv8Z5X/pjfmZOWba6TNIVDm+2UDaJmXSOXlasHKfNBs8oo3M0aT50fDEWfKZjXg==
+async@^2.6.4:
+  version "2.6.4"
+  resolved "https://registry.yarnpkg.com/async/-/async-2.6.4.tgz#706b7ff6084664cd7eae713f6f965433b5504221"
+  integrity sha512-mzo5dfJYwAn29PeiJ0zvwTo04zj8HDJj0Mn8TD7sno7q12prdbnasKJHhkm2c1LgrhlJ0teaea8860oxi51mGA==
   dependencies:
     lodash "^4.17.14"
 
@@ -10766,12 +10766,12 @@ sax@^1.2.4:
   resolved "https://registry.yarnpkg.com/sax/-/sax-1.2.4.tgz#2816234e2378bddc4e5354fab5caa895df7100d9"
   integrity sha512-NqVDv9TpANUjFm0N8uM5GxL36UgKi9/atZw+x7YFnQ8ckwFGKrl4xX4yWtrey3UJm5nP1kUbnYgLopqWNSRhWw==
 
-scripty@^2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/scripty/-/scripty-2.1.0.tgz#8f766acdaf53070e82587f53d878e0f60e431761"
-  integrity sha512-vvp8DWmLyIyesQYjxTh5cH3odsf1+srXKJUhrgXjhEk32RqcGkjqTEuKLyBCoBH4k6WdzF2uYpr4zi6ih4xgOA==
+scripty@^2.1.1:
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/scripty/-/scripty-2.1.1.tgz#41a9fb1472c042a4a631780df81dff079cdf8b15"
+  integrity sha512-yAutoO7+MfJcc7UAjAOp1CNbAI6GhxXYB63yFLEJe80BY1VkKQWrJ2xrdd57rh/UBnUIKmO31hzKUHWGxIupbA==
   dependencies:
-    async "^2.6.1"
+    async "^2.6.4"
     glob "^7.0.3"
     lodash "^4.17.11"
     resolve-pkg "^1.0.0"
