@@ -8754,10 +8754,10 @@ opener@*:
   resolved "https://registry.yarnpkg.com/opener/-/opener-1.5.2.tgz#5d37e1f35077b9dcac4301372271afdeb2a13598"
   integrity sha512-ur5UIdyw5Y7yEj9wLzhqXiy6GZ3Mwx0yGI+5sMn2r0N0v3cKJvUmFH5yPP+WXh9e0xfyzyJX95D8l088DNFj7A==
 
-openpgp@5.4.0:
-  version "5.4.0"
-  resolved "https://registry.yarnpkg.com/openpgp/-/openpgp-5.4.0.tgz#679e7ce1c97994d72545bf5be818de15e5707b52"
-  integrity sha512-XgQnK8SYy4Ycg9BDvrXTE4foMwME/+1EfGZWZirUU2VPzU1X3xx094fChjbP10+gUJifAcoWTsT2zAbdhFUxyg==
+openpgp@5.5.0:
+  version "5.5.0"
+  resolved "https://registry.yarnpkg.com/openpgp/-/openpgp-5.5.0.tgz#235ae5a49d5fda5cfd1d82c4c42cd91433478c14"
+  integrity sha512-SpwcJnxrK9Y0HRM6KxSFqkAEOSWEabCH/c8dII/+y2e5f6KvuDG5ZE7JXaPBaVJNE4VUZZeTphxXDoZD0KOHrw==
   dependencies:
     asn1.js "^5.0.0"
 
@@ -9806,10 +9806,10 @@ remove-trailing-separator@^1.0.1:
   resolved "https://registry.yarnpkg.com/remove-trailing-separator/-/remove-trailing-separator-1.1.0.tgz#c24bce2a283adad5bc3f58e0d48249b92379d8ef"
   integrity sha1-wkvOKig62tW8P1jg1IJJuSN52O8=
 
-renovate@^32.193.0:
-  version "32.193.0"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.193.0.tgz#9ad1d3c2883f75c3ae1432cb6454e032e7f117ca"
-  integrity sha512-tY71LxyscaHf+D22DcgFdKY0d/J8URwD0T6B1ZQDLdPAZ5i9UtHBFlzN+HzP2yPFAy7vZCRCYr6B0Lxr7BEhjw==
+renovate@^32.194.0:
+  version "32.194.0"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.194.0.tgz#3d657b3efe62fd216cf944fe62c5b17d3738986a"
+  integrity sha512-8v28v2Jvq/zNznhQeYPiHsUd4tPTMnCXbfaErY72YMQlCMtijfziChS+2A1YHAgQjuNsa5RU/Uet+f9RNKotjQ==
   dependencies:
     "@aws-sdk/client-ec2" "3.155.0"
     "@aws-sdk/client-ecr" "3.154.0"
@@ -9873,7 +9873,7 @@ renovate@^32.193.0:
     moo "0.5.1"
     nanoid "3.3.4"
     node-html-parser "5.4.2"
-    openpgp "5.4.0"
+    openpgp "5.5.0"
     p-all "3.0.0"
     p-map "4.0.0"
     p-queue "6.6.2"
