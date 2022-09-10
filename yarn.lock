@@ -5979,10 +5979,10 @@ globrex@^0.1.2:
   resolved "https://registry.yarnpkg.com/globrex/-/globrex-0.1.2.tgz#dd5d9ec826232730cd6793a5e33a9302985e6098"
   integrity sha512-uHJgbwAMwNFf5mLst7IWLNg14x1CkeqglJb/K3doi4dw6q2IvAAmM/Y81kevy83wP+Sst+nutFTYOGg3d1lsxg==
 
-good-enough-parser@1.1.18:
-  version "1.1.18"
-  resolved "https://registry.yarnpkg.com/good-enough-parser/-/good-enough-parser-1.1.18.tgz#f7a2ad9849b891277d1a0b740f304a0fec2b55d9"
-  integrity sha512-qn0UlqAp6r9ZBuGzT3dTOrqDR43NCm2HAoqCKuMoEbp8H6zy55JGlDxdGWVBnpIydwSjx9tqSSlKlaBSDqkUFA==
+good-enough-parser@1.1.19:
+  version "1.1.19"
+  resolved "https://registry.yarnpkg.com/good-enough-parser/-/good-enough-parser-1.1.19.tgz#928bf8bad59ef63d5095d355a20ce625f4cec04a"
+  integrity sha512-O1sdiXjZocP8gFYi5yMJ1kNGTJi9aV563Pjvo6UwOln3+IE+l6bshHqlKYdEM63Pof1KIqPCPKhNzkDPxNoFpw==
   dependencies:
     "@thi.ng/zipper" "1.0.3"
     "@types/moo" "0.5.5"
@@ -9806,10 +9806,10 @@ remove-trailing-separator@^1.0.1:
   resolved "https://registry.yarnpkg.com/remove-trailing-separator/-/remove-trailing-separator-1.1.0.tgz#c24bce2a283adad5bc3f58e0d48249b92379d8ef"
   integrity sha1-wkvOKig62tW8P1jg1IJJuSN52O8=
 
-renovate@^32.194.3:
-  version "32.194.3"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.194.3.tgz#1a95c64111664e59bf48f455726f139620dc74c1"
-  integrity sha512-FzJinQ2bO7Pt5BCgEwjh9123+rJnmT2lmyaxhlNgseLJnYGv0PGQkvqA0f1UXAUcdcOMVrSRSG6chVxqqoU8Tg==
+renovate@^32.194.4:
+  version "32.194.4"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.194.4.tgz#25686e30c60a32bac7176d4f1393892b7999762b"
+  integrity sha512-FJYgu4AzxECZ/b17oCv+WBRb7jvzU2z+xdc0BMQOz4Ox+AwG2ph5cuynKM4rzvku/ZavDv4S2QBqxJkxP4S6hw==
   dependencies:
     "@aws-sdk/client-ec2" "3.155.0"
     "@aws-sdk/client-ecr" "3.154.0"
@@ -9854,7 +9854,7 @@ renovate@^32.194.3:
     git-url-parse "12.0.0"
     github-url-from-git "1.5.0"
     global-agent "3.0.0"
-    good-enough-parser "1.1.18"
+    good-enough-parser "1.1.19"
     got "11.8.5"
     graph-data-structure "2.0.0"
     handlebars "4.7.7"
