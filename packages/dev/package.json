@@ -23,7 +23,7 @@
     "concurrently": "^7.4.0",
     "cross-env": "^7.0.3",
     "scripty": "^2.1.1",
-    "sort-package-json": "^1.57.0"
+    "sort-package-json": "^2.0.0"
   },
   "publishConfig": {
     "access": "public",
