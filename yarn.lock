@@ -3942,10 +3942,10 @@ columnify@*:
     strip-ansi "^3.0.0"
     wcwidth "^1.0.0"
 
-commander@9.4.0:
-  version "9.4.0"
-  resolved "https://registry.yarnpkg.com/commander/-/commander-9.4.0.tgz#bc4a40918fefe52e22450c111ecd6b7acce6f11c"
-  integrity sha512-sRPT+umqkz90UA8M1yqYfnHlZA7fF6nSphDtxeywPZ49ysjxDQybzk13CL+mXekDRG92skbcqCLVovuCusNmFw==
+commander@9.4.1, commander@^9.4.1:
+  version "9.4.1"
+  resolved "https://registry.yarnpkg.com/commander/-/commander-9.4.1.tgz#d1dd8f2ce6faf93147295c0df13c7c21141cfbdd"
+  integrity sha512-5EEkTNyHNGFPD2H+c/dXXfQZYa/scCKasxWcXJaWnNJ99pnQN9Vnmqow+p+PlFPE63Q6mThaZws1T+HxfpgtPw==
 
 commander@^2.19.0:
   version "2.20.3"
@@ -3956,11 +3956,6 @@ commander@^9.3.0:
   version "9.3.0"
   resolved "https://registry.yarnpkg.com/commander/-/commander-9.3.0.tgz#f619114a5a2d2054e0d9ff1b31d5ccf89255e26b"
   integrity sha512-hv95iU5uXPbK83mjrJKuZyFM/LBAoCV/XhVGkS5Je6tl7sxr6A0ITMw5WoRV46/UaJ46Nllm3Xt7IaJhXTIkzw==
-
-commander@^9.4.1:
-  version "9.4.1"
-  resolved "https://registry.yarnpkg.com/commander/-/commander-9.4.1.tgz#d1dd8f2ce6faf93147295c0df13c7c21141cfbdd"
-  integrity sha512-5EEkTNyHNGFPD2H+c/dXXfQZYa/scCKasxWcXJaWnNJ99pnQN9Vnmqow+p+PlFPE63Q6mThaZws1T+HxfpgtPw==
 
 commitizen@^4.0.3:
   version "4.2.4"
@@ -9844,10 +9839,10 @@ remove-trailing-separator@^1.0.1:
   resolved "https://registry.yarnpkg.com/remove-trailing-separator/-/remove-trailing-separator-1.1.0.tgz#c24bce2a283adad5bc3f58e0d48249b92379d8ef"
   integrity sha1-wkvOKig62tW8P1jg1IJJuSN52O8=
 
-renovate@^32.221.1:
-  version "32.221.1"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.221.1.tgz#49126258982be911b794b837779360691c75ade0"
-  integrity sha512-/NjdrlFrHKnhQ6JZ4vc1n976XF3j1NQQaJKeadWNqTPmVDAKZ3qjdokz5ont+j34JVwmaWNAUXelyM+SrS1/3g==
+renovate@^32.224.0:
+  version "32.224.0"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.224.0.tgz#12643d638c51cb59a5e004f9eac63c17a744e548"
+  integrity sha512-dHX+GjZk1S6hwLJVbDSppYrDOK3dEtq8unXuqUBdxr6QqNC6Na0ByihyBmbyKJcNLEdYC5DHRSBB68apdrPv1w==
   dependencies:
     "@aws-sdk/client-ec2" "3.155.0"
     "@aws-sdk/client-ecr" "3.154.0"
@@ -9873,7 +9868,7 @@ renovate@^32.221.1:
     chalk "4.1.2"
     changelog-filename-regex "2.0.1"
     clean-git-ref "2.0.1"
-    commander "9.4.0"
+    commander "9.4.1"
     conventional-commits-detector "1.0.3"
     crypto-random-string "3.3.1"
     deepmerge "4.2.2"
