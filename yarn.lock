@@ -4683,10 +4683,10 @@ email-addresses@5.0.0:
   resolved "https://registry.yarnpkg.com/email-addresses/-/email-addresses-5.0.0.tgz#7ae9e7f58eef7d5e3e2c2c2d3ea49b78dc854fa6"
   integrity sha512-4OIPYlA6JXqtVn8zpHpGiI7vE6EQOAg16aGnDMIAlZVinnoZ8208tW1hAbjWydgN/4PLTT9q+O1K6AH/vALJGw==
 
-emoji-regex@10.1.0:
-  version "10.1.0"
-  resolved "https://registry.yarnpkg.com/emoji-regex/-/emoji-regex-10.1.0.tgz#d50e383743c0f7a5945c47087295afc112e3cf66"
-  integrity sha512-xAEnNCT3w2Tg6MA7ly6QqYJvEoY1tm9iIjJ3yMKK9JPlWuRHAMoe5iETwQnx3M9TVbFMfsrBgWKR+IsmswwNjg==
+emoji-regex@10.2.1:
+  version "10.2.1"
+  resolved "https://registry.yarnpkg.com/emoji-regex/-/emoji-regex-10.2.1.tgz#a41c330d957191efd3d9dfe6e1e8e1e9ab048b3f"
+  integrity sha512-97g6QgOk8zlDRdgq1WxwgTMgEWGVAQvB5Fdpgc1MkNy56la5SKP9GsMXKDOdqwn90/41a8yPwIGk1Y6WVbeMQA==
 
 emoji-regex@^8.0.0:
   version "8.0.0"
@@ -9844,10 +9844,10 @@ remove-trailing-separator@^1.0.1:
   resolved "https://registry.yarnpkg.com/remove-trailing-separator/-/remove-trailing-separator-1.1.0.tgz#c24bce2a283adad5bc3f58e0d48249b92379d8ef"
   integrity sha1-wkvOKig62tW8P1jg1IJJuSN52O8=
 
-renovate@^32.216.0:
-  version "32.216.0"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.216.0.tgz#b553c46b2e97a28066b274e5c3d258ccadc5a83e"
-  integrity sha512-FWXVL1nnSpu00/0+05MM2kz1OvggDEHQw5vTC0iAViZRxlqjnh7GeyfBdK0Lh9KDz+xbKFHLJOuyUXpbAzXf+A==
+renovate@^32.221.1:
+  version "32.221.1"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.221.1.tgz#49126258982be911b794b837779360691c75ade0"
+  integrity sha512-/NjdrlFrHKnhQ6JZ4vc1n976XF3j1NQQaJKeadWNqTPmVDAKZ3qjdokz5ont+j34JVwmaWNAUXelyM+SrS1/3g==
   dependencies:
     "@aws-sdk/client-ec2" "3.155.0"
     "@aws-sdk/client-ecr" "3.154.0"
@@ -9882,7 +9882,7 @@ renovate@^32.216.0:
     detect-indent "6.1.0"
     editorconfig "0.15.3"
     email-addresses "5.0.0"
-    emoji-regex "10.1.0"
+    emoji-regex "10.2.1"
     emojibase "6.1.0"
     emojibase-regex "6.0.1"
     extract-zip "2.0.1"
