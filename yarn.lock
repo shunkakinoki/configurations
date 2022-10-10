@@ -8072,6 +8072,11 @@ moo@0.5.1:
   resolved "https://registry.yarnpkg.com/moo/-/moo-0.5.1.tgz#7aae7f384b9b09f620b6abf6f74ebbcd1b65dbc4"
   integrity sha512-I1mnb5xn4fO80BH9BLcF0yLypy2UKl+Cb01Fu0hJRkJjlCRtxZMWkTdAtDd5ZqCOxtCkhmRwyI57vWT+1iZ67w==
 
+moo@0.5.2:
+  version "0.5.2"
+  resolved "https://registry.yarnpkg.com/moo/-/moo-0.5.2.tgz#f9fe82473bc7c184b0d32e2215d3f6e67278733c"
+  integrity sha512-iSAJLHYKnX41mKcJKjqvnAN9sf0LMDTXDEvFv+ffuRR9a1MIuXLjMNL6EsnDHSkKLTWNqQQ5uo61P4EbU4NU+Q==
+
 ms@*, ms@^2.0.0, ms@^2.1.1:
   version "2.1.3"
   resolved "https://registry.yarnpkg.com/ms/-/ms-2.1.3.tgz#574c8138ce1d2b5861f0b44579dbadd60c6615b2"
@@ -9833,10 +9838,10 @@ remove-trailing-separator@^1.0.1:
   resolved "https://registry.yarnpkg.com/remove-trailing-separator/-/remove-trailing-separator-1.1.0.tgz#c24bce2a283adad5bc3f58e0d48249b92379d8ef"
   integrity sha1-wkvOKig62tW8P1jg1IJJuSN52O8=
 
-renovate@^32.230.0:
-  version "32.230.0"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.230.0.tgz#3c70bb931fcc176e11dcf0b57f419d233a9d9c65"
-  integrity sha512-X3Obp45y5A3c7Zreoagnnmtofqh8jGbk9QVD/hkqx2xGH36P+tKKUk2HVRq0QhnQ4Ht8Mk+IQjdAVY9DraMQfQ==
+renovate@^32.231.1:
+  version "32.231.1"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.231.1.tgz#7eb151f2b525fb0cbab2484cef19bb5b0952a64e"
+  integrity sha512-MyFg72AqztpJs6x3qtUGIUhfJu32cniSV1MHMqhriWJHQA3KDn3w9GlGlLOULCYv2SJlHk07clKNQ3aNnZhbiw==
   dependencies:
     "@aws-sdk/client-ec2" "3.155.0"
     "@aws-sdk/client-ecr" "3.154.0"
@@ -9897,7 +9902,7 @@ renovate@^32.230.0:
     markdown-table "2.0.0"
     marshal "0.5.4"
     minimatch "5.1.0"
-    moo "0.5.1"
+    moo "0.5.2"
     nanoid "3.3.4"
     node-html-parser "6.1.1"
     openpgp "5.5.0"
