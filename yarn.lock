@@ -9263,6 +9263,11 @@ p-retry@^4.0.0:
     "@types/retry" "^0.12.0"
     retry "^0.13.1"
 
+p-throttle@4.1.1:
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/p-throttle/-/p-throttle-4.1.1.tgz#80b1fbd358af40a8bfa1667f9dc8b72b714ad692"
+  integrity sha512-TuU8Ato+pRTPJoDzYD4s7ocJYcNSEZRvlxoq3hcPI2kZDZ49IQ1Wkj7/gDJc3X7XiEAAvRGtDzdXJI0tC3IL1g==
+
 p-timeout@^3.2.0:
   version "3.2.0"
   resolved "https://registry.yarnpkg.com/p-timeout/-/p-timeout-3.2.0.tgz#c7e17abc971d2a7962ef83626b35d635acf23dfe"
@@ -10170,10 +10175,10 @@ remove-trailing-separator@^1.0.1:
   resolved "https://registry.yarnpkg.com/remove-trailing-separator/-/remove-trailing-separator-1.1.0.tgz#c24bce2a283adad5bc3f58e0d48249b92379d8ef"
   integrity sha1-wkvOKig62tW8P1jg1IJJuSN52O8=
 
-renovate@^33.2.4:
-  version "33.2.4"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-33.2.4.tgz#d8dbbfded5432dbdd90bae45262e592aa9af2801"
-  integrity sha512-+E1WsDAw53d8exsAvPEoy9Zbslf9J0gyx0gjIMquK4IbBxO0ZczOAffk3aQsRnLOC9lBP//t3xVJFNqZmkHSMg==
+renovate@^34.1.2:
+  version "34.1.2"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-34.1.2.tgz#fcd98b490ed0cce938b66ceba567747c32e6a2e8"
+  integrity sha512-whNq2l0LwqkLtTWSIna9f9B/HU0gOcV1lv8T7s4y82gf9fjtrReYq6UN21oEQCg4pesdkyvGVwFhHOcmBpEi/A==
   dependencies:
     "@aws-sdk/client-codecommit" "3.154.0"
     "@aws-sdk/client-ec2" "3.155.0"
@@ -10254,6 +10259,7 @@ renovate@^33.2.4:
     p-all "3.0.0"
     p-map "4.0.0"
     p-queue "6.6.2"
+    p-throttle "4.1.1"
     parse-link-header "2.0.0"
     prettier "2.7.1"
     quick-lru "5.1.1"
