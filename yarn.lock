@@ -7859,6 +7859,11 @@ luxon@3.0.4:
   resolved "https://registry.yarnpkg.com/luxon/-/luxon-3.0.4.tgz#d179e4e9f05e092241e7044f64aaa54796b03929"
   integrity sha512-aV48rGUwP/Vydn8HT+5cdr26YYQiUZ42NM6ToMoaGKwYfWbfLeRkEu1wXWMHBZT6+KyLfcbbtVcoQFCbbPjKlw==
 
+luxon@3.1.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/luxon/-/luxon-3.1.0.tgz#9ac33d7142b7ea18d4ec8583cdeb0b079abef60d"
+  integrity sha512-7w6hmKC0/aoWnEsmPCu5Br54BmbmUp5GfcqBxQngRcXJ+q5fdfjEzn7dxmJh2YdDhgW8PccYtlWKSv4tQkrTQg==
+
 magic-string@^0.25.7:
   version "0.25.7"
   resolved "https://registry.yarnpkg.com/magic-string/-/magic-string-0.25.7.tgz#3f497d6fd34c669c6798dcb821f2ef31f5445051"
@@ -10177,10 +10182,10 @@ remove-trailing-separator@^1.0.1:
   resolved "https://registry.yarnpkg.com/remove-trailing-separator/-/remove-trailing-separator-1.1.0.tgz#c24bce2a283adad5bc3f58e0d48249b92379d8ef"
   integrity sha1-wkvOKig62tW8P1jg1IJJuSN52O8=
 
-renovate@^34.20.0:
-  version "34.20.0"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-34.20.0.tgz#c194e1783b60b91d3566a1dccd55971b387eab77"
-  integrity sha512-Rt/kGoBRbrIOaOcR24aC+LA795NNrOaDhd12d1fZ/Y76yeTHs3Si2ShVmkeus1K+K+uOykgWZsY0C3VCSO03WQ==
+renovate@^34.20.1:
+  version "34.20.1"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-34.20.1.tgz#a2cb8d3c3fbe8a6c5c4e63ba1a0957e562e6505d"
+  integrity sha512-pLnLAkPfi7BIL8Dx9+8+GOy8zaROGTeo483Peaqzp+jJpdPtIa1e5i+Sr1qZbjoC5LyWAnXZb8ZWLDmsKMCZ+A==
   dependencies:
     "@aws-sdk/client-codecommit" "3.154.0"
     "@aws-sdk/client-ec2" "3.155.0"
@@ -10249,7 +10254,7 @@ renovate@^34.20.0:
     json-dup-key-validator "1.0.3"
     json-stringify-pretty-compact "3.0.0"
     json5 "2.2.1"
-    luxon "3.0.4"
+    luxon "3.1.0"
     markdown-it "13.0.1"
     markdown-table "2.0.0"
     marshal "0.5.4"
@@ -10276,7 +10281,7 @@ renovate@^34.20.0:
     simple-git "3.14.1"
     slugify "1.6.5"
     traverse "0.6.7"
-    tslib "2.4.0"
+    tslib "2.4.1"
     upath "2.0.1"
     url-join "4.0.1"
     validate-npm-package-name "5.0.0"
@@ -11612,6 +11617,11 @@ tslib@2.4.0, tslib@^2.4.0:
   version "2.4.0"
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.4.0.tgz#7cecaa7f073ce680a05847aa77be941098f36dc3"
   integrity sha512-d6xOpEDfsi2CZVlPQzGeux8XMwLT9hssAsaPYExaQMuYskwb+x1x7J371tWlbBdWHroy99KnVB6qIkUbs5X3UQ==
+
+tslib@2.4.1:
+  version "2.4.1"
+  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.4.1.tgz#0d0bfbaac2880b91e22df0768e55be9753a5b17e"
+  integrity sha512-tGyy4dAjRIEwI7BzsB0lynWgOpfqjUdq91XXAlIWD2OwKBH7oCl/GZG/HT4BOHrTlPMOASlMQ7veyTqpmRcrNA==
 
 tslib@^1.11.1, tslib@^1.13.0, tslib@^1.8.1, tslib@^1.9.0:
   version "1.14.1"
