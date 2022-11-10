@@ -22,7 +22,7 @@
   "dependencies": {
     "commitizen": "^4.2.5",
     "git-cz": "^4.9.0",
-    "husky": "^8.0.1",
+    "husky": "^8.0.2",
     "is-ci": "^3.0.1",
     "pinst": "^3.0.0"
   },
