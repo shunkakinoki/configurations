@@ -20,7 +20,7 @@
     "fix": "cd ../.. && yarn run fix"
   },
   "dependencies": {
-    "lint-staged": "^13.0.3"
+    "lint-staged": "^13.0.4"
   },
   "publishConfig": {
     "access": "public",
