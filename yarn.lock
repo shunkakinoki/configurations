@@ -9806,12 +9806,7 @@ prettier-plugin-sort-json@^0.0.3:
   dependencies:
     "@types/prettier" "^2.3.2"
 
-prettier@2.7.1:
-  version "2.7.1"
-  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.7.1.tgz#e235806850d057f97bb08368a4f7d899f7760c64"
-  integrity sha512-ujppO+MkdPqoVINuDFDRLClm7D78qbDt0/NR+wp5FqEZOoTNAjPHWj17QRhu7geIHJfcNhRk1XVQmF8Bp3ye+g==
-
-prettier@^2.8.0:
+prettier@2.8.0, prettier@^2.8.0:
   version "2.8.0"
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.8.0.tgz#c7df58393c9ba77d6fba3921ae01faf994fb9dc9"
   integrity sha512-9Lmg8hTFZKG0Asr/kW9Bp8tJjRVluO8EJQVfY2T7FMw9T5jy4I/Uvx0Rca/XWf50QQ1/SS48+6IJWnrb+2yemA==
@@ -10276,10 +10271,10 @@ remove-trailing-separator@^1.0.1:
   resolved "https://registry.yarnpkg.com/remove-trailing-separator/-/remove-trailing-separator-1.1.0.tgz#c24bce2a283adad5bc3f58e0d48249b92379d8ef"
   integrity sha1-wkvOKig62tW8P1jg1IJJuSN52O8=
 
-renovate@^34.40.2:
-  version "34.40.2"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-34.40.2.tgz#7a3cf1c7664ef574a608029d9c147db2eaaccbda"
-  integrity sha512-+hsvIkHYHi6hapCWvVkn1bDBtHXrN7dtyllQPZfifSAmBgqMafiOi68mhzgy07vDjp88rATCBRXcmCCPF6QAKA==
+renovate@^34.42.0:
+  version "34.42.0"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-34.42.0.tgz#c13f17c9e425704c1bfe5955f7fc6c2925e16b14"
+  integrity sha512-tSnZ8KxXfcFN/qbXZkhwHAUn7x/DzBcS6atIWYmRTA/Zguv2I3FQeo0vjRUrzfJHsJ73PH+2HtLxZsvsIL2Jtw==
   dependencies:
     "@aws-sdk/client-codecommit" "3.154.0"
     "@aws-sdk/client-ec2" "3.155.0"
@@ -10362,7 +10357,7 @@ renovate@^34.40.2:
     p-queue "6.6.2"
     p-throttle "4.1.1"
     parse-link-header "2.0.0"
-    prettier "2.7.1"
+    prettier "2.8.0"
     quick-lru "5.1.1"
     redis "4.5.0"
     remark "13.0.0"
