@@ -20,7 +20,7 @@
     "fix": "cd ../.. && yarn run fix"
   },
   "dependencies": {
-    "commitizen": "^4.2.5",
+    "commitizen": "^4.2.6",
     "git-cz": "^4.9.0",
     "husky": "^8.0.2",
     "is-ci": "^3.0.1",
