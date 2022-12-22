@@ -22,7 +22,7 @@
   "dependencies": {
     "prettier": "^2.8.1",
     "prettier-plugin-packagejson": "^2.3.0",
-    "prettier-plugin-sort-json": "^0.0.3"
+    "prettier-plugin-sort-json": "^1.0.0"
   },
   "publishConfig": {
     "access": "public",
