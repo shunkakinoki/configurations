@@ -10420,10 +10420,10 @@ remove-trailing-separator@^1.0.1:
   resolved "https://registry.yarnpkg.com/remove-trailing-separator/-/remove-trailing-separator-1.1.0.tgz#c24bce2a283adad5bc3f58e0d48249b92379d8ef"
   integrity sha1-wkvOKig62tW8P1jg1IJJuSN52O8=
 
-renovate@^34.65.0:
-  version "34.65.0"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-34.65.0.tgz#4370212a4b8b9f93487288e302428de1b502eb36"
-  integrity sha512-lR3jvlhJORqdG8WbuKhXFgmOyrgxALYrrZDLJEDvp2nNB/xBo+hRkGk96Wo73GpvAnmFzH/WMMGBNS3xf0ozxQ==
+renovate@^34.70.0:
+  version "34.70.0"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-34.70.0.tgz#226aec8e9a733777a921038ebc1f17835aaff36d"
+  integrity sha512-LgunZF/K8zmBGBAcHjHKmCLcxSmetHcMf/7SlkFm4bHlyUOtaTaAl/hsyMI41g3L8IZ6mMmMc8nBo7WeJGb39Q==
   dependencies:
     "@aws-sdk/client-codecommit" "3.226.0"
     "@aws-sdk/client-ec2" "3.226.0"
@@ -10524,7 +10524,7 @@ renovate@^34.65.0:
     url-join "4.0.1"
     validate-npm-package-name "5.0.0"
     xmldoc "1.2.0"
-    zod "3.20.0"
+    zod "3.20.2"
   optionalDependencies:
     re2 "1.18.0"
 
@@ -12572,10 +12572,10 @@ yocto-queue@^0.1.0:
   resolved "https://registry.yarnpkg.com/yocto-queue/-/yocto-queue-0.1.0.tgz#0294eb3dee05028d31ee1a5fa2c556a6aaf10a1b"
   integrity sha512-rVksvsnNCdJ/ohGc6xgPwyN8eheCxsiLM8mxuE/t/mOVqJewPuO1miLpTHQiRgTKCLexL4MeAFVagts7HmNZ2Q==
 
-zod@3.20.0:
-  version "3.20.0"
-  resolved "https://registry.yarnpkg.com/zod/-/zod-3.20.0.tgz#999f50f41c7c69569c77721c9372987991ba1c3a"
-  integrity sha512-ZWxs7oM5ixoo1BMoxTNeDMYSih/F/FUnExsnRtHT04rG6q0Bd74TKS45RGXw07TOalOZyyzdKaYH38k8yTEv9A==
+zod@3.20.2:
+  version "3.20.2"
+  resolved "https://registry.yarnpkg.com/zod/-/zod-3.20.2.tgz#068606642c8f51b3333981f91c0a8ab37dfc2807"
+  integrity sha512-1MzNQdAvO+54H+EaK5YpyEy0T+Ejo/7YLHS93G3RnYWh5gaotGHwGeN/ZO687qEDU2y4CdStQYXVHIgrUl5UVQ==
 
 zwitch@^1.0.0:
   version "1.0.5"
