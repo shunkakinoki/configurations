@@ -6426,10 +6426,10 @@ globrex@^0.1.2:
   resolved "https://registry.yarnpkg.com/globrex/-/globrex-0.1.2.tgz#dd5d9ec826232730cd6793a5e33a9302985e6098"
   integrity sha512-uHJgbwAMwNFf5mLst7IWLNg14x1CkeqglJb/K3doi4dw6q2IvAAmM/Y81kevy83wP+Sst+nutFTYOGg3d1lsxg==
 
-good-enough-parser@1.1.21:
-  version "1.1.21"
-  resolved "https://registry.yarnpkg.com/good-enough-parser/-/good-enough-parser-1.1.21.tgz#92a799b7e0c02029e3457644db8c56cc8a270e60"
-  integrity sha512-XkTm6NC2z0AGkaTI3dgmNMgPoKC51Mu+TIXUyAWmp8xk5iC+6+JKBaQRwfr3/UNsU09VdPFdjMnjks/FWpU+Gw==
+good-enough-parser@1.1.22:
+  version "1.1.22"
+  resolved "https://registry.yarnpkg.com/good-enough-parser/-/good-enough-parser-1.1.22.tgz#1fcab50b385ead49cb89a847868631d588bc5716"
+  integrity sha512-fI4qWIeyqjleGazMcXnqgtvG8qBJGUoj5CtraqaUpZmk94ztMab6irx3Yz+EsJKKgIrwkSBM69WHLngfhAe7hg==
   dependencies:
     "@thi.ng/zipper" "1.0.3"
     "@types/moo" "0.5.5"
@@ -10425,10 +10425,10 @@ remove-trailing-separator@^1.0.1:
   resolved "https://registry.yarnpkg.com/remove-trailing-separator/-/remove-trailing-separator-1.1.0.tgz#c24bce2a283adad5bc3f58e0d48249b92379d8ef"
   integrity sha1-wkvOKig62tW8P1jg1IJJuSN52O8=
 
-renovate@^34.82.2:
-  version "34.82.2"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-34.82.2.tgz#4d2f224936bb97926b3fd60c6065bf34aaad0390"
-  integrity sha512-IIfH/80Xmdv/rYsAmoDnJOi0PJtN176zVdCrGinmz5Rb3d5s8zn5xJ0nlnHRmv0KukGtcz9OrRKEMjCAbYOscQ==
+renovate@^34.83.1:
+  version "34.83.1"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-34.83.1.tgz#83c720025144204eafd065e9a6c7598a9b63168e"
+  integrity sha512-do5oxsX4Nbio0mXGjbzDD0cUEFZXCZELukyqEsdNV8C+SjnHhiXqglNGQJpETmMsS9yNl0hxEHFqeXolgM7qRw==
   dependencies:
     "@aws-sdk/client-codecommit" "3.226.0"
     "@aws-sdk/client-ec2" "3.226.0"
@@ -10486,7 +10486,7 @@ renovate@^34.82.2:
     git-url-parse "13.1.0"
     github-url-from-git "1.5.0"
     global-agent "3.0.0"
-    good-enough-parser "1.1.21"
+    good-enough-parser "1.1.22"
     got "11.8.6"
     graph-data-structure "2.0.0"
     handlebars "4.7.7"
