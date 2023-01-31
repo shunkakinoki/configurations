@@ -2521,15 +2521,15 @@
     got "^11.8.6"
     luxon "^3.2.1"
 
-"@renovatebot/pep440@2.1.10":
-  version "2.1.10"
-  resolved "https://registry.yarnpkg.com/@renovatebot/pep440/-/pep440-2.1.10.tgz#de0c4a57a3915f771737d28ae1895ff664e63f17"
-  integrity sha512-wGRb3lbStkAQMHP5BFiFAE4hjb4GbOB4zxzfQsHtpRQG4175ZTAxI5jiotXLR4n0PvPGIFjDZWUNdhue9ONs4Q==
+"@renovatebot/pep440@2.1.11":
+  version "2.1.11"
+  resolved "https://registry.yarnpkg.com/@renovatebot/pep440/-/pep440-2.1.11.tgz#332e24bb572f327f13f92f0e967a747acae5367b"
+  integrity sha512-w01DITR34gk8ZVL+bi5qorlJ/3ZuwP172l8+lMyv9YSkRfI+ah8kDkXeOAZj/Dk88YvbAMWnv+isSCd2Q20hkQ==
 
-"@renovatebot/ruby-semver@2.1.4":
-  version "2.1.4"
-  resolved "https://registry.yarnpkg.com/@renovatebot/ruby-semver/-/ruby-semver-2.1.4.tgz#96b79cfdbcc52fe86350b4068cd1af4a1cad9c66"
-  integrity sha512-HskQQ+g7ZdZO1L+3j8+z3e5o+cS2tb5UETW4Zh4wdhEZ/as8vaSJ2noARVwZuNimBUSyAi79j4UDGv8XlbFdag==
+"@renovatebot/ruby-semver@2.1.5":
+  version "2.1.5"
+  resolved "https://registry.yarnpkg.com/@renovatebot/ruby-semver/-/ruby-semver-2.1.5.tgz#57e27164695bf1547ddc6198dbad90d1b339fd4a"
+  integrity sha512-HksNRmc6nG161SsXoyjNDAwNUwGNkuLSsYAGQj1tT8XAxDSlTnyxNZZfBu7nEht6MD41940aNj/NlFEUev+BDA==
   dependencies:
     tslib "^2.4.1"
 
@@ -10786,10 +10786,10 @@ remove-trailing-separator@^1.0.1:
   resolved "https://registry.yarnpkg.com/remove-trailing-separator/-/remove-trailing-separator-1.1.0.tgz#c24bce2a283adad5bc3f58e0d48249b92379d8ef"
   integrity sha1-wkvOKig62tW8P1jg1IJJuSN52O8=
 
-renovate@^34.116.1:
-  version "34.116.1"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-34.116.1.tgz#5c15c968869db2a5b10e1e69b041d260406a820d"
-  integrity sha512-iEeOzu7Nadyq5K4kpIt4/MzVXnhv8fmTOY+iuMObp82rmYG+WxZDyWZf1uGEfokG0QqaTF8Fs/bRDUsL8/iDBQ==
+renovate@^34.118.0:
+  version "34.118.0"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-34.118.0.tgz#f82b09c097cd9c69b5ab1d497593a0ea965b65c0"
+  integrity sha512-iGYndFoHIKUUqf8mqtUGF1IPdwesZUu/Y8y8ZjI/ruihukieQ7cUuGP/xquEf1dhHk50dMNRdwpLSv6YrbmR9Q==
   dependencies:
     "@aws-sdk/client-codecommit" "3.256.0"
     "@aws-sdk/client-ec2" "3.256.0"
@@ -10812,8 +10812,8 @@ renovate@^34.116.1:
     "@opentelemetry/semantic-conventions" "1.9.0"
     "@qnighy/marshal" "0.1.3"
     "@renovatebot/osv-offline" "1.1.5"
-    "@renovatebot/pep440" "2.1.10"
-    "@renovatebot/ruby-semver" "2.1.4"
+    "@renovatebot/pep440" "2.1.11"
+    "@renovatebot/ruby-semver" "2.1.5"
     "@sindresorhus/is" "4.6.0"
     "@types/tmp" "0.2.3"
     "@yarnpkg/core" "3.3.1"
