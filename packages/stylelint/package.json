@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "stylelint": "^15.0.0",
-    "stylelint-config-standard": "^29.0.0"
+    "stylelint-config-standard": "^30.0.1"
   },
   "publishConfig": {
     "access": "public",
