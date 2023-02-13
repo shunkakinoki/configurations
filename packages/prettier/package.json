@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "prettier": "^2.8.4",
-    "prettier-plugin-packagejson": "^2.4.2",
+    "prettier-plugin-packagejson": "^2.4.3",
     "prettier-plugin-sort-json": "^1.0.0"
   },
   "publishConfig": {
