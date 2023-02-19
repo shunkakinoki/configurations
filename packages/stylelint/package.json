@@ -20,7 +20,7 @@
     "fix": "cd ../.. && yarn run fix"
   },
   "dependencies": {
-    "stylelint": "^15.1.0",
+    "stylelint": "^15.2.0",
     "stylelint-config-standard": "^30.0.1"
   },
   "publishConfig": {
