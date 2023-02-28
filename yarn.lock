@@ -6654,10 +6654,10 @@ graceful-fs@^4.1.2, graceful-fs@^4.1.5, graceful-fs@^4.1.6, graceful-fs@^4.2.0, 
   resolved "https://registry.yarnpkg.com/graceful-fs/-/graceful-fs-4.2.6.tgz#ff040b2b0853b23c3d31027523706f1885d76bee"
   integrity sha512-nTnJ528pbqxYanhpDYsi4Rd8MAeaBA67+RZ10CM1m3bTAVFEDcd5AuA4a6W5YkGZ1iNXHzZz8T6TBKLeBuNriQ==
 
-graph-data-structure@3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/graph-data-structure/-/graph-data-structure-3.1.1.tgz#9c45dbd61ff22f2cbf1790c888d6fdff85c5c1c8"
-  integrity sha512-8hN+cbuxQPX16u6XsNHD365ywgsizdb3/4EQgCADNb/XUpqIWSNfZ2oCuEs59kn0XezVaxz/LK7oJ+kOE7wmMQ==
+graph-data-structure@3.2.0:
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/graph-data-structure/-/graph-data-structure-3.2.0.tgz#db7886a69a2073c76291eef75c973d532eea3b48"
+  integrity sha512-GtMD5xvFX947d04IzH0dIPnncglFVQKZpLqLb0jy7OM+dMcm4gY9QNAUfHJryNc0Gd0cSvlMfwulUQ/CPyGczg==
 
 grapheme-splitter@^1.0.4:
   version "1.0.4"
@@ -10765,10 +10765,10 @@ remove-trailing-separator@^1.0.1:
   resolved "https://registry.yarnpkg.com/remove-trailing-separator/-/remove-trailing-separator-1.1.0.tgz#c24bce2a283adad5bc3f58e0d48249b92379d8ef"
   integrity sha1-wkvOKig62tW8P1jg1IJJuSN52O8=
 
-renovate@^34.152.4:
-  version "34.152.4"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-34.152.4.tgz#2537fc9e182f1bf656fb1cdb7fbd9c29b5545cd8"
-  integrity sha512-OAp8+efqu73jTpLf8F9gNdP77pVlIbDg3KDtINJBWQZCf8xqoOw1BcSGfAmNd/i+uLqsWiKt3WxRLoBk4i8NpA==
+renovate@^34.153.2:
+  version "34.153.2"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-34.153.2.tgz#f08dfbc7d3c9c42bf8e0150de171d1a66c554d43"
+  integrity sha512-VSx+tG0o1wFEjNPyFN3SONIWfGhkV2y+6l+Z1e0o+mpAuWWSXxcM2HdzhMHiLzOpy0LM2Mx+6sC/wRd80gh2Sw==
   dependencies:
     "@aws-sdk/client-codecommit" "3.256.0"
     "@aws-sdk/client-ec2" "3.256.0"
@@ -10830,7 +10830,7 @@ renovate@^34.152.4:
     global-agent "3.0.0"
     good-enough-parser "1.1.22"
     got "11.8.6"
-    graph-data-structure "3.1.1"
+    graph-data-structure "3.2.0"
     handlebars "4.7.7"
     hasha "5.2.2"
     hcl2-parser "1.0.3"
