@@ -2499,10 +2499,10 @@
   resolved "https://registry.yarnpkg.com/@renovatebot/pep440/-/pep440-2.1.13.tgz#d630989b6abf9dd001edc526cf3e821450e6e45d"
   integrity sha512-PFnG9X7on77Gp9FPdossWfvDL6QTg1MafZP3hdKafo3n6SP89wiyZmjFVaQwlRlE5cEmZQwh11dE8Oos9H2paw==
 
-"@renovatebot/ruby-semver@2.1.8":
-  version "2.1.8"
-  resolved "https://registry.yarnpkg.com/@renovatebot/ruby-semver/-/ruby-semver-2.1.8.tgz#8dd7cf4452c9660a7b8ac07852c53708040c1af0"
-  integrity sha512-yyCLzrwpKLoFZMwt1Dl52699k/FB68qszrKYWY0HOWc+R3h2SmVkeXZIOChJep3bAEB2UHV42I3u6g1lI1NbGA==
+"@renovatebot/ruby-semver@2.1.9":
+  version "2.1.9"
+  resolved "https://registry.yarnpkg.com/@renovatebot/ruby-semver/-/ruby-semver-2.1.9.tgz#6edb8232a50d833157b17c8914468d3e301163dd"
+  integrity sha512-44udvdctC5SCjlPYIcyf7vDARlXE3tVRTfZ6/OHcSNBt5WCfMljP5T7QLekCslHZjXgPoep33TURuOfeLrV3Ag==
   dependencies:
     tslib "^2.5.0"
 
@@ -10760,10 +10760,10 @@ remove-trailing-separator@^1.0.1:
   resolved "https://registry.yarnpkg.com/remove-trailing-separator/-/remove-trailing-separator-1.1.0.tgz#c24bce2a283adad5bc3f58e0d48249b92379d8ef"
   integrity sha1-wkvOKig62tW8P1jg1IJJuSN52O8=
 
-renovate@^34.158.0:
-  version "34.158.0"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-34.158.0.tgz#f876ab537a1fcf89471b38ef46ac9483d2809d93"
-  integrity sha512-eDL7RSoFi/KIbDCpqWtzGHcgl1Dg7RgE7CKp+puyxTjZxsHjldH8zUa6D/FEnQA3Re/wuga0GQgGDRJEhaMWhw==
+renovate@^34.158.2:
+  version "34.158.2"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-34.158.2.tgz#31b5d5123d22c9146b55c24eaf57ba85ab449812"
+  integrity sha512-Sfzbryvd7gx+TtOCJsPtHVgFlpMbhH8O+qOKQ0dvKtibBAn8nHHjP2H8Lh5qxbog65IVt/7YfNc7SImXaZ4OqQ==
   dependencies:
     "@aws-sdk/client-codecommit" "3.282.0"
     "@aws-sdk/client-ec2" "3.282.0"
@@ -10787,7 +10787,7 @@ renovate@^34.158.0:
     "@qnighy/marshal" "0.1.3"
     "@renovatebot/osv-offline" "1.2.1"
     "@renovatebot/pep440" "2.1.13"
-    "@renovatebot/ruby-semver" "2.1.8"
+    "@renovatebot/ruby-semver" "2.1.9"
     "@sindresorhus/is" "4.6.0"
     "@types/ms" "0.7.31"
     "@types/tmp" "0.2.3"
