@@ -4847,10 +4847,10 @@ deep-is@^0.1.3:
   resolved "https://registry.yarnpkg.com/deep-is/-/deep-is-0.1.3.tgz#b369d6fb5dbc13eecf524f91b070feedc357cf34"
   integrity sha1-s2nW+128E+7PUk+RsHD+7cNXzzQ=
 
-deepmerge@4.3.0:
-  version "4.3.0"
-  resolved "https://registry.yarnpkg.com/deepmerge/-/deepmerge-4.3.0.tgz#65491893ec47756d44719ae520e0e2609233b59b"
-  integrity sha512-z2wJZXrmeHdvYJp/Ux55wIjqo81G5Bp4c+oELTW+7ar6SogWHajt5a9gO3s3IDaGSAXjDk0vlQKN3rms8ab3og==
+deepmerge@4.3.1:
+  version "4.3.1"
+  resolved "https://registry.yarnpkg.com/deepmerge/-/deepmerge-4.3.1.tgz#44b5f2147cd3b00d4b56137685966f26fd25dd4a"
+  integrity sha512-3sUqbMEc77XqpdNO7FRyRog+eW3ph+GYCbj+rK+uYyRMuwsVy0rMiVtPn+QJlKFvWP/1PYpapqYn0Me2knFn+A==
 
 defaults@^1.0.3:
   version "1.0.3"
@@ -10843,10 +10843,10 @@ remove-trailing-separator@^1.0.1:
   resolved "https://registry.yarnpkg.com/remove-trailing-separator/-/remove-trailing-separator-1.1.0.tgz#c24bce2a283adad5bc3f58e0d48249b92379d8ef"
   integrity sha1-wkvOKig62tW8P1jg1IJJuSN52O8=
 
-renovate@^35.18.0:
-  version "35.18.0"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-35.18.0.tgz#e2149bca759ca37b2eee67d5013e3351d945e5ba"
-  integrity sha512-sFjzXLEfPj8QG9R49kRpRVBIedkHugP/TScU4WF1c92fV0rUFo7oLRibLG8UM9PjKNGWTTz7ZlJ1fDp3K/9/Xg==
+renovate@^35.22.1:
+  version "35.22.1"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-35.22.1.tgz#dba1212a609de2aaab78083422b9ecc02d55dda4"
+  integrity sha512-nvZLZwYK/Uzax0CZwchL7x9T2f4F/otTXyzEWXn0Xq+wYhniGVn4OpJSHMipx514oICGO2vlXwZ9wqzlITHtcw==
   dependencies:
     "@aws-sdk/client-codecommit" "3.290.0"
     "@aws-sdk/client-ec2" "3.291.0"
@@ -10890,7 +10890,7 @@ renovate@^35.18.0:
     commander "10.0.0"
     conventional-commits-detector "1.0.3"
     crypto-random-string "3.3.1"
-    deepmerge "4.3.0"
+    deepmerge "4.3.1"
     delay "5.0.0"
     dequal "2.0.3"
     detect-indent "6.1.0"
