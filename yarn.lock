@@ -4054,14 +4054,14 @@ cacache@*, cacache@^15.3.0:
     tar "^6.0.2"
     unique-filename "^1.1.1"
 
-cacache@17.0.4:
-  version "17.0.4"
-  resolved "https://registry.yarnpkg.com/cacache/-/cacache-17.0.4.tgz#5023ed892ba8843e3b7361c26d0ada37e146290c"
-  integrity sha512-Z/nL3gU+zTUjz5pCA5vVjYM8pmaw2kxM7JEiE0fv3w77Wj+sFbi70CrBruUWH0uNcEdvLDixFpgA2JM4F4DBjA==
+cacache@17.0.5, cacache@^17.0.4:
+  version "17.0.5"
+  resolved "https://registry.yarnpkg.com/cacache/-/cacache-17.0.5.tgz#6dbec26c11f1f6a2b558bc11ed3316577c339ebc"
+  integrity sha512-Y/PRQevNSsjAPWykl9aeGz8Pr+OI6BYM9fYDNMvOkuUiG9IhG4LEmaYrZZZvioMUEQ+cBCxT0v8wrnCURccyKA==
   dependencies:
     "@npmcli/fs" "^3.1.0"
     fs-minipass "^3.0.0"
-    glob "^8.0.1"
+    glob "^9.3.1"
     lru-cache "^7.7.1"
     minipass "^4.0.0"
     minipass-collect "^1.0.2"
@@ -4115,25 +4115,6 @@ cacache@^17.0.0:
     ssri "^9.0.0"
     tar "^6.1.11"
     unique-filename "^2.0.0"
-
-cacache@^17.0.4:
-  version "17.0.5"
-  resolved "https://registry.yarnpkg.com/cacache/-/cacache-17.0.5.tgz#6dbec26c11f1f6a2b558bc11ed3316577c339ebc"
-  integrity sha512-Y/PRQevNSsjAPWykl9aeGz8Pr+OI6BYM9fYDNMvOkuUiG9IhG4LEmaYrZZZvioMUEQ+cBCxT0v8wrnCURccyKA==
-  dependencies:
-    "@npmcli/fs" "^3.1.0"
-    fs-minipass "^3.0.0"
-    glob "^9.3.1"
-    lru-cache "^7.7.1"
-    minipass "^4.0.0"
-    minipass-collect "^1.0.2"
-    minipass-flush "^1.0.5"
-    minipass-pipeline "^1.2.4"
-    p-map "^4.0.0"
-    promise-inflight "^1.0.1"
-    ssri "^10.0.0"
-    tar "^6.1.11"
-    unique-filename "^3.0.0"
 
 cacheable-lookup@5.0.4, cacheable-lookup@^5.0.3:
   version "5.0.4"
@@ -11499,10 +11480,10 @@ remove-trailing-separator@^1.0.1:
   resolved "https://registry.yarnpkg.com/remove-trailing-separator/-/remove-trailing-separator-1.1.0.tgz#c24bce2a283adad5bc3f58e0d48249b92379d8ef"
   integrity sha1-wkvOKig62tW8P1jg1IJJuSN52O8=
 
-renovate@^35.24.3:
-  version "35.24.3"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-35.24.3.tgz#41105b32aa9098e4de596c8294a7d1daff34f0b0"
-  integrity sha512-2ctxrJtjcTyrpaee60KvSNoMvMegfVV9VyKdLksopgbWQuUXtqKQ1T7EiCu0/kTvy6j7YADrDLNytMqZhR+IWg==
+renovate@^35.24.5:
+  version "35.24.5"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-35.24.5.tgz#27b720fffc64eff24233a54a2a3e861856b12fce"
+  integrity sha512-vpcIHVjLvyvDCu6Xd9aQlBEpXsOL8y/t4R2z89yBNOgu6U3qyUYyO8bzXpBPfjHKW/SoxUoCTaxJ0iNjIBth4w==
   dependencies:
     "@aws-sdk/client-codecommit" "3.290.0"
     "@aws-sdk/client-ec2" "3.291.0"
@@ -11538,7 +11519,7 @@ renovate@^35.24.3:
     aws4 "1.12.0"
     azure-devops-node-api "12.0.0"
     bunyan "1.8.15"
-    cacache "17.0.4"
+    cacache "17.0.5"
     cacheable-lookup "5.0.4"
     chalk "4.1.2"
     changelog-filename-regex "2.0.1"
